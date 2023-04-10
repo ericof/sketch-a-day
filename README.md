@@ -2,7 +2,17 @@
 
 This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](https://abav.lugaralgum.com/sketch-a-day/)
 
-## Installation
+
+## Gallery
+
+| | |
+| -- | -- |
+| ![2023-04-07](./images/2023-04-07.jpg "Divergente") | ![2023-04-08](./images/2023-04-08.jpg "Ensaio sobre π: 1") |
+| ![2023-04-09](./images/2023-04-09.jpg "Ensaio sobre π: 2") | ![2023-04-10](./images/2023-04-10.jpg "Ensaio sobre π: 3") |
+
+## Installation (macos)
+
+Py5 requires a working Java (and Cairo for SVG support), so install them using `brew`
 
 ```shell
 brew install cairo openjdk@17
