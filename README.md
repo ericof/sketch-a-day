@@ -9,6 +9,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | -- | -- |
 | ![2023-04-07](./images/2023-04-07.jpg "Divergente") | ![2023-04-08](./images/2023-04-08.jpg "Ensaio sobre π: 1") |
 | ![2023-04-09](./images/2023-04-09.jpg "Ensaio sobre π: 2") | ![2023-04-10](./images/2023-04-10.jpg "Ensaio sobre π: 3") |
+| ![2023-04-1](./images/2023-04-11.jpg "Ensaio sobre π: 4") |  |
 
 ## Installation (macos)
 
