@@ -1,2 +1,3 @@
 cairosvg
+opencv-python
 py5

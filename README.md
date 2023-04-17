@@ -12,6 +12,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-04-11](./images/2023-04-11.jpg "Ensaio sobre π: 4") | ![2023-04-12](./images/2023-04-12.jpg "Espiral de Ulam") |
 | ![2023-04-13](./images/2023-04-13.jpg "Espiral de Ulam v2") | ![2023-04-14](./images/2023-04-14.jpg "Bandeirolas 1") |
 | ![2023-04-15](./images/2023-04-15.gif "Bandeirolas 2") | ![2023-04-16](./images/2023-04-16.gif "Bandeirolas 3") |
+| ![2023-04-17](./images/2023-04-17.jpg "Elipses Florais 1") |  |
 
 ## Installation (macos)
 
