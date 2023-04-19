@@ -1,3 +1,4 @@
 cairosvg
 opencv-python
 py5
+scikit-learn
