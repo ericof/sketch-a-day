@@ -15,6 +15,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-04-17](./images/2023-04-17.jpg "Elipses Florais 1") | ![2023-04-18](./images/2023-04-18.jpg "Elipses Florais 2") |
 | ![2023-04-19](./images/2023-04-19.gif "Tempestade de Números 1") | ![2023-04-20](./images/2023-04-20.png "Circulares 1")|
 | ![2023-04-21](./images/2023-04-21.png "Espaçobolha") | ![2023-04-22](./images/2023-04-22.png "Cuore") |
+| ![2023-04-23](./images/2023-04-23.png "Crowded Cuore") | ![2023-04-24](./images/2023-04-24.png "Força") |
 
 ## Installation (macos)
 
