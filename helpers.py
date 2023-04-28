@@ -43,11 +43,12 @@ def save_gif(img_name, frames, duration: int = 200, loop=0):
     img_folder = folder / "Images"
     img_path = img_folder / f"{img_name}.gif"
     images = [Image.open(frame) for frame in frames]
-    images[0].save(
-        img_path,
-        save_all=True,
-        append_images=images[1:],
-        duration=duration,
-        loop=loop,
-        optimize=True,
-    )
+    kw = {
+        "save_all": True,
+        "append_images": images[1:],
+        "duration": duration,
+        "optimize": True,
+    }
+    if loop is not None:
+        kw["loop"] = loop
+    images[0].save(img_path, **kw)
