@@ -1,7 +1,7 @@
 from PIL import Image
 from pathlib import Path
+from random import choice
 import tempfile
-
 import py5
 
 
@@ -52,3 +52,54 @@ def save_gif(img_name, frames, duration: int = 200, loop=0):
     if loop is not None:
         kw["loop"] = loop
     images[0].save(img_path, **kw)
+
+
+class Celula:
+    """
+    nova = Celula(x, y, largura, [func_desenho0, func_desenho1, ...])
+    .desenha()    desenha celula na sua posição
+    .gira()       gira 90 graus
+    .sob_mouse()  True ou False se o mouse está sobre a célula
+    .espelha()    Inverte espelhamento
+    .muda_desenho()   Muda função de desenho para a próxima
+    .espelhada    Estado atual de espelhamento
+    .rot          Rotação atual
+    .func_ativa   Índice da função de desenho atual
+    """
+
+    def __init__(self, x, y, largura, funcs, cores):
+        self.x, self.y = x, y
+        self.largura = largura
+        self.funcs = funcs
+        self.func_ativa = choice(range(0, len(funcs)))
+        self.rot = choice(range(0, 360, 90))
+        self.espelhada = False
+        self.cores = cores
+        self.cor = choice(self.cores)
+
+    def desenha(self):
+        with py5.push_matrix():
+            py5.translate(self.x, self.y)
+            if self.espelhada:
+                py5.scale(-1, 1)
+            py5.rotate(py5.radians(self.rot))
+            funcao_desenho = self.funcs[self.func_ativa]
+            funcao_desenho(0, 0, self.largura, self.cor)
+
+    def sob_mouse(self, x, y):
+        return (
+            self.x - self.largura / 2 < x < self.x + self.largura / 2
+            and self.y - self.largura / 2 < y < self.y + self.largura / 2
+        )
+
+    def gira(self, rot=90):
+        self.rot = self.rot + rot if self.rot < 360 else rot
+
+    def muda_cor(self):
+        self.cor = choice(self.cores)
+
+    def muda_desenho(self, i=None):
+        self.func_ativa = (self.func_ativa + 1) % len(self.funcs) if i is None else i
+
+    def espelha(self):
+        self.espelhada = not self.espelhada
