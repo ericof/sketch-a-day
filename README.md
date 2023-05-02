@@ -19,7 +19,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-04-25](./images/2023-04-25.png "Mandala") | ![2023-04-26](./images/2023-04-26.png "World Plone Day") |
 | ![2023-04-27](./images/2023-04-27.png "Padrão") | ![2023-04-28](./images/2023-04-28.gif "Pulmão") |
 | ![2023-04-29](./images/2023-04-29.png "Ladrilhos") | ![2023-04-30](./images/2023-04-30.png "Ladrilhos (Athos Bulcão)") |
-| ![2023-05-01](./images/2023-05-01.gif "Pulmão") |  |
+| ![2023-05-01](./images/2023-05-01.gif "Pulmão 2") |  |
 
 ## Installation (macos)
 

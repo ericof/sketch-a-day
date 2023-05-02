@@ -12,7 +12,7 @@ import py5
 
 IMG_NAME = Path(__file__).name.replace(".py", "")
 
-FUNDO = py5.color(248, 241, 219)
+FUNDO = py5.color(248, 254, 200)
 
 PATH = tmp_path()
 
@@ -42,12 +42,12 @@ def shape(xi, yi, xf, yf, largura, cor):
     with py5.begin_shape():
         py5.vertex(xi0, yi)
         py5.vertex(xi1, yi)
-        for y in range(yi, yf, -2):
+        for y in range(yi, yf, -3):
             x = py5.random(-noise, noise) + xi1
             py5.vertex(x, y)
         py5.vertex(xf1, yf)
         py5.vertex(xf0, yf)
-        for y in range(yf, yi, 2):
+        for y in range(yf, yi, 3):
             x = py5.random(-noise, noise) + xf0
             py5.vertex(x, y)
 
@@ -55,12 +55,12 @@ def shape(xi, yi, xf, yf, largura, cor):
 def galho(y, tamanho, encurtamento, limite, atual=0):
     stroke_weight = tamanho / 10
     if stroke_weight < 1.2:
-        cor = (0, 200, 0)
+        cor = (60, 180, 0)
     else:
         cor = (66, 40, 14)
     shape(0, y, 0, y - tamanho, stroke_weight, cor)
     atual += 1
-    angulo = py5.radians(20)
+    angulo = py5.radians(17)
     if atual < limite and tamanho > 5:
         encurtamento -= 0.01
         with py5.push_matrix():
