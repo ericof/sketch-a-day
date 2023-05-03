@@ -19,8 +19,6 @@ noise_generator = OpenSimplex(seed=3268)
 noise_generator = OpenSimplex(seed=1975)
 
 # Constants
-WIDTH = 800
-HEIGHT = 800
 scale = 5
 cols = int(WIDTH / scale)
 rows = int(HEIGHT / scale)
