@@ -21,7 +21,7 @@ def write_legend(palette=None, img_name=""):
 
 
 def save_image(img_name, extension="jpg"):
-    folder = Path(__file__).parent.resolve()
+    folder = Path(__file__).parent.parent.resolve()
     img_folder = folder / "Images"
     img_path = img_folder / f"{img_name}.{extension}"
     img = py5.get(0, 0, WIDTH, HEIGHT)
