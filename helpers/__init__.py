@@ -39,7 +39,7 @@ def save_frame(tmp_path, img_name, frame) -> Path:
 
 
 def save_gif(img_name, frames, duration: int = 200, loop=0):
-    folder = Path(__file__).parent.resolve()
+    folder = Path(__file__).parent.parent.resolve()
     img_folder = folder / "Images"
     img_path = img_folder / f"{img_name}.gif"
     images = [Image.open(frame) for frame in frames]
