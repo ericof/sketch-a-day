@@ -23,6 +23,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-05-03](./images/2023-05-03.gif "Fluxo de cores 2") | ![2023-05-04](./images/2023-05-04.png "Fluxo de cores 3") |
 | ![2023-05-05](./images/2023-05-05.png "Ladrilhos 2") | ![2023-05-06](./images/2023-05-06.gif "Estudo sobre Polígonos")  |
 | ![2023-05-07](./images/2023-05-07.gif "Ladrilhos 3") | ![2023-05-08](./images/2023-05-08.png "Nostalgia") |
+| ![2023-05-07](./images/2023-05-09.png "Ladrilhos 4") |  |
 
 ## Installation (macos)
 
