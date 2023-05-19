@@ -28,6 +28,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-05-13](./images/2023-05-13.png "Barquinhos") | ![2023-05-14](./images/2023-05-14.png "Nostalgia 2") |
 | ![2023-05-15](./images/2023-05-15.gif "Estudo sobre Geometria") | ![2023-05-16](./images/2023-05-16.gif "Strange New Worlds 🖖🏽") |
 | ![2023-05-17](./images/2023-05-17.png "Estudo sobre Geometria 2") | ![2023-05-18](./images/2023-05-18.png "Estudo sobre Geometria 3") |
+| ![2023-05-19](./images/2023-05-19.png "Estudo sobre Geometria 4") ||
 
 ## Installation (macos)
 
