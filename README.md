@@ -33,7 +33,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-05-23](./images/2023-05-23.gif "Crescimento") | ![2023-05-24](./images/2023-05-24.gif "Cubo") |
 | ![2023-05-25](./images/2023-05-25.png "Espetos") | ![2023-05-26](./images/2023-05-26.gif "Esfera") |
 | ![2023-05-27](./images/2023-05-27.png "Espetos 2") | ![2023-05-28](./images/2023-05-28.png "Centralidade") |
-| ![2023-05-29](./images/2023-05-29.png "Centralidade 2") |  |
+| ![2023-05-29](./images/2023-05-29.png "Centralidade 2") | ![2023-05-30](./images/2023-05-30.png "Abstrato") |
 
 ## Installation (macos)
 
