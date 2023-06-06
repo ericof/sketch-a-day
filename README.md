@@ -36,7 +36,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-05-29](./images/2023-05-29.png "Centralidade 2") | ![2023-05-30](./images/2023-05-30.png "Abstrato") |
 | ![2023-05-31](./images/2023-05-31.png "Abstrato 2") | ![2023-06-01](./images/2023-06-01.png "Hexagonos") |
 | ![2023-06-02](./images/2023-06-02.png "Hexagonos 2") |  ![2023-06-03](./images/2023-06-03.png "Hexagonos 3")  |
-| ![2023-06-04](./images/2023-06-04.png "\(Hex\|Oct\)agonos") | |
+| ![2023-06-04](./images/2023-06-04.png "\(Hex\|Oct\)agonos") | ![2023-06-05](./images/2023-06-05.png "\(Hex\|Oct\)agonos 2") |
 
 ## Installation (macos)
 
