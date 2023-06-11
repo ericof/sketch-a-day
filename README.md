@@ -39,7 +39,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-06-04](./images/2023-06-04.png "\(Hex\|Oct\)agonos") | ![2023-06-05](./images/2023-06-05.png "\(Hex\|Oct\)agonos 2") |
 | ![2023-06-06](./images/2023-06-06.png "Nostalgia 3") | ![2023-06-07](./images/2023-06-07.png "\(Hex\|Oct\)agonos 3") |
 | ![2023-06-08](./images/2023-06-08.png "\(Hex\|Oct\)agonos 4") | ![2023-06-09](./images/2023-06-09.png "Abstrato 3") |
-| ![2023-06-10](./images/2023-06-10.png "Abstrato 4") |  |
+| ![2023-06-10](./images/2023-06-10.png "Abstrato 4") | ![2023-06-11](./images/2023-06-11.png "Estudo sobre Polígonos")  |
 
 ## Installation (macos)
 
