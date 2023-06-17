@@ -42,7 +42,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-06-10](./images/2023-06-10.png "Abstrato 4") | ![2023-06-11](./images/2023-06-11.png "Estudo sobre Polígonos")  |
 | ![2023-06-12](./images/2023-06-12.gif "Dia da Namorada") | ![2023-06-13](./images/2023-06-13.png "Padrões")  |
 | ![2023-06-14](./images/2023-06-14.png "Padrões 2")  | ![2023-06-15](./images/2023-06-15.png "Padrões 3") |
-
+| ![2023-06-16](./images/2023-06-16.png "Padrões 4")  | |
 
 ## Installation (macos)
 
