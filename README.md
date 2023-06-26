@@ -47,6 +47,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-06-20](./images/2023-06-20.png "Octagonos")  | ![2023-06-21](./images/2023-06-21.png "DiraCom") |
 | ![2023-06-22](./images/2023-06-22.png "Octagonos 2")  | ![2023-06-23](./images/2023-06-23.png "Octagonos 3") |
 | ![2023-06-24](./images/2023-06-24.png "Octagonos 4")  | ![2023-06-25](./images/2023-06-25.png "Octagonos 5") |
+| ![2023-06-26](./images/2023-06-26.png "Hexagonos 4")  | |
 
 ## Installation (macos)
 
