@@ -49,7 +49,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-06-24](./images/2023-06-24.png "Octagonos 4")  | ![2023-06-25](./images/2023-06-25.png "Octagonos 5") |
 | ![2023-06-26](./images/2023-06-26.png "Hexagonos 4")  | ![2023-06-27](./images/2023-06-27.png "Hexagonos 5") |
 | ![2023-06-28](./images/2023-06-28.png "Hexagonos 6") | ![2023-06-29](./images/2023-06-29.png "Hexagonos 7") |
-| ![2023-06-30](./images/2023-06-30.png "Octagonos 6") | |
+| ![2023-06-30](./images/2023-06-30.png "Octagonos 6") | ![2023-07-01](./images/2023-07-01.png "Octagonos 7") |
 
 ## Installation (macos)
 
