@@ -53,6 +53,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-07-02](./images/2023-07-02.png "Octagonos 8") | ![2023-07-03](./images/2023-07-03.png "Quadrados 1") |
 | ![2023-07-04](./images/2023-07-04.png "Quadrados 2") | ![2023-07-05](./images/2023-07-05.png "Quadrados 3") |
 | ![2023-07-06](./images/2023-07-06.png "Quadrados 3") | ![2023-07-07](./images/2023-07-07.png "Quadrados 4") |
+| ![2023-07-08](./images/2023-07-08.png "Quadrados 4") | |
 
 ## Installation (macos)
 
