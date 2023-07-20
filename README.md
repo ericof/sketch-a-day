@@ -58,7 +58,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-07-12](./images/2023-07-12.png "Rotações 2") | ![2023-07-13](./images/2023-07-13.png "Ladrilhos Laranjas") |
 | ![2023-07-14](./images/2023-07-14.png "Ladrilhos Compostos") | ![2023-07-15](./images/2023-07-15.png "Ladrilhos Compostos 2") |
 | ![2023-07-16](./images/2023-07-16.png "Ladrilhos Compostos 3") | ![2023-07-17](./images/2023-07-17.png "Ladrilhos Compostos 4") |
-| ![2023-07-18](./images/2023-07-18.png "Ladrilhos Compostos 5") | |
+| ![2023-07-18](./images/2023-07-18.png "Ladrilhos Compostos 5") | ![2023-07-19](./images/2023-07-19.png "Ladrilhos Compostos 6") |
 
 ## Installation (macos)
 
