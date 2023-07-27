@@ -62,7 +62,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-07-20](./images/2023-07-20.png "Ladrilhos Retrô") | ![2023-07-21](./images/2023-07-21.png "Concentricos") |
 | ![2023-07-22](./images/2023-07-22.png "Concentricos 2") | ![2023-07-23](./images/2023-07-23.png "Concentricos 3") |
 | ![2023-07-24](./images/2023-07-24.png "Concentricos 4") | ![2023-07-25](./images/2023-07-25.png "Concentricos 5") |
-| ![2023-07-26](./images/2023-07-26.png "Concentricos 6") | |
+| ![2023-07-26](./images/2023-07-26.png "Concentricos 6") | ![2023-07-27](./images/2023-07-27.png "Concentricos 7") |
 
 ## Installation (macos)
 
