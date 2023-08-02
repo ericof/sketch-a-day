@@ -65,6 +65,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-07-26](./images/2023-07-26.png "Concentricos 6") | ![2023-07-27](./images/2023-07-27.png "Concentricos 7") |
 | ![2023-07-28](./images/2023-07-28.png "Erros e Acerto") | ![2023-07-29](./images/2023-07-29.png "Padrão Geométrico") |
 | ![2023-07-30](./images/2023-07-30.png "Polígonos complexos") | ![2023-07-31](./images/2023-07-31.png "Triângulos") |
+| ![2023-08-01](./images/2023-08-01.png "Octagonos Redux") | |
 
 ## Installation (macos)
 
