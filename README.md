@@ -67,6 +67,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-07-30](./images/2023-07-30.png "Polígonos complexos") | ![2023-07-31](./images/2023-07-31.png "Triângulos") |
 | ![2023-08-01](./images/2023-08-01.png "Octagonos Redux") | ![2023-08-02](./images/2023-08-02.gif "Rotações") |
 | ![2023-08-03](./images/2023-08-03.gif "Crescimento") | ![2023-08-04](./images/2023-08-04.gif "Crescimento 2") |
+| ![2023-08-05](./images/2023-08-05.png "Grades") |  |
 
 ## Installation (macos)
 
