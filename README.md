@@ -68,7 +68,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-08-01](./images/2023-08-01.png "Octagonos Redux") | ![2023-08-02](./images/2023-08-02.gif "Rotações") |
 | ![2023-08-03](./images/2023-08-03.gif "Crescimento") | ![2023-08-04](./images/2023-08-04.gif "Crescimento 2") |
 | ![2023-08-05](./images/2023-08-05.png "Grades") | ![2023-08-05](./images/2023-08-06.png "Grades 2") |
-| ![2023-08-07](./images/2023-08-07.png "Grades 3") | |
+| ![2023-08-07](./images/2023-08-07.png "Grades 3") | ![2023-08-08](./images/2023-08-08.png "Grades 4") |
 
 ## Installation (macos)
 
