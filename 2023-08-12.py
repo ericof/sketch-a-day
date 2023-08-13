@@ -1,9 +1,7 @@
-"""2023-08-10"""
+"""2023-08-12"""
 from helpers import HEIGHT
 from helpers import save_image
-from helpers import tmp_path
 from helpers import WIDTH
-from helpers import write_legend
 from pathlib import Path
 
 import numpy as np
@@ -18,26 +16,16 @@ FUNDO = py5.color(248, 241, 219)
 
 noise_scale = 0.005
 time_speed = 0.015
-noise_generator = opensimplex.seed(8094)
+noise_generator = opensimplex.seed(6954)
 
 
 color_palette = [
-    (24, 153, 255),
-    (255, 229, 153),
-    (255, 51, 153),
-    (153, 255, 221),
-    (153, 221, 255),
-    (255, 153, 51),
-    (51, 255, 153),
-    (255, 153, 221),
-    (153, 51, 255),
-    (255, 51, 102),
-    (153, 102, 255),
-    (102, 255, 51),
-    (51, 102, 255),
-    (255, 102, 51),
-    (102, 51, 255),
-    (255, 51, 51),
+    (30, 86, 49),
+    (164, 222, 2),
+    (118, 186, 27),
+    (76, 154, 42),
+    (172, 223, 135),
+    (104, 187, 89),
 ]
 
 
@@ -52,13 +40,13 @@ def settings():
 
 def setup():
     py5.background(FUNDO)
-    py5.color_mode(py5.HSB, 255)
+    py5.color_mode(py5.RGB, 255)
     py5.no_stroke()
+    desenha()
 
 
-def draw():
+def desenha():
     time = py5.millis() * time_speed
-    frame = py5.frame_count
     X = np.arange(0, WIDTH)
     Y = np.arange(0, HEIGHT)
     XN = np.array([x * noise_scale for x in X])
@@ -72,7 +60,6 @@ def draw():
             ]
         ),
     )
-    t = 20 - (frame * 2) if frame > 1 else 100
     for idx, x in enumerate(X):
         for idy, y in enumerate(Y):
             if idx % 2 or idy % 2:
@@ -80,11 +67,10 @@ def draw():
             noise = noise_val[0][idy][idx]
             color_idx = int(map_value(noise, -1, 1, 0, len(color_palette)))
             c = color_palette[color_idx]
-            py5.fill(*c, t)
+            py5.fill(*c, 80)
             py5.ellipse(x, y, 12, 12)
-    py5.window_title(
-        f"FR: {py5.get_frame_rate():.1f} | Frame Count: {frame} | Opacity: {t}"
-    )
+            py5.fill(*c, 80)
+            py5.ellipse(y, x, 6, 6)
 
 
 def key_pressed():
