@@ -71,6 +71,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-08-07](./images/2023-08-07.png "Grades 3") | ![2023-08-08](./images/2023-08-08.png "Grades 4") |
 | ![2023-08-09](./images/2023-08-09.png "Grades 5") | ![2023-08-10](./images/2023-08-10.png "Noise") |
 | ![2023-08-11](./images/2023-08-11.png "Noise 2") | ![2023-08-12](./images/2023-08-12.png "Ruído Verde") |
+| ![2023-08-13](./images/2023-08-13.png "Ruído Azul") | |
 
 ## Installation (macos)
 
