@@ -72,7 +72,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-08-09](./images/2023-08-09.png "Grades 5") | ![2023-08-10](./images/2023-08-10.png "Noise") |
 | ![2023-08-11](./images/2023-08-11.png "Noise 2") | ![2023-08-12](./images/2023-08-12.png "Ruído Verde") |
 | ![2023-08-13](./images/2023-08-13.png "Ruído Azul") | ![2023-08-14](./images/2023-08-14.png "Ruído Pastel") |
-| ![2023-08-15](./images/2023-08-15.png "Esfera com ruídos") | |
+| ![2023-08-15](./images/2023-08-15.png "Esfera com ruídos") | ![2023-08-16](./images/2023-08-16.png "Mais triângulos") |
 
 ## Installation (macos)
 
