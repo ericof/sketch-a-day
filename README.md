@@ -74,7 +74,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-08-13](./images/2023-08-13.png "Ruído Azul") | ![2023-08-14](./images/2023-08-14.png "Ruído Pastel") |
 | ![2023-08-15](./images/2023-08-15.png "Esfera com ruídos") | ![2023-08-16](./images/2023-08-16.png "Mais triângulos") |
 | ![2023-08-17](./images/2023-08-17.png "Mais triângulos 2") | ![2023-08-18](./images/2023-08-18.png "Toalha de Mesa") |
-| ![2023-08-19](./images/2023-08-19.png "Toalha de Mesa 2") | |
+| ![2023-08-19](./images/2023-08-19.png "Toalha de Mesa 2") | ![2023-08-20](./images/2023-08-20.png "Camadas") |
 
 ## Installation (macos)
 
