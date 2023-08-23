@@ -19,14 +19,16 @@ class Circle:
     r: float
     fill: tuple
     stroke: tuple
+    stroke_weight: int = 1
 
-    def __init__(self, cx, cy, r, fill, stroke):
+    def __init__(self, cx, cy, r, fill, stroke, stroke_weight: int = 1):
         """Initialize the circle with its centre, (cx,cy) and radius, r."""
         self.cx = cx
         self.cy = cy
         self.r = r
         self.fill = fill
         self.stroke = stroke
+        self.stroke_weight = stroke_weight
 
     def overlap_with(self, cx, cy, r):
         """Does the circle overlap with another of radius r at (cx, cy)?"""
@@ -38,6 +40,7 @@ class Circle:
         s = py5.create_shape(py5.ELLIPSE, 0, 0, diameter, diameter)
         s.set_fill(py5.color(*self.fill))
         s.set_stroke(py5.color(*self.stroke))
+        s.set_stroke_weight(self.stroke_weight)
         py5.shape(s, self.cx, self.cy)
 
 
@@ -56,6 +59,7 @@ class Circles:
         fill=(255, 255, 255),
         reverse_fill=(0, 0, 0),
         stroke=(255, 255, 255),
+        stroke_weight=1,
         debug=False,
     ):
         """Initialize the Circles object.
@@ -80,8 +84,16 @@ class Circles:
         self.fill = fill
         self.reverse_fill = reverse_fill
         self.stroke = stroke
+        self.stroke_weight = stroke_weight
         self.debug = debug
-        self._circle = Circle(self.cx, self.cy, r, fill=self.fill, stroke=self.stroke)
+        self._circle = Circle(
+            self.cx,
+            self.cy,
+            r,
+            fill=self.fill,
+            stroke=self.stroke,
+            stroke_weight=self.stroke_weight,
+        )
 
     def overlap_with(self, cx, cy, r):
         """Does the circle overlap with another of radius r at (cx, cy)?"""
@@ -121,9 +133,23 @@ class Circles:
                     reverse_fill = self.fill
                     stroke = self.stroke
                     if r < 10:
-                        circle = Circle(x, y, r, fill=reverse_fill, stroke=stroke)
+                        circle = Circle(
+                            x,
+                            y,
+                            r,
+                            fill=reverse_fill,
+                            stroke=stroke,
+                            stroke_weight=1,
+                        )
                     else:
                         n = int(r * py5.random_int(8, 10))
+                        stroke_weight = self.stroke_weight
+                        if r < 50:
+                            stroke_weight = 1
+                        elif r < 100:
+                            stroke_weight = 2
+                        elif r < 200:
+                            stroke_weight = 3
                         circle = Circles(
                             cx=x,
                             cy=y,
@@ -132,6 +158,7 @@ class Circles:
                             fill=fill,
                             reverse_fill=reverse_fill,
                             stroke=stroke,
+                            stroke_weight=stroke_weight,
                             debug=self.debug,
                         )
                         circle.populate()
