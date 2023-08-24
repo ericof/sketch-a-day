@@ -60,6 +60,7 @@ class Circles:
         reverse_fill=(0, 0, 0),
         stroke=(255, 255, 255),
         stroke_weight=1,
+        circles_r_limit=10,
         debug=False,
     ):
         """Initialize the Circles object.
@@ -85,6 +86,7 @@ class Circles:
         self.reverse_fill = reverse_fill
         self.stroke = stroke
         self.stroke_weight = stroke_weight
+        self.circles_r_limit = circles_r_limit
         self.debug = debug
         self._circle = Circle(
             self.cx,
@@ -132,12 +134,14 @@ class Circles:
                     fill = self.reverse_fill
                     reverse_fill = self.fill
                     stroke = self.stroke
-                    if r < 10:
+                    if self.debug:
+                        print(f"{x}, {y}, {r}, {fill}, {stroke}")
+                    if r < self.circles_r_limit:
                         circle = Circle(
                             x,
                             y,
                             r,
-                            fill=reverse_fill,
+                            fill=fill,
                             stroke=stroke,
                             stroke_weight=1,
                         )
