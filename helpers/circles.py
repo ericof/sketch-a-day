@@ -148,12 +148,15 @@ class Circles:
                     else:
                         n = int(r * py5.random_int(8, 10))
                         stroke_weight = self.stroke_weight
-                        if r < 50:
-                            stroke_weight = 1
-                        elif r < 100:
-                            stroke_weight = 2
-                        elif r < 200:
-                            stroke_weight = 3
+                        # If we set stroke_weight as 0,
+                        # we pass that to children groups
+                        if stroke_weight:
+                            if r < 50:
+                                stroke_weight = 1
+                            elif r < 100:
+                                stroke_weight = 2
+                            elif r < 200:
+                                stroke_weight = 3
                         circle = Circles(
                             cx=x,
                             cy=y,
@@ -163,6 +166,7 @@ class Circles:
                             reverse_fill=reverse_fill,
                             stroke=stroke,
                             stroke_weight=stroke_weight,
+                            circles_r_limit=self.circles_r_limit,
                             debug=self.debug,
                         )
                         circle.populate()
