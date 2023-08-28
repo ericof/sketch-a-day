@@ -78,6 +78,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-08-21](./images/2023-08-21.png "Camadas 2") | ![2023-08-22](./images/2023-08-22.png "Circulos") |
 | ![2023-08-23](./images/2023-08-23.png "Circulos 2") | ![2023-08-24](./images/2023-08-24.png "Circulos 3") |
 | ![2023-08-25](./images/2023-08-25.png "Circulos 4") | ![2023-08-26](./images/2023-08-26.png "Circulos 5") |
+| ![2023-08-27](./images/2023-08-27.png "Circulos 6") |  |
 
 ## Installation (macos)
 
