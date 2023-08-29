@@ -61,6 +61,7 @@ class Circles:
         stroke=(255, 255, 255),
         stroke_weight=1,
         circles_r_limit=10,
+        factory=Circle,
         debug=False,
     ):
         """Initialize the Circles object.
@@ -87,6 +88,7 @@ class Circles:
         self.stroke = stroke
         self.stroke_weight = stroke_weight
         self.circles_r_limit = circles_r_limit
+        self.factory = factory
         self.debug = debug
         self._circle = Circle(
             self.cx,
@@ -137,7 +139,7 @@ class Circles:
                     if self.debug:
                         print(f"{x}, {y}, {r}, {fill}, {stroke}")
                     if r < self.circles_r_limit:
-                        circle = Circle(
+                        circle = self.factory(
                             x,
                             y,
                             r,
