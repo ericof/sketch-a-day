@@ -82,7 +82,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-08-29](./images/2023-08-29.png "Circulos 8") | ![2023-08-30](./images/2023-08-30.png "Grade Eliptica")|
 | ![2023-08-31](./images/2023-08-31.png "Borrões") | ![2023-09-01](./images/2023-09-01.png "Borrões 2") |
 | ![2023-09-02](./images/2023-09-02.png "Dois Terços") | ![2023-09-03](./images/2023-09-03.png "Dois Terços de Decágono") |
-| ![2023-09-04](./images/2023-09-04.png "Dois Terços de Heptágono") | |
+| ![2023-09-04](./images/2023-09-04.png "Dois Terços de Heptágono") | ![2023-09-05](./images/2023-09-05.png "Ondas")  |
 
 ## Installation (macos)
 
