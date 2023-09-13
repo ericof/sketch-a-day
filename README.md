@@ -86,7 +86,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-09-06](./images/2023-09-06.png "Ondas 2")  | ![2023-09-07](./images/2023-09-07.png "Ondas 3") |
 | ![2023-09-08](./images/2023-09-08.png "Ondas 4")  | ![2023-09-09](./images/2023-09-09.png "Ondas 5") |
 | ![2023-09-10](./images/2023-09-10.png "Ondas 6")  | ![2023-09-11](./images/2023-09-11.png "Ruído") |
-| ![2023-09-12](./images/2023-09-12.png "Ruído 2") | |
+| ![2023-09-12](./images/2023-09-12.png "Ruído 2") | ![2023-09-13](./images/2023-09-13.png "Composições de Setembro") |
 
 ## Installation (macos)
 
