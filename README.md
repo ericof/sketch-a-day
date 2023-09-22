@@ -91,6 +91,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-09-16](./images/2023-09-16.png "Salvador") | ![2023-09-17](./images/2023-09-17.png "Salvador 2") |
 | ![2023-09-18](./images/2023-09-18.png "Salvador 3") | ![2023-09-19](./images/2023-09-19.png "Salvador 4") |
 | ![2023-09-20](./images/2023-09-20.png "Fitinhas 2") | ![2023-09-21](./images/2023-09-21.png "Fitinhas 3") |
+| ![2023-09-22](./images/2023-09-22.png "Salvador 5") |  |
 
 ## Installation (macos)
 
