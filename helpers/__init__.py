@@ -103,3 +103,57 @@ class Celula:
 
     def espelha(self):
         self.espelhada = not self.espelhada
+
+
+class CelulaV2:
+    """
+    nova = CelulaV2(x, y, largura, [forma1, forma2, ...])
+    .desenha()    desenha celula na sua posição
+    .gira()       gira 90 graus
+    .sob_mouse()  True ou False se o mouse está sobre a célula
+    .espelha()    Inverte espelhamento
+    .muda_desenho()   Muda função de desenho para a próxima
+    .espelhada    Estado atual de espelhamento
+    .rot          Rotação atual
+    .forma_ativa   Forma selecionada
+    """
+
+    def __init__(self, x, y, largura, formas, cores):
+        self.x, self.y = x, y
+        self.largura = largura
+        self.largura_interna = largura * 0.9
+        self.formas = formas
+        self.forma_ativa = choice(formas)
+        self.rot = choice(range(0, 360, 90))
+        self.espelhada = False
+        self.cores = cores
+        self.cor = choice(self.cores)
+
+    def desenha(self):
+        largura = self.largura_interna
+        py5.shape_mode = py5.CENTER
+        forma = self.forma_ativa
+        forma.set_fill(self.cor)
+        forma.set_stroke(self.cor)
+        forma.rotate(py5.radians(self.rot))
+        if self.espelhada:
+            forma.scale(-1, 1)
+        py5.shape(forma, self.x, self.y, largura, largura)
+
+    def sob_mouse(self, x, y):
+        return (
+            self.x - self.largura / 2 < x < self.x + self.largura / 2
+            and self.y - self.largura / 2 < y < self.y + self.largura / 2
+        )
+
+    def gira(self, rot=90):
+        self.rot = self.rot + rot if self.rot < 360 else rot
+
+    def muda_cor(self):
+        self.cor = choice(self.cores)
+
+    def muda_desenho(self, i=None):
+        self.func_ativa = (self.func_ativa + 1) % len(self.funcs) if i is None else i
+
+    def espelha(self):
+        self.espelhada = not self.espelhada
