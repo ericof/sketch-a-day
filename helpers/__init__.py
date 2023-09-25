@@ -1,6 +1,11 @@
+from collections import UserList
+from dataclasses import dataclass
 from PIL import Image
 from pathlib import Path
 from random import choice
+from typing import Any
+from typing import List
+
 import tempfile
 import py5
 
@@ -54,19 +59,7 @@ def save_gif(img_name, frames, duration: float = 200, loop=0):
     images[0].save(img_path, **kw)
 
 
-class Celula:
-    """
-    nova = Celula(x, y, largura, [func_desenho0, func_desenho1, ...])
-    .desenha()    desenha celula na sua posição
-    .gira()       gira 90 graus
-    .sob_mouse()  True ou False se o mouse está sobre a célula
-    .espelha()    Inverte espelhamento
-    .muda_desenho()   Muda função de desenho para a próxima
-    .espelhada    Estado atual de espelhamento
-    .rot          Rotação atual
-    .func_ativa   Índice da função de desenho atual
-    """
-
+class BaseCelula:
     def __init__(self, x, y, largura, funcs, cores):
         self.x, self.y = x, y
         self.largura = largura
@@ -105,19 +98,18 @@ class Celula:
         self.espelhada = not self.espelhada
 
 
-class CelulaV2:
-    """
-    nova = CelulaV2(x, y, largura, [forma1, forma2, ...])
-    .desenha()    desenha celula na sua posição
-    .gira()       gira 90 graus
-    .sob_mouse()  True ou False se o mouse está sobre a célula
-    .espelha()    Inverte espelhamento
-    .muda_desenho()   Muda função de desenho para a próxima
-    .espelhada    Estado atual de espelhamento
-    .rot          Rotação atual
-    .forma_ativa   Forma selecionada
-    """
+class Celula(BaseCelula):
+    def desenha(self):
+        with py5.push_matrix():
+            py5.translate(self.x, self.y)
+            if self.espelhada:
+                py5.scale(-1, 1)
+            py5.rotate(py5.radians(self.rot))
+            funcao_desenho = self.funcs[self.func_ativa]
+            funcao_desenho(0, 0, self.largura, self.cor)
 
+
+class CelulaV2(BaseCelula):
     def __init__(self, x, y, largura, formas, cores):
         self.x, self.y = x, y
         self.largura = largura
@@ -140,20 +132,61 @@ class CelulaV2:
             forma.scale(-1, 1)
         py5.shape(forma, self.x, self.y, largura, largura)
 
-    def sob_mouse(self, x, y):
-        return (
-            self.x - self.largura / 2 < x < self.x + self.largura / 2
-            and self.y - self.largura / 2 < y < self.y + self.largura / 2
-        )
 
-    def gira(self, rot=90):
-        self.rot = self.rot + rot if self.rot < 360 else rot
+class CelulaV3(CelulaV2):
+    def __init__(self, x, y, largura, formas, cores, border: bool = False):
+        super().__init__(x, y, largura, formas, cores)
+        self.espelhada = choice([True, False])
+        self.rot = 0
+        self.border = border
 
-    def muda_cor(self):
-        self.cor = choice(self.cores)
+    def desenha(self):
+        with py5.push_matrix():
+            py5.translate(self.x, self.y)
+            largura = self.largura_interna
+            if self.border:
+                py5.no_fill()
+                py5.stroke(self.cor)
+                py5.square(0, 0, self.largura)
+            buffer = (self.largura - self.largura_interna) / 2
+            forma = self.forma_ativa
+            forma.set_fill(self.cor)
+            forma.set_stroke(self.cor)
+            forma.rotate(py5.radians(self.rot))
+            py5.shape_mode = py5.CORNER
+            if self.espelhada:
+                py5.shape(forma, buffer + largura, buffer, -largura, largura)
+            else:
+                py5.shape(forma, buffer, buffer, largura, largura)
 
-    def muda_desenho(self, i=None):
-        self.func_ativa = (self.func_ativa + 1) % len(self.funcs) if i is None else i
 
-    def espelha(self):
-        self.espelhada = not self.espelhada
+@dataclass
+class CelulaInfo:
+    x: float
+    y: float
+    celulas: List[BaseCelula] = None
+
+
+class Grade(UserList):
+    data: List[CelulaInfo]
+
+    def __init__(self, x, y, width, height, colunas, linhas, margem_x, margem_y):
+        celulas = []
+        largura = width - (margem_x * 2)
+        altura = height - (margem_y * 2)
+        x0 = x + margem_x
+        y0 = y + margem_y
+        passo_x = largura // colunas
+        passo_y = altura // linhas
+        for linha in range(linhas):
+            cy = y0 + (linha * passo_y)
+            for coluna in range(colunas):
+                cx = x0 + (coluna * passo_x)
+                celulas.append(CelulaInfo(cx, cy, []))
+        self.data = celulas
+
+    def desenha(self):
+        for item in self.data:
+            celulas = item.celulas
+            for celula in celulas:
+                celula.desenha()
