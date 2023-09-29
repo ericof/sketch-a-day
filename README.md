@@ -93,7 +93,8 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-09-20](./images/2023-09-20.png "Fitinhas 2") | ![2023-09-21](./images/2023-09-21.png "Fitinhas 3") |
 | ![2023-09-22](./images/2023-09-22.png "Salvador 5") | ![2023-09-23](./images/2023-09-23.png "Padrão Grade 1") |
 | ![2023-09-24](./images/2023-09-24.png "Padrão Grade 2") | ![2023-09-25](./images/2023-09-25.png "Padrão Grade 3")  |
-| ![2023-09-26](./images/2023-09-26.png "Tijolos 1") | ![2023-09-27](./images/2023-09-27.png "Cobogó 2") |
+| ![2023-09-26](./images/2023-09-26.png "Tijolos 1") | ![2023-09-27](./images/2023-09-27.png "Cobogó 1") |
+| ![2023-09-28](./images/2023-09-28.png "Cobogó 2") |  |
 
 ## Installation (macos)
 
