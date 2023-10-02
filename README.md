@@ -96,6 +96,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-09-26](./images/2023-09-26.png "Tijolos 1") | ![2023-09-27](./images/2023-09-27.png "Cobogó 1") |
 | ![2023-09-28](./images/2023-09-28.png "Cobogó 2") | ![2023-09-29](./images/2023-09-29.png "Cobogó 3") |
 | ![2023-09-30](./images/2023-09-30.png "Cobogó 4") | ![2023-10-01](./images/2023-10-01.png "Cobogó 5") |
+| ![2023-10-02](./images/2023-10-02.png "Cobogó 6") |  |
 
 ## Installation (macos)
 
