@@ -102,7 +102,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-10-08](./images/2023-10-08.png "Calçada 6") | ![2023-10-09](./images/2023-10-09.png "Calçada Bilbao") |
 | ![2023-10-10](./images/2023-10-10.png "Calçada Bilbao 2") | ![2023-10-11](./images/2023-10-11.png "Calçada Bilbao 3") |
 | ![2023-10-12](./images/2023-10-12.png "Curvas") | ![2023-10-13](./images/2023-10-13.png "Curvas2") |
-| ![2023-10-14](./images/2023-10-14.png "Férias") | |
+| ![2023-10-14](./images/2023-10-14.png "Férias") | ![2023-10-15](./images/2023-10-15.png "Férias 2") |
 
 ## Installation (macos)
 
