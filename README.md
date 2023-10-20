@@ -105,6 +105,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-10-14](./images/2023-10-14.png "Férias") | ![2023-10-15](./images/2023-10-15.png "Férias 2") |
 | ![2023-10-16](./images/2023-10-16.png "Férias 3") | ![2023-10-17](./images/2023-10-17.png "Azulejos 1") |
 | ![2023-10-18](./images/2023-10-18.png "Bandeira Budismo") | ![2023-10-19](./images/2023-10-19.png "Quadrados verdes") |
+| ![2023-10-20](./images/2023-10-20.png "Fuji-san") | |
 
 ## Installation (macos)
 
