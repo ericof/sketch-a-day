@@ -106,6 +106,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-10-16](./images/2023-10-16.png "Férias 3") | ![2023-10-17](./images/2023-10-17.png "Azulejos 1") |
 | ![2023-10-18](./images/2023-10-18.png "Bandeira Budismo") | ![2023-10-19](./images/2023-10-19.png "Quadrados verdes") |
 | ![2023-10-20](./images/2023-10-20.png "Fuji-san") | ![2023-10-21](./images/2023-10-21.png "Grade de Porta") |
+| ![2023-10-22](./images/2023-10-22.png "Quadrados dourados") | ![2023-10-23](./images/2023-10-23.png "Quadrados vermelhos") |
 
 ## Installation (macos)
 
