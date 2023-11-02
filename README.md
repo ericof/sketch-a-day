@@ -111,7 +111,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-10-26](./images/2023-10-26.png "Pixelado 2") | ![2023-10-27](./images/2023-10-27.png "Pixelado 3") |
 | ![2023-10-28](./images/2023-10-28.png "Pixelado 4") | ![2023-10-29](./images/2023-10-29.png "Pixelado 5") |
 | ![2023-10-30](./images/2023-10-30.png "Pixelado 6") | ![2023-10-31](./images/2023-10-31.png "Pixelado 7") |
-| ![2023-11-01](./images/2023-11-01.png "Pixelado 8") | |
+| ![2023-11-01](./images/2023-11-01.png "Pixelado 8") | ![2023-11-02](./images/2023-11-02.png "Pixelado 9") |
 
 ## Installation (macos)
 
