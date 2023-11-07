@@ -114,6 +114,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-11-01](./images/2023-11-01.png "Pixelado 8") | ![2023-11-02](./images/2023-11-02.png "Pixelado 9") |
 | ![2023-11-03](./images/2023-11-03.png "Pixelado 10") | ![2023-11-04](./images/2023-11-04.png "Contagem 1") |
 | ![2023-11-05](./images/2023-11-05.png "Contagem 2") | ![2023-11-06](./images/2023-11-06.png "Contagem 3")|
+| ![2023-11-07](./images/2023-11-07.png "Contagem 4") | |
 
 ## Installation (macos)
 

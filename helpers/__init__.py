@@ -163,22 +163,37 @@ class CelulaV3(CelulaV2):
 class CelulaV4(CelulaV3):
     fill: bool = True
     stroke: bool = True
+    background = False
 
-    def __init__(self, x, y, largura, formas, cores, border: bool = False):
+    def __init__(
+        self,
+        x,
+        y,
+        largura,
+        formas,
+        cores,
+        border: bool = False,
+        background=False,
+    ):
         super().__init__(x, y, largura, formas, cores)
         self.largura_interna = self.largura * 0.95
         self.espelhada = False
         self.espelhada_vertical = False
         self.rot = 0
         self.border = border
+        self.background = background
 
     def desenha(self):
         with py5.push_matrix():
             py5.translate(self.x, self.y)
             largura = self.largura_interna
-            if self.border:
+            if self.border and not self.background:
                 py5.no_fill()
                 py5.stroke(self.cor)
+                py5.square(0, 0, self.largura)
+            elif self.background and not self.border:
+                py5.no_stroke()
+                py5.fill(self.background)
                 py5.square(0, 0, self.largura)
             buffer = (self.largura - self.largura_interna) / 2
             forma = self.forma_ativa
