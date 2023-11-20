@@ -120,7 +120,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-11-12](./images/2023-11-13.gif "Desconstrução") | ![2023-11-14](./images/2023-11-14.png "Desconstrução 2") |
 | ![2023-11-15](./images/2023-11-15.png "Desconstrução 3") | ![2023-11-16](./images/2023-11-16.png "Desconstrução 4") |
 | ![2023-11-17](./images/2023-11-17.png "Desconstrução 5") | ![2023-11-18](./images/2023-11-18.png "Desconstrução 6") |
-| ![2023-11-19](./images/2023-11-19.png "Desconstrução 7") |  |
+| ![2023-11-19](./images/2023-11-19.png "Desconstrução 7") | ![2023-11-20](./images/2023-11-20.png "Desconstrução 8") |
 
 ## Installation (macos)
 
