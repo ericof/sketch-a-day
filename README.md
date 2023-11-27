@@ -124,7 +124,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-11-21](./images/2023-11-21.png "Desconstrução 9") | ![2023-11-22](./images/2023-11-22.png "Desconstrução 10") |
 | ![2023-11-23](./images/2023-11-23.png "Reconstrução 01") | ![2023-11-24](./images/2023-11-24.png "Reconstrução 02") |
 | ![2023-11-25](./images/2023-11-25.png "Reconstrução 03") | ![2023-11-26](./images/2023-11-26.png "Ruídos 01") |
-| ![2023-11-27](./images/2023-11-27.png "Ruídos 02") |  |
+| ![2023-11-27](./images/2023-11-27.png "Ruídos 02") | ![2023-11-28](./images/2023-11-28.png "Ruídos 03") |
 
 ## Installation (macos)
 
