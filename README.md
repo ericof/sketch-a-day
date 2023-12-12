@@ -132,6 +132,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-12-07](./images/2023-12-07.png "Formas 07") | ![2023-12-08](./images/2023-12-08.png "Formas 08") |
 | ![2023-12-09](./images/2023-12-09.png "Espirais 01") | ![2023-12-10](./images/2023-12-10.png "Espirais 02") |
 | ![2023-12-11](./images/2023-12-11.png "Espirais 03") | ![2023-12-12](./images/2023-12-12.gif "Sorteio 01") |
+| ![2023-12-13](./images/2023-12-13.gif "Sorteio 02") | |
 
 ## Installation (macos)
 
