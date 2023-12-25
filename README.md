@@ -133,6 +133,13 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-12-09](./images/2023-12-09.png "Espirais 01") | ![2023-12-10](./images/2023-12-10.png "Espirais 02") |
 | ![2023-12-11](./images/2023-12-11.png "Espirais 03") | ![2023-12-12](./images/2023-12-12.gif "Sorteio 01") |
 | ![2023-12-13](./images/2023-12-13.gif "Sorteio 02") | ![2023-12-14](./images/2023-12-14.gif "Sorteio 03") |
+| ![2023-12-15](./images/2023-12-15.png "Topometria 01") | ![2023-12-16](./images/2023-12-16.png "Topometria 02") |
+| ![2023-12-17](./images/2023-12-17.png "Topometria 03") | ![2023-12-17](./images/2023-12-18.png "Topometria 04") |
+| ![2023-12-19](./images/2023-12-19.png "Topometria 05") | ![2023-12-20](./images/2023-12-20.png "Topometria 06") |
+| ![2023-12-21](./images/2023-12-21.png "Topometria 07") | ![2023-12-22](./images/2023-12-22.png "Topometria 08") |
+| ![2023-12-23](./images/2023-12-23.png "Topometria 09") | ![2023-12-24](./images/2023-12-24.png "8-bit Pine") |
+| ![2023-12-25](./images/2023-12-25.png "Topometria 10") | |
+
 
 ## Installation (macos)
 
