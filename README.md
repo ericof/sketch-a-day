@@ -139,6 +139,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-12-21](./images/2023-12-21.png "Topometria 07") | ![2023-12-22](./images/2023-12-22.png "Topometria 08") |
 | ![2023-12-23](./images/2023-12-23.png "Topometria 09") | ![2023-12-24](./images/2023-12-24.png "8-bit Pine") |
 | ![2023-12-25](./images/2023-12-25.png "Topometria 10") | ![2023-12-26](./images/2023-12-26.png "Cheio de Estrelas") |
+| ![2023-12-27](./images/2023-12-27.png "Órbitas 1") | |
 
 
 ## Installation (macos)
