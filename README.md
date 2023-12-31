@@ -141,6 +141,7 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | ![2023-12-25](./images/2023-12-25.png "Topometria 10") | ![2023-12-26](./images/2023-12-26.png "Cheio de Estrelas") |
 | ![2023-12-27](./images/2023-12-27.png "Órbitas 1") | ![2023-12-28](./images/2023-12-28.png "8-bit Star") |
 | ![2023-12-29](./images/2023-12-29.png "8-bit Circle") | ![2023-12-30](./images/2023-12-30.png "Roda de Cores HSB") |
+| ![2023-12-31](./images/2023-12-31.png "Blue") | |
 
 
 ## Installation (macos)
