@@ -1,6 +1,0 @@
-cairosvg
-opencv-python
-opensimplex
-py5
-scikit-learn
-polygenerator
