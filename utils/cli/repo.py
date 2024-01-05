@@ -25,12 +25,16 @@ def commit_changes(info: SketchInfo):
     path = info.path.resolve()
 
     cmds = [
-        f"git add {readme} {path}",
+        (f"git add {readme} {path}", True),  # Add files
+        ("poetry run pre-commit run -a", False),  # First time, fix issues
+        (f"git add {readme} {path}", True),  # Add files
+        ("poetry run pre-commit run -a", True),  # Second time, fail if error
+        (f"git add {readme} {path}", True),  # Add files
         (
             f'GIT_COMMITTER_DATE="{formatted}" '
-            f'git commit --date "{formatted}" -m "Sketch for {info.day:%Y-%m-%d}"'
-        ),
+            f'git commit --date "{formatted}" -m "Sketch for {info.day:%Y-%m-%d}"',
+            True,
+        ),  # Commit changes
     ]
-    for cmd in cmds:
-        print(f"Running {cmd}")
-        subprocess.run(cmd, shell=True, check=True)
+    for cmd, check in cmds:
+        subprocess.run(cmd, shell=True, check=check)

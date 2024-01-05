@@ -17,6 +17,9 @@ def update_readme(info: SketchInfo):
     code_file = f"[{path}/.__main__.py]({path}/.__main__.py)"
     image = f"![{day_formatted}]({path}/{info.filename})"
     linha = f"| {day} | {title} | {code_file} | {image} |\n{PLACEHOLDER}\n"
+    if linha in text:
+        # Line already there
+        return readme
     text = text.replace(PLACEHOLDER, linha)
     readme.write_text(text)
     return readme

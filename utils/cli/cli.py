@@ -37,13 +37,20 @@ def publish(day: str):
     """Publish sketch to ericof.com."""
     sketch = sketch_for_day(day)
     click.echo(f"Publish sketch for day {day} to ericof.com")
-    post_to_site(sketch)
+    url = post_to_site(sketch)
+    click.echo(f"Sketch for day {day} published on {url}")
 
 
 @cli.command()
 @click.argument("day")
 def all(day: str):
     """Update Readme, Commit changes, Publish on ericof.com."""
-    readme(day)
-    commit(day)
-    publish(day)
+    info = sketch_info_for_day(day)
+    click.echo(f"Updating the README.md file for day {day}")
+    update_readme(info)
+    click.echo(f"Commit changes for day {day}")
+    commit_changes(info)
+    sketch = sketch_for_day(day)
+    click.echo(f"Publish sketch for day {day} to ericof.com")
+    url = post_to_site(sketch)
+    click.echo(f"Sketch for day {day} published on {url}")

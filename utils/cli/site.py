@@ -36,8 +36,8 @@ def post_to_site(sketch: Sketch):
     o_id = f"{info.day}"
     title = info.title
     description = info.description
-    data = sketch.blob
-    code = sketch.code
+    data = sketch.blob()
+    code = sketch.code()
     blocks = {}
     for block_type in ("title", "slate", "codeBlock"):
         blocks[str(uuid4())] = {"@type": block_type}
@@ -64,7 +64,6 @@ def post_to_site(sketch: Sketch):
         "blocks_layout": {"items": blocks_layout},
         "subjects": info.tags,
     }
-    breakpoint()
     response = session.post(settings["base_url"], json=payload)
     if response.status_code != 201:
         raise Exception()
