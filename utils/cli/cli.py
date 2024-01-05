@@ -2,6 +2,7 @@ import click
 
 from utils.helpers import sketch_for_day, sketch_info_for_day
 
+from .create import create_new_sketch
 from .readme import update_readme
 from .repo import commit_changes
 from .site import post_to_site
@@ -11,6 +12,14 @@ from .site import post_to_site
 def cli():
     """Sketches CLI."""
     pass
+
+
+@cli.command()
+@click.argument("day")
+def create(day: str):
+    """Create a new sketch structure."""
+    click.echo(f"Creating sketch for day {day}")
+    create_new_sketch(day)
 
 
 @cli.command()
