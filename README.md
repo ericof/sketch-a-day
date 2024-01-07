@@ -13,7 +13,9 @@ This repository is heavily inspired by [Alexandre B A Villares' "Sketch a Day"](
 | [2024-01-04](./sketches/d2024_01_04) | 2024-01-04 | [./sketches/d2024_01_04/.__main__.py](./sketches/d2024_01_04/.__main__.py) | ![2024-01-04](./sketches/d2024_01_04/2024-01-04.png) |
 | [2024-01-05](./sketches/d2024_01_05) | 2024-01-05 | [./sketches/d2024_01_05/.__main__.py](./sketches/d2024_01_05/.__main__.py) | ![2024-01-05](./sketches/d2024_01_05/2024-01-05.png) |
 | [2024-01-06](./sketches/d2024_01_06) | 2024-01-06 | [./sketches/d2024_01_06/.__main__.py](./sketches/d2024_01_06/.__main__.py) | ![2024-01-06](./sketches/d2024_01_06/2024-01-06.gif) |
+| [2024-01-07](./sketches/d2024_01_07) | 2024-01-07 | [./sketches/d2024_01_07/.__main__.py](./sketches/d2024_01_07/.__main__.py) | ![2024-01-07](./sketches/d2024_01_07/2024-01-07.gif) |
 <!-- Next Item -->
+
 
 
 
