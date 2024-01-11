@@ -30,7 +30,9 @@ You can follow this project also on:
 | [2024-01-08](./sketches/d2024_01_08) | Genuary 08 - Chaotic system | [./sketches/d2024_01_08/__main__.py](./sketches/d2024_01_08/__main__.py) | ![2024-01-08](./sketches/d2024_01_08/2024-01-08.png) |
 | [2024-01-09](./sketches/d2024_01_09) | Genuary 09 - ASCII | [./sketches/d2024_01_09/__main__.py](./sketches/d2024_01_09/__main__.py) | ![2024-01-09](./sketches/d2024_01_09/2024-01-09.png) |
 | [2024-01-10](./sketches/d2024_01_10) | Genuary 10 - Hexagons | [./sketches/d2024_01_10/__main__.py](./sketches/d2024_01_10/__main__.py) | ![2024-01-10](./sketches/d2024_01_10/2024-01-10.gif) |
+| [2024-01-11](./sketches/d2024_01_11) | Genuary 11 - In the style of Anni Albers | [./sketches/d2024_01_11/__main__.py](./sketches/d2024_01_11/__main__.py) | ![2024-01-11](./sketches/d2024_01_11/2024-01-11.png) |
 <!-- Next Item -->
+
 
 ### 2023
 
