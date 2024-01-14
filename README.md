@@ -33,7 +33,9 @@ You can follow this project also on:
 | [2024-01-11](./sketches/d2024_01_11) | Genuary 11 - In the style of Anni Albers | [./sketches/d2024_01_11/__main__.py](./sketches/d2024_01_11/__main__.py) | ![2024-01-11](./sketches/d2024_01_11/2024-01-11.png) |
 | [2024-01-12](./sketches/d2024_01_12) | Genuary 12 - Lava lamp | [./sketches/d2024_01_12/__main__.py](./sketches/d2024_01_12/__main__.py) | ![2024-01-12](./sketches/d2024_01_12/2024-01-12.gif) |
 | [2024-01-13](./sketches/d2024_01_13) | Genuary 13 - Wobbly function day. | [./sketches/d2024_01_13/__main__.py](./sketches/d2024_01_13/__main__.py) | ![2024-01-13](./sketches/d2024_01_13/2024-01-13.png) |
+| [2024-01-14](./sketches/d2024_01_14) | Genuary 14 - 1kb. | [./sketches/d2024_01_14/__main__.py](./sketches/d2024_01_14/__main__.py) | ![2024-01-14](./sketches/d2024_01_14/2024-01-14.png) |
 <!-- Next Item -->
+
 
 
 
