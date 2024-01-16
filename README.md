@@ -35,7 +35,9 @@ You can follow this project also on:
 | [2024-01-13](./sketches/d2024_01_13) | Genuary 13 - Wobbly function day. | [./sketches/d2024_01_13/__main__.py](./sketches/d2024_01_13/__main__.py) | ![2024-01-13](./sketches/d2024_01_13/2024-01-13.png) |
 | [2024-01-14](./sketches/d2024_01_14) | Genuary 14 - 1kb. | [./sketches/d2024_01_14/__main__.py](./sketches/d2024_01_14/__main__.py) | ![2024-01-14](./sketches/d2024_01_14/2024-01-14.png) |
 | [2024-01-15](./sketches/d2024_01_15) | Genuary 15 - Use a physics library. | [./sketches/d2024_01_15/__main__.py](./sketches/d2024_01_15/__main__.py) | ![2024-01-15](./sketches/d2024_01_15/2024-01-15.gif) |
+| [2024-01-16](./sketches/d2024_01_16) | Genuary 16 - Draw 10 000 of something. | [./sketches/d2024_01_16/__main__.py](./sketches/d2024_01_16/__main__.py) | ![2024-01-16](./sketches/d2024_01_16/2024-01-16.png) |
 <!-- Next Item -->
+
 
 
 
