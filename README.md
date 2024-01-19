@@ -38,7 +38,9 @@ You can follow this project also on:
 | [2024-01-16](./sketches/d2024_01_16) | Genuary 16 - Draw 10 000 of something. | [./sketches/d2024_01_16/__main__.py](./sketches/d2024_01_16/__main__.py) | ![2024-01-16](./sketches/d2024_01_16/2024-01-16.png) |
 | [2024-01-17](./sketches/d2024_01_17) | Genuary 17 - Inspired by Islamic art. | [./sketches/d2024_01_17/__main__.py](./sketches/d2024_01_17/__main__.py) | ![2024-01-17](./sketches/d2024_01_17/2024-01-17.png) |
 | [2024-01-18](./sketches/d2024_01_18) | Genuary 18 - Bauhaus | [./sketches/d2024_01_18/__main__.py](./sketches/d2024_01_18/__main__.py) | ![2024-01-18](./sketches/d2024_01_18/2024-01-18.png) |
+| [2024-01-19](./sketches/d2024_01_19) | Genuary 19 - Flocking | [./sketches/d2024_01_19/__main__.py](./sketches/d2024_01_19/__main__.py) | ![2024-01-19](./sketches/d2024_01_19/2024-01-19.gif) |
 <!-- Next Item -->
+
 
 
 
