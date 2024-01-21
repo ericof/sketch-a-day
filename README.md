@@ -40,7 +40,9 @@ You can follow this project also on:
 | [2024-01-18](./sketches/d2024_01_18) | Genuary 18 - Bauhaus | [./sketches/d2024_01_18/__main__.py](./sketches/d2024_01_18/__main__.py) | ![2024-01-18](./sketches/d2024_01_18/2024-01-18.png) |
 | [2024-01-19](./sketches/d2024_01_19) | Genuary 19 - Flocking | [./sketches/d2024_01_19/__main__.py](./sketches/d2024_01_19/__main__.py) | ![2024-01-19](./sketches/d2024_01_19/2024-01-19.gif) |
 | [2024-01-20](./sketches/d2024_01_20) | Genuary 20 - Generative typography. | [./sketches/d2024_01_20/__main__.py](./sketches/d2024_01_20/__main__.py) | ![2024-01-20](./sketches/d2024_01_20/2024-01-20.png) |
+| [2024-01-21](./sketches/d2024_01_21) | Genuary 21 - New Library. | [./sketches/d2024_01_21/__main__.py](./sketches/d2024_01_21/__main__.py) | ![2024-01-21](./sketches/d2024_01_21/2024-01-21.png) |
 <!-- Next Item -->
+
 
 
 
