@@ -42,7 +42,9 @@ You can follow this project also on:
 | [2024-01-20](./sketches/d2024_01_20) | Genuary 20 - Generative typography. | [./sketches/d2024_01_20/__main__.py](./sketches/d2024_01_20/__main__.py) | ![2024-01-20](./sketches/d2024_01_20/2024-01-20.png) |
 | [2024-01-21](./sketches/d2024_01_21) | Genuary 21 - New Library. | [./sketches/d2024_01_21/__main__.py](./sketches/d2024_01_21/__main__.py) | ![2024-01-21](./sketches/d2024_01_21/2024-01-21.png) |
 | [2024-01-22](./sketches/d2024_01_22) | Genuary 22 - Point - line - plane. | [./sketches/d2024_01_22/__main__.py](./sketches/d2024_01_22/__main__.py) | ![2024-01-22](./sketches/d2024_01_22/2024-01-22.gif) |
+| [2024-01-23](./sketches/d2024_01_23) | Genuary 23 - 32x32. | [./sketches/d2024_01_23/__main__.py](./sketches/d2024_01_23/__main__.py) | ![2024-01-23](./sketches/d2024_01_23/2024-01-23.png) |
 <!-- Next Item -->
+
 
 
 
