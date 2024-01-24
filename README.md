@@ -43,7 +43,9 @@ You can follow this project also on:
 | [2024-01-21](./sketches/d2024_01_21) | Genuary 21 - New Library. | [./sketches/d2024_01_21/__main__.py](./sketches/d2024_01_21/__main__.py) | ![2024-01-21](./sketches/d2024_01_21/2024-01-21.png) |
 | [2024-01-22](./sketches/d2024_01_22) | Genuary 22 - Point - line - plane. | [./sketches/d2024_01_22/__main__.py](./sketches/d2024_01_22/__main__.py) | ![2024-01-22](./sketches/d2024_01_22/2024-01-22.gif) |
 | [2024-01-23](./sketches/d2024_01_23) | Genuary 23 - 32x32. | [./sketches/d2024_01_23/__main__.py](./sketches/d2024_01_23/__main__.py) | ![2024-01-23](./sketches/d2024_01_23/2024-01-23.png) |
+| [2024-01-24](./sketches/d2024_01_24) | Genuary 24 - Impossible objects. | [./sketches/d2024_01_24/__main__.py](./sketches/d2024_01_24/__main__.py) | ![2024-01-24](./sketches/d2024_01_24/2024-01-24.png) |
 <!-- Next Item -->
+
 
 
 
