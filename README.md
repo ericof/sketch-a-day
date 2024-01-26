@@ -45,7 +45,9 @@ You can follow this project also on:
 | [2024-01-23](./sketches/d2024_01_23) | Genuary 23 - 32x32. | [./sketches/d2024_01_23/__main__.py](./sketches/d2024_01_23/__main__.py) | ![2024-01-23](./sketches/d2024_01_23/2024-01-23.png) |
 | [2024-01-24](./sketches/d2024_01_24) | Genuary 24 - Impossible objects. | [./sketches/d2024_01_24/__main__.py](./sketches/d2024_01_24/__main__.py) | ![2024-01-24](./sketches/d2024_01_24/2024-01-24.png) |
 | [2024-01-25](./sketches/d2024_01_25) | Genuary 25 - 'I should try to recreate this with code'. | [./sketches/d2024_01_25/__main__.py](./sketches/d2024_01_25/__main__.py) | ![2024-01-25](./sketches/d2024_01_25/2024-01-25.png) |
+| [2024-01-26](./sketches/d2024_01_26) | Genuary 26 - Grow a seed. | [./sketches/d2024_01_26/__main__.py](./sketches/d2024_01_26/__main__.py) | ![2024-01-26](./sketches/d2024_01_26/2024-01-26.png) |
 <!-- Next Item -->
+
 
 
 
