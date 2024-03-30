@@ -50,7 +50,9 @@ You can follow this project also on:
 | [2024-01-28](./sketches/d2024_01_28) | Genuary 28 - Skeuomorphism. | [./sketches/d2024_01_28/__main__.py](./sketches/d2024_01_28/__main__.py) | ![2024-01-28](./sketches/d2024_01_28/2024-01-28.png) |
 | [2024-03-28](./sketches/d2024_03_28) | Genuary 28'2 - Skeuomorphism. | [./sketches/d2024_03_28/__main__.py](./sketches/d2024_03_28/__main__.py) | ![2024-03-28](./sketches/d2024_03_28/2024-03-28.png) |
 | [2024-03-29](./sketches/d2024_03_29) | Waves II | [./sketches/d2024_03_29/__main__.py](./sketches/d2024_03_29/__main__.py) | ![2024-03-29](./sketches/d2024_03_29/2024-03-29.png) |
+| [2024-03-30](./sketches/d2024_03_30) | Waves III | [./sketches/d2024_03_30/__main__.py](./sketches/d2024_03_30/__main__.py) | ![2024-03-30](./sketches/d2024_03_30/2024-03-30.png) |
 <!-- Next Item -->
+
 
 
 
