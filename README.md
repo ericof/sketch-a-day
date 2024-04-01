@@ -52,7 +52,9 @@ You can follow this project also on:
 | [2024-03-29](./sketches/d2024_03_29) | Waves II | [./sketches/d2024_03_29/__main__.py](./sketches/d2024_03_29/__main__.py) | ![2024-03-29](./sketches/d2024_03_29/2024-03-29.png) |
 | [2024-03-30](./sketches/d2024_03_30) | Waves III | [./sketches/d2024_03_30/__main__.py](./sketches/d2024_03_30/__main__.py) | ![2024-03-30](./sketches/d2024_03_30/2024-03-30.png) |
 | [2024-03-31](./sketches/d2024_03_31) | Waves IV | [./sketches/d2024_03_31/__main__.py](./sketches/d2024_03_31/__main__.py) | ![2024-03-31](./sketches/d2024_03_31/2024-03-31.png) |
+| [2024-04-01](./sketches/d2024_04_01) | Waves V | [./sketches/d2024_04_01/__main__.py](./sketches/d2024_04_01/__main__.py) | ![2024-04-01](./sketches/d2024_04_01/2024-04-01.png) |
 <!-- Next Item -->
+
 
 
 
