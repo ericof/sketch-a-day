@@ -1,6 +1,7 @@
 import click
 
 from utils.helpers import sketch_for_day, sketch_info_for_day
+from utils.helpers.dates import process_day
 
 from .create import create_new_sketch
 from .readme import update_readme
@@ -18,6 +19,7 @@ def cli():
 @click.argument("day")
 def create(day: str):
     """Create a new sketch structure."""
+    day = process_day(day)
     click.echo(f"Creating sketch for day {day}")
     create_new_sketch(day)
 
@@ -26,6 +28,7 @@ def create(day: str):
 @click.argument("day")
 def readme(day: str):
     """Update the README.md file with the entry for a given day."""
+    day = process_day(day)
     info = sketch_info_for_day(day)
     click.echo(f"Updating the README.md file for day {day}")
     update_readme(info)
@@ -35,6 +38,7 @@ def readme(day: str):
 @click.argument("day")
 def commit(day: str):
     """Commit changes for a given day."""
+    day = process_day(day)
     info = sketch_info_for_day(day)
     click.echo(f"Commit changes for day {day}")
     commit_changes(info)
@@ -44,6 +48,7 @@ def commit(day: str):
 @click.argument("day")
 def publish(day: str):
     """Publish sketch to ericof.com."""
+    day = process_day(day)
     sketch = sketch_for_day(day)
     click.echo(f"Publish sketch for day {day} to ericof.com")
     url = post_to_site(sketch)
@@ -54,6 +59,7 @@ def publish(day: str):
 @click.argument("day")
 def all(day: str):
     """Update Readme, Commit changes, Publish on ericof.com."""
+    day = process_day(day)
     info = sketch_info_for_day(day)
     click.echo(f"Updating the README.md file for day {day}")
     update_readme(info)
