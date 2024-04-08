@@ -59,7 +59,9 @@ You can follow this project also on:
 | [2024-04-05](./sketches/d2024_04_05) | Mosaico III | [./sketches/d2024_04_05/__main__.py](./sketches/d2024_04_05/__main__.py) | ![2024-04-05](./sketches/d2024_04_05/2024-04-05.png) |
 | [2024-04-06](./sketches/d2024_04_06) | Mosaico IV | [./sketches/d2024_04_06/__main__.py](./sketches/d2024_04_06/__main__.py) | ![2024-04-06](./sketches/d2024_04_06/2024-04-06.png) |
 | [2024-04-07](./sketches/d2024_04_07) | Mosaico V | [./sketches/d2024_04_07/__main__.py](./sketches/d2024_04_07/__main__.py) | ![2024-04-07](./sketches/d2024_04_07/2024-04-07.png) |
+| [2024-04-08](./sketches/d2024_04_08) | Mosaico VI | [./sketches/d2024_04_08/__main__.py](./sketches/d2024_04_08/__main__.py) | ![2024-04-08](./sketches/d2024_04_08/2024-04-08.png) |
 <!-- Next Item -->
+
 
 
 
