@@ -20,8 +20,14 @@ def image_as_array(path: Path) -> np.array:
     return np.array(image)
 
 
-def write_legend(sketch: SketchInfo, cor: str = "#FFF", tamanho: int = 16):
+def write_legend(
+    sketch: SketchInfo, cor: str = "#FFF", tamanho: int = 16, frame: str = ""
+):
     with py5.push_style():
+        if frame:
+            py5.fill(frame)
+            py5.rect_mode(py5.CORNERS)
+            py5.rect(LARGURA - 110, ALTURA - 50, LARGURA - 20, ALTURA - 20)
         py5.fill(cor)
         py5.text_size(tamanho)
         py5.text_align(py5.RIGHT)
