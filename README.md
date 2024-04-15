@@ -66,7 +66,9 @@ You can follow this project also on:
 | [2024-04-12](./sketches/d2024_04_12) | Labirinto II | [./sketches/d2024_04_12/__main__.py](./sketches/d2024_04_12/__main__.py) | ![2024-04-12](./sketches/d2024_04_12/2024-04-12.png) |
 | [2024-04-13](./sketches/d2024_04_13) | Labirinto III | [./sketches/d2024_04_13/__main__.py](./sketches/d2024_04_13/__main__.py) | ![2024-04-13](./sketches/d2024_04_13/2024-04-13.png) |
 | [2024-04-14](./sketches/d2024_04_14) | Circuíto I | [./sketches/d2024_04_14/__main__.py](./sketches/d2024_04_14/__main__.py) | ![2024-04-14](./sketches/d2024_04_14/2024-04-14.png) |
+| [2024-04-15](./sketches/d2024_04_15) | Circuíto II | [./sketches/d2024_04_15/__main__.py](./sketches/d2024_04_15/__main__.py) | ![2024-04-15](./sketches/d2024_04_15/2024-04-15.png) |
 <!-- Next Item -->
+
 
 
 
