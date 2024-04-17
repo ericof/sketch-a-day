@@ -68,7 +68,9 @@ You can follow this project also on:
 | [2024-04-14](./sketches/d2024_04_14) | Circuíto I | [./sketches/d2024_04_14/__main__.py](./sketches/d2024_04_14/__main__.py) | ![2024-04-14](./sketches/d2024_04_14/2024-04-14.png) |
 | [2024-04-15](./sketches/d2024_04_15) | Circuíto II | [./sketches/d2024_04_15/__main__.py](./sketches/d2024_04_15/__main__.py) | ![2024-04-15](./sketches/d2024_04_15/2024-04-15.png) |
 | [2024-04-16](./sketches/d2024_04_16) | Circuíto III | [./sketches/d2024_04_16/__main__.py](./sketches/d2024_04_16/__main__.py) | ![2024-04-16](./sketches/d2024_04_16/2024-04-16.png) |
+| [2024-04-17](./sketches/d2024_04_17) | World Plone Day 2024 | [./sketches/d2024_04_17/__main__.py](./sketches/d2024_04_17/__main__.py) | ![2024-04-17](./sketches/d2024_04_17/2024-04-17.png) |
 <!-- Next Item -->
+
 
 
 
