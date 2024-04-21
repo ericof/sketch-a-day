@@ -72,7 +72,9 @@ You can follow this project also on:
 | [2024-04-18](./sketches/d2024_04_18) | Circuíto IV | [./sketches/d2024_04_18/__main__.py](./sketches/d2024_04_18/__main__.py) | ![2024-04-18](./sketches/d2024_04_18/2024-04-18.png) |
 | [2024-04-19](./sketches/d2024_04_19) | Circuíto V | [./sketches/d2024_04_19/__main__.py](./sketches/d2024_04_19/__main__.py) | ![2024-04-19](./sketches/d2024_04_19/2024-04-19.png) |
 | [2024-04-20](./sketches/d2024_04_20) | Circuíto VI | [./sketches/d2024_04_20/__main__.py](./sketches/d2024_04_20/__main__.py) | ![2024-04-20](./sketches/d2024_04_20/2024-04-20.png) |
+| [2024-04-21](./sketches/d2024_04_21) | Circuíto VII | [./sketches/d2024_04_21/__main__.py](./sketches/d2024_04_21/__main__.py) | ![2024-04-21](./sketches/d2024_04_21/2024-04-21.png) |
 <!-- Next Item -->
+
 
 
 
