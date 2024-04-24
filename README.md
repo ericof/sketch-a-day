@@ -75,7 +75,9 @@ You can follow this project also on:
 | [2024-04-21](./sketches/d2024_04_21) | Circuíto VII | [./sketches/d2024_04_21/__main__.py](./sketches/d2024_04_21/__main__.py) | ![2024-04-21](./sketches/d2024_04_21/2024-04-21.png) |
 | [2024-04-22](./sketches/d2024_04_22) | Circuíto VIII | [./sketches/d2024_04_22/__main__.py](./sketches/d2024_04_22/__main__.py) | ![2024-04-22](./sketches/d2024_04_22/2024-04-22.png) |
 | [2024-04-23](./sketches/d2024_04_23) | Circuíto IX | [./sketches/d2024_04_23/__main__.py](./sketches/d2024_04_23/__main__.py) | ![2024-04-23](./sketches/d2024_04_23/2024-04-23.png) |
+| [2024-04-24](./sketches/d2024_04_24) | Espiral I | [./sketches/d2024_04_24/__main__.py](./sketches/d2024_04_24/__main__.py) | ![2024-04-24](./sketches/d2024_04_24/2024-04-24.png) |
 <!-- Next Item -->
+
 
 
 
