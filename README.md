@@ -78,7 +78,9 @@ You can follow this project also on:
 | [2024-04-24](./sketches/d2024_04_24) | Espiral I | [./sketches/d2024_04_24/__main__.py](./sketches/d2024_04_24/__main__.py) | ![2024-04-24](./sketches/d2024_04_24/2024-04-24.png) |
 | [2024-04-25](./sketches/d2024_04_25) | Espiral II | [./sketches/d2024_04_25/__main__.py](./sketches/d2024_04_25/__main__.py) | ![2024-04-25](./sketches/d2024_04_25/2024-04-25.png) |
 | [2024-04-26](./sketches/d2024_04_26) | Espiral III | [./sketches/d2024_04_26/__main__.py](./sketches/d2024_04_26/__main__.py) | ![2024-04-26](./sketches/d2024_04_26/2024-04-26.png) |
+| [2024-04-27](./sketches/d2024_04_27) | Espiral IV | [./sketches/d2024_04_27/__main__.py](./sketches/d2024_04_27/__main__.py) | ![2024-04-27](./sketches/d2024_04_27/2024-04-27.png) |
 <!-- Next Item -->
+
 
 
 
