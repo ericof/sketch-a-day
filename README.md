@@ -81,7 +81,9 @@ You can follow this project also on:
 | [2024-04-27](./sketches/d2024_04_27) | Espiral IV | [./sketches/d2024_04_27/__main__.py](./sketches/d2024_04_27/__main__.py) | ![2024-04-27](./sketches/d2024_04_27/2024-04-27.png) |
 | [2024-04-28](./sketches/d2024_04_28) | Espiral V | [./sketches/d2024_04_28/__main__.py](./sketches/d2024_04_28/__main__.py) | ![2024-04-28](./sketches/d2024_04_28/2024-04-28.png) |
 | [2024-04-29](./sketches/d2024_04_29) | Grades e Círculos | [./sketches/d2024_04_29/__main__.py](./sketches/d2024_04_29/__main__.py) | ![2024-04-29](./sketches/d2024_04_29/2024-04-29.png) |
+| [2024-04-30](./sketches/d2024_04_30) | Grades e Círculos II | [./sketches/d2024_04_30/__main__.py](./sketches/d2024_04_30/__main__.py) | ![2024-04-30](./sketches/d2024_04_30/2024-04-30.png) |
 <!-- Next Item -->
+
 
 
 
