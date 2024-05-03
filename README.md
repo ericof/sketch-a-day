@@ -84,7 +84,9 @@ You can follow this project also on:
 | [2024-04-30](./sketches/d2024_04_30) | Grades e Círculos II | [./sketches/d2024_04_30/__main__.py](./sketches/d2024_04_30/__main__.py) | ![2024-04-30](./sketches/d2024_04_30/2024-04-30.png) |
 | [2024-05-01](./sketches/d2024_05_01) | Grades e Círculos III | [./sketches/d2024_05_01/__main__.py](./sketches/d2024_05_01/__main__.py) | ![2024-05-01](./sketches/d2024_05_01/2024-05-01.png) |
 | [2024-05-02](./sketches/d2024_05_02) | Grades e Círculos IV | [./sketches/d2024_05_02/__main__.py](./sketches/d2024_05_02/__main__.py) | ![2024-05-02](./sketches/d2024_05_02/2024-05-02.png) |
+| [2024-05-03](./sketches/d2024_05_03) | Grades e Círculos (elipses) V | [./sketches/d2024_05_03/__main__.py](./sketches/d2024_05_03/__main__.py) | ![2024-05-03](./sketches/d2024_05_03/2024-05-03.png) |
 <!-- Next Item -->
+
 
 
 
