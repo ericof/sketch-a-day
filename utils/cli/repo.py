@@ -26,9 +26,9 @@ def commit_changes(info: SketchInfo):
 
     cmds = [
         (f"git add {readme} {path}", True),  # Add files
-        ("poetry run pre-commit run -a", False),  # First time, fix issues
+        ("hatch run check", False),  # First time, fix issues
         (f"git add {readme} {path}", True),  # Add files
-        ("poetry run pre-commit run -a", True),  # Second time, fail if error
+        ("hatch run check", True),  # Second time, fail if error
         (f"git add {readme} {path}", True),  # Add files
         (
             f'GIT_COMMITTER_DATE="{formatted}" '

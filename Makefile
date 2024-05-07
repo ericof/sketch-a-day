@@ -25,4 +25,4 @@ help: ## This help message
 
 .PHONY: lint
 lint: ## Run checks
-	@poetry run pre-commit run -a
+	@hatch run check
