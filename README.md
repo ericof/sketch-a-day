@@ -97,7 +97,9 @@ You can follow this project also on:
 | [2024-05-13](./sketches/d2024_05_13) | Grade e círculos 6 | [./sketches/d2024_05_13/__main__.py](./sketches/d2024_05_13/__main__.py) | ![2024-05-13](./sketches/d2024_05_13/2024-05-13.gif) |
 | [2024-05-14](./sketches/d2024_05_14) | Grade e círculos 7 | [./sketches/d2024_05_14/__main__.py](./sketches/d2024_05_14/__main__.py) | ![2024-05-14](./sketches/d2024_05_14/2024-05-14.gif) |
 | [2024-05-15](./sketches/d2024_05_15) | Grade e círculos 8 | [./sketches/d2024_05_15/__main__.py](./sketches/d2024_05_15/__main__.py) | ![2024-05-15](./sketches/d2024_05_15/2024-05-15.gif) |
+| [2024-05-16](./sketches/d2024_05_16) | Grade e círculos 9 | [./sketches/d2024_05_16/__main__.py](./sketches/d2024_05_16/__main__.py) | ![2024-05-16](./sketches/d2024_05_16/2024-05-16.png) |
 <!-- Next Item -->
+
 
 
 
