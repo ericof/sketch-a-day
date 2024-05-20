@@ -1,3 +1,4 @@
+import tempfile
 from pathlib import Path
 
 import numpy as np
@@ -38,3 +39,13 @@ def save_sketch_image(sketch: SketchInfo):
     img_path = sketch.path / f"{sketch.day}.{sketch.format}"
     img = py5.get_pixels(0, 0, LARGURA, ALTURA)
     img.save(img_path)
+
+
+def tmp_path() -> Path:
+    return Path(tempfile.mkdtemp())
+
+
+def save_frame(tmp_path, img_name, frame) -> Path:
+    path = tmp_path / f"{img_name}_{frame:03d}.png"
+    py5.save_frame(path)
+    return path
