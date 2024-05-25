@@ -106,7 +106,9 @@ You can follow this project also on:
 | [2024-05-22](./sketches/d2024_05_22) | Redemoinho III | [./sketches/d2024_05_22/__main__.py](./sketches/d2024_05_22/__main__.py) | ![2024-05-22](./sketches/d2024_05_22/2024-05-22.png) |
 | [2024-05-23](./sketches/d2024_05_23) | Grades Sobrepostas | [./sketches/d2024_05_23/__main__.py](./sketches/d2024_05_23/__main__.py) | ![2024-05-23](./sketches/d2024_05_23/2024-05-23.png) |
 | [2024-05-24](./sketches/d2024_05_24) | Grades Sobrepostas II | [./sketches/d2024_05_24/__main__.py](./sketches/d2024_05_24/__main__.py) | ![2024-05-24](./sketches/d2024_05_24/2024-05-24.png) |
+| [2024-05-25](./sketches/d2024_05_25) | Grades Sobrepostas III | [./sketches/d2024_05_25/__main__.py](./sketches/d2024_05_25/__main__.py) | ![2024-05-25](./sketches/d2024_05_25/2024-05-25.png) |
 <!-- Next Item -->
+
 
 
 
