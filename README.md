@@ -116,7 +116,9 @@ You can follow this project also on:
 | [2024-06-01](./sketches/d2024_06_01) | Grades sobrepostas 3 | [./sketches/d2024_06_01/__main__.py](./sketches/d2024_06_01/__main__.py) | ![2024-06-01](./sketches/d2024_06_01/2024-06-01.png) |
 | [2024-06-02](./sketches/d2024_06_02) | Grades sobrepostas 4 | [./sketches/d2024_06_02/__main__.py](./sketches/d2024_06_02/__main__.py) | ![2024-06-02](./sketches/d2024_06_02/2024-06-02.png) |
 | [2024-06-03](./sketches/d2024_06_03) | Grades sobrepostas 5 | [./sketches/d2024_06_03/__main__.py](./sketches/d2024_06_03/__main__.py) | ![2024-06-03](./sketches/d2024_06_03/2024-06-03.png) |
+| [2024-06-04](./sketches/d2024_06_04) | Grades sobrepostas 6 | [./sketches/d2024_06_04/__main__.py](./sketches/d2024_06_04/__main__.py) | ![2024-06-04](./sketches/d2024_06_04/2024-06-04.png) |
 <!-- Next Item -->
+
 
 
 
