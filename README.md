@@ -122,7 +122,9 @@ You can follow this project also on:
 | [2024-06-07](./sketches/d2024_06_07) | Grades sobrepostas 8 | [./sketches/d2024_06_07/__main__.py](./sketches/d2024_06_07/__main__.py) | ![2024-06-07](./sketches/d2024_06_07/2024-06-07.png) |
 | [2024-06-08](./sketches/d2024_06_08) | Espiral Redux | [./sketches/d2024_06_08/__main__.py](./sketches/d2024_06_08/__main__.py) | ![2024-06-08](./sketches/d2024_06_08/2024-06-08.png) |
 | [2024-06-09](./sketches/d2024_06_09) | Espiral Redux 2 | [./sketches/d2024_06_09/__main__.py](./sketches/d2024_06_09/__main__.py) | ![2024-06-09](./sketches/d2024_06_09/2024-06-09.png) |
+| [2024-06-10](./sketches/d2024_06_10) | Espiral Redux 3 | [./sketches/d2024_06_10/__main__.py](./sketches/d2024_06_10/__main__.py) | ![2024-06-10](./sketches/d2024_06_10/2024-06-10.png) |
 <!-- Next Item -->
+
 
 
 
