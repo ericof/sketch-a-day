@@ -128,7 +128,9 @@ You can follow this project also on:
 | [2024-06-13](./sketches/d2024_06_13) | Espiral Redux 6 | [./sketches/d2024_06_13/__main__.py](./sketches/d2024_06_13/__main__.py) | ![2024-06-13](./sketches/d2024_06_13/2024-06-13.png) |
 | [2024-06-14](./sketches/d2024_06_14) | Espiral Redux 7 | [./sketches/d2024_06_14/__main__.py](./sketches/d2024_06_14/__main__.py) | ![2024-06-14](./sketches/d2024_06_14/2024-06-14.png) |
 | [2024-06-15](./sketches/d2024_06_15) | Espiral Redux 8 | [./sketches/d2024_06_15/__main__.py](./sketches/d2024_06_15/__main__.py) | ![2024-06-15](./sketches/d2024_06_15/2024-06-15.png) |
+| [2024-06-16](./sketches/d2024_06_16) | Espiral Redux 9 | [./sketches/d2024_06_16/__main__.py](./sketches/d2024_06_16/__main__.py) | ![2024-06-16](./sketches/d2024_06_16/2024-06-16.png) |
 <!-- Next Item -->
+
 
 
 
