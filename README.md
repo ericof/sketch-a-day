@@ -133,7 +133,9 @@ You can follow this project also on:
 | [2024-06-18](./sketches/d2024_06_18) | Espiral Redux 11 | [./sketches/d2024_06_18/__main__.py](./sketches/d2024_06_18/__main__.py) | ![2024-06-18](./sketches/d2024_06_18/2024-06-18.png) |
 | [2024-06-19](./sketches/d2024_06_19) | Espiral Redux 12 | [./sketches/d2024_06_19/__main__.py](./sketches/d2024_06_19/__main__.py) | ![2024-06-19](./sketches/d2024_06_19/2024-06-19.png) |
 | [2024-06-20](./sketches/d2024_06_20) | Espiral Redux 13 | [./sketches/d2024_06_20/__main__.py](./sketches/d2024_06_20/__main__.py) | ![2024-06-20](./sketches/d2024_06_20/2024-06-20.png) |
+| [2024-06-21](./sketches/d2024_06_21) | Formas Geométricas 1 | [./sketches/d2024_06_21/__main__.py](./sketches/d2024_06_21/__main__.py) | ![2024-06-21](./sketches/d2024_06_21/2024-06-21.png) |
 <!-- Next Item -->
+
 
 
 
