@@ -143,7 +143,9 @@ You can follow this project also on:
 | [2024-06-28](./sketches/d2024_06_28) | Formas Geométricas 7 | [./sketches/d2024_06_28/__main__.py](./sketches/d2024_06_28/__main__.py) | ![2024-06-28](./sketches/d2024_06_28/2024-06-28.png) |
 | [2024-06-29](./sketches/d2024_06_29) | Formas Geométricas 8 | [./sketches/d2024_06_29/__main__.py](./sketches/d2024_06_29/__main__.py) | ![2024-06-29](./sketches/d2024_06_29/2024-06-29.png) |
 | [2024-06-30](./sketches/d2024_06_30) | Formas Geométricas 9 | [./sketches/d2024_06_30/__main__.py](./sketches/d2024_06_30/__main__.py) | ![2024-06-30](./sketches/d2024_06_30/2024-06-30.png) |
+| [2024-07-01](./sketches/d2024_07_01) | Formas Geométricas 10 | [./sketches/d2024_07_01/__main__.py](./sketches/d2024_07_01/__main__.py) | ![2024-07-01](./sketches/d2024_07_01/2024-07-01.png) |
 <!-- Next Item -->
+
 
 
 
