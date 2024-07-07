@@ -149,7 +149,9 @@ You can follow this project also on:
 | [2024-07-04](./sketches/d2024_07_04) | Manchas 1 | [./sketches/d2024_07_04/__main__.py](./sketches/d2024_07_04/__main__.py) | ![2024-07-04](./sketches/d2024_07_04/2024-07-04.png) |
 | [2024-07-05](./sketches/d2024_07_05) | Manchas 2 | [./sketches/d2024_07_05/__main__.py](./sketches/d2024_07_05/__main__.py) | ![2024-07-05](./sketches/d2024_07_05/2024-07-05.png) |
 | [2024-07-06](./sketches/d2024_07_06) | Dominos | [./sketches/d2024_07_06/__main__.py](./sketches/d2024_07_06/__main__.py) | ![2024-07-06](./sketches/d2024_07_06/2024-07-06.png) |
+| [2024-07-07](./sketches/d2024_07_07) | Memórias 8-bit (1) | [./sketches/d2024_07_07/__main__.py](./sketches/d2024_07_07/__main__.py) | ![2024-07-07](./sketches/d2024_07_07/2024-07-07.png) |
 <!-- Next Item -->
+
 
 
 
