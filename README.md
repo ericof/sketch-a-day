@@ -155,7 +155,9 @@ You can follow this project also on:
 | [2024-07-10](./sketches/d2024_07_10) | Memórias 8-bit (4) | [./sketches/d2024_07_10/__main__.py](./sketches/d2024_07_10/__main__.py) | ![2024-07-10](./sketches/d2024_07_10/2024-07-10.png) |
 | [2024-07-11](./sketches/d2024_07_11) | Don't Stand so Close To Me '86 | [./sketches/d2024_07_11/__main__.py](./sketches/d2024_07_11/__main__.py) | ![2024-07-11](./sketches/d2024_07_11/2024-07-11.png) |
 | [2024-07-12](./sketches/d2024_07_12) | Syncronicity II | [./sketches/d2024_07_12/__main__.py](./sketches/d2024_07_12/__main__.py) | ![2024-07-12](./sketches/d2024_07_12/2024-07-12.png) |
+| [2024-07-13](./sketches/d2024_07_13) | Memórias 8-bit (5) | [./sketches/d2024_07_13/__main__.py](./sketches/d2024_07_13/__main__.py) | ![2024-07-13](./sketches/d2024_07_13/2024-07-13.png) |
 <!-- Next Item -->
+
 
 
 
