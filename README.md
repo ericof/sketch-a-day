@@ -158,7 +158,9 @@ You can follow this project also on:
 | [2024-07-13](./sketches/d2024_07_13) | Memórias 8-bit (5) | [./sketches/d2024_07_13/__main__.py](./sketches/d2024_07_13/__main__.py) | ![2024-07-13](./sketches/d2024_07_13/2024-07-13.png) |
 | [2024-07-14](./sketches/d2024_07_14) | Memórias 8-bit (6) | [./sketches/d2024_07_14/__main__.py](./sketches/d2024_07_14/__main__.py) | ![2024-07-14](./sketches/d2024_07_14/2024-07-14.png) |
 | [2024-07-15](./sketches/d2024_07_15) | Memórias 8-bit - Interferência (7) | [./sketches/d2024_07_15/__main__.py](./sketches/d2024_07_15/__main__.py) | ![2024-07-15](./sketches/d2024_07_15/2024-07-15.png) |
+| [2024-07-16](./sketches/d2024_07_16) | Memórias 8-bit - Interferência (8) | [./sketches/d2024_07_16/__main__.py](./sketches/d2024_07_16/__main__.py) | ![2024-07-16](./sketches/d2024_07_16/2024-07-16.png) |
 <!-- Next Item -->
+
 
 
 
