@@ -162,7 +162,9 @@ You can follow this project also on:
 | [2024-07-17](./sketches/d2024_07_17) | Memórias 8-bit - Interferência (9) | [./sketches/d2024_07_17/__main__.py](./sketches/d2024_07_17/__main__.py) | ![2024-07-17](./sketches/d2024_07_17/2024-07-17.png) |
 | [2024-07-18](./sketches/d2024_07_18) | Memórias 8-bit - Interferência (10) | [./sketches/d2024_07_18/__main__.py](./sketches/d2024_07_18/__main__.py) | ![2024-07-18](./sketches/d2024_07_18/2024-07-18.png) |
 | [2024-07-19](./sketches/d2024_07_19) | Memórias 8-bit - Interferência (11) | [./sketches/d2024_07_19/__main__.py](./sketches/d2024_07_19/__main__.py) | ![2024-07-19](./sketches/d2024_07_19/2024-07-19.png) |
+| [2024-07-20](./sketches/d2024_07_20) | Memórias 8-bit - Interferência (12) | [./sketches/d2024_07_20/__main__.py](./sketches/d2024_07_20/__main__.py) | ![2024-07-20](./sketches/d2024_07_20/2024-07-20.png) |
 <!-- Next Item -->
+
 
 
 
