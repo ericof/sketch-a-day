@@ -164,7 +164,9 @@ You can follow this project also on:
 | [2024-07-19](./sketches/d2024_07_19) | Memórias 8-bit - Interferência (11) | [./sketches/d2024_07_19/__main__.py](./sketches/d2024_07_19/__main__.py) | ![2024-07-19](./sketches/d2024_07_19/2024-07-19.png) |
 | [2024-07-20](./sketches/d2024_07_20) | Memórias 8-bit - Interferência (12) | [./sketches/d2024_07_20/__main__.py](./sketches/d2024_07_20/__main__.py) | ![2024-07-20](./sketches/d2024_07_20/2024-07-20.png) |
 | [2024-07-21](./sketches/d2024_07_21) | Colisões 1 | [./sketches/d2024_07_21/__main__.py](./sketches/d2024_07_21/__main__.py) | ![2024-07-21](./sketches/d2024_07_21/2024-07-21.png) |
+| [2024-07-22](./sketches/d2024_07_22) | Colisões 2 | [./sketches/d2024_07_22/__main__.py](./sketches/d2024_07_22/__main__.py) | ![2024-07-22](./sketches/d2024_07_22/2024-07-22.png) |
 <!-- Next Item -->
+
 
 
 
