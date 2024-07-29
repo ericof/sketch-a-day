@@ -172,7 +172,9 @@ You can follow this project also on:
 | [2024-07-27](./sketches/d2024_07_27) | Padrões 1 | [./sketches/d2024_07_27/__main__.py](./sketches/d2024_07_27/__main__.py) | ![2024-07-27](./sketches/d2024_07_27/2024-07-27.png) |
 | [2024-07-28](./sketches/d2024_07_28) | Padrões 2 | [./sketches/d2024_07_28/__main__.py](./sketches/d2024_07_28/__main__.py) | ![2024-07-28](./sketches/d2024_07_28/2024-07-28.png) |
 | [2024-07-29](./sketches/d2024_07_29) | Padrões 3 | [./sketches/d2024_07_29/__main__.py](./sketches/d2024_07_29/__main__.py) | ![2024-07-29](./sketches/d2024_07_29/2024-07-29.png) |
+| [2024-07-30](./sketches/d2024_07_30) | Padrões 4 | [./sketches/d2024_07_30/__main__.py](./sketches/d2024_07_30/__main__.py) | ![2024-07-30](./sketches/d2024_07_30/2024-07-30.png) |
 <!-- Next Item -->
+
 
 
 
