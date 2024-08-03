@@ -176,7 +176,9 @@ You can follow this project also on:
 | [2024-07-31](./sketches/d2024_07_31) | Padrões 5 | [./sketches/d2024_07_31/__main__.py](./sketches/d2024_07_31/__main__.py) | ![2024-07-31](./sketches/d2024_07_31/2024-07-31.png) |
 | [2024-08-01](./sketches/d2024_08_01) | Padrões 6 | [./sketches/d2024_08_01/__main__.py](./sketches/d2024_08_01/__main__.py) | ![2024-08-01](./sketches/d2024_08_01/2024-08-01.png) |
 | [2024-08-02](./sketches/d2024_08_02) | Padrões 7 | [./sketches/d2024_08_02/__main__.py](./sketches/d2024_08_02/__main__.py) | ![2024-08-02](./sketches/d2024_08_02/2024-08-02.png) |
+| [2024-08-03](./sketches/d2024_08_03) | Padrões 8 | [./sketches/d2024_08_03/__main__.py](./sketches/d2024_08_03/__main__.py) | ![2024-08-03](./sketches/d2024_08_03/2024-08-03.png) |
 <!-- Next Item -->
+
 
 
 
