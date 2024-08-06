@@ -179,7 +179,9 @@ You can follow this project also on:
 | [2024-08-03](./sketches/d2024_08_03) | Padrões 8 | [./sketches/d2024_08_03/__main__.py](./sketches/d2024_08_03/__main__.py) | ![2024-08-03](./sketches/d2024_08_03/2024-08-03.png) |
 | [2024-08-04](./sketches/d2024_08_04) | Padrões 9 | [./sketches/d2024_08_04/__main__.py](./sketches/d2024_08_04/__main__.py) | ![2024-08-04](./sketches/d2024_08_04/2024-08-04.png) |
 | [2024-08-05](./sketches/d2024_08_05) | Padrões 10 | [./sketches/d2024_08_05/__main__.py](./sketches/d2024_08_05/__main__.py) | ![2024-08-05](./sketches/d2024_08_05/2024-08-05.png) |
+| [2024-08-06](./sketches/d2024_08_06) | Padrões 11 | [./sketches/d2024_08_06/__main__.py](./sketches/d2024_08_06/__main__.py) | ![2024-08-06](./sketches/d2024_08_06/2024-08-06.png) |
 <!-- Next Item -->
+
 
 
 
