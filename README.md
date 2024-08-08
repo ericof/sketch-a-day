@@ -181,7 +181,9 @@ You can follow this project also on:
 | [2024-08-05](./sketches/d2024_08_05) | Padrões 10 | [./sketches/d2024_08_05/__main__.py](./sketches/d2024_08_05/__main__.py) | ![2024-08-05](./sketches/d2024_08_05/2024-08-05.png) |
 | [2024-08-06](./sketches/d2024_08_06) | Padrões 11 | [./sketches/d2024_08_06/__main__.py](./sketches/d2024_08_06/__main__.py) | ![2024-08-06](./sketches/d2024_08_06/2024-08-06.png) |
 | [2024-08-07](./sketches/d2024_08_07) | Padrões 12 | [./sketches/d2024_08_07/__main__.py](./sketches/d2024_08_07/__main__.py) | ![2024-08-07](./sketches/d2024_08_07/2024-08-07.png) |
+| [2024-08-08](./sketches/d2024_08_08) | Hotel 01 | [./sketches/d2024_08_08/__main__.py](./sketches/d2024_08_08/__main__.py) | ![2024-08-08](./sketches/d2024_08_08/2024-08-08.png) |
 <!-- Next Item -->
+
 
 
 
