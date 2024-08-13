@@ -186,7 +186,9 @@ You can follow this project also on:
 | [2024-08-10](./sketches/d2024_08_10) | Hotel 03 | [./sketches/d2024_08_10/__main__.py](./sketches/d2024_08_10/__main__.py) | ![2024-08-10](./sketches/d2024_08_10/2024-08-10.png) |
 | [2024-08-11](./sketches/d2024_08_11) | Hotel 04 | [./sketches/d2024_08_11/__main__.py](./sketches/d2024_08_11/__main__.py) | ![2024-08-11](./sketches/d2024_08_11/2024-08-11.png) |
 | [2024-08-12](./sketches/d2024_08_12) | Hotel 05 | [./sketches/d2024_08_12/__main__.py](./sketches/d2024_08_12/__main__.py) | ![2024-08-12](./sketches/d2024_08_12/2024-08-12.png) |
+| [2024-08-13](./sketches/d2024_08_13) | Hotel 06 (@guites@bolha.us) | [./sketches/d2024_08_13/__main__.py](./sketches/d2024_08_13/__main__.py) | ![2024-08-13](./sketches/d2024_08_13/2024-08-13.png) |
 <!-- Next Item -->
+
 
 
 
