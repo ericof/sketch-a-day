@@ -191,7 +191,9 @@ You can follow this project also on:
 | [2024-08-15](./sketches/d2024_08_15) | Hotel 08 | [./sketches/d2024_08_15/__main__.py](./sketches/d2024_08_15/__main__.py) | ![2024-08-15](./sketches/d2024_08_15/2024-08-15.png) |
 | [2024-08-16](./sketches/d2024_08_16) | Hotel 09 | [./sketches/d2024_08_16/__main__.py](./sketches/d2024_08_16/__main__.py) | ![2024-08-16](./sketches/d2024_08_16/2024-08-16.png) |
 | [2024-08-17](./sketches/d2024_08_17) | Concêntrico 1 | [./sketches/d2024_08_17/__main__.py](./sketches/d2024_08_17/__main__.py) | ![2024-08-17](./sketches/d2024_08_17/2024-08-17.png) |
+| [2024-08-18](./sketches/d2024_08_18) | Concêntrico 2 | [./sketches/d2024_08_18/__main__.py](./sketches/d2024_08_18/__main__.py) | ![2024-08-18](./sketches/d2024_08_18/2024-08-18.png) |
 <!-- Next Item -->
+
 
 
 
