@@ -66,6 +66,6 @@ def post_to_site(sketch: Sketch):
     }
     response = session.post(settings["base_url"], json=payload, timeout=3)
     if response.status_code != 201:
-        raise Exception()
+        raise Exception(response.status_code)
     data = response.json()
     return data["@id"]
