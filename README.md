@@ -198,7 +198,9 @@ You can follow this project also on:
 | [2024-08-22](./sketches/d2024_08_22) | Concêntrico 6 | [./sketches/d2024_08_22/__main__.py](./sketches/d2024_08_22/__main__.py) | ![2024-08-22](./sketches/d2024_08_22/2024-08-22.png) |
 | [2024-08-23](./sketches/d2024_08_23) | Concêntrico 7 | [./sketches/d2024_08_23/__main__.py](./sketches/d2024_08_23/__main__.py) | ![2024-08-23](./sketches/d2024_08_23/2024-08-23.png) |
 | [2024-08-24](./sketches/d2024_08_24) | Concêntrico 8 | [./sketches/d2024_08_24/__main__.py](./sketches/d2024_08_24/__main__.py) | ![2024-08-24](./sketches/d2024_08_24/2024-08-24.png) |
+| [2024-08-25](./sketches/d2024_08_25) | Concêntrico 9 | [./sketches/d2024_08_25/__main__.py](./sketches/d2024_08_25/__main__.py) | ![2024-08-25](./sketches/d2024_08_25/2024-08-25.png) |
 <!-- Next Item -->
+
 
 
 
