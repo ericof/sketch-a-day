@@ -202,7 +202,9 @@ You can follow this project also on:
 | [2024-08-26](./sketches/d2024_08_26) | Concêntrico 10 | [./sketches/d2024_08_26/__main__.py](./sketches/d2024_08_26/__main__.py) | ![2024-08-26](./sketches/d2024_08_26/2024-08-26.png) |
 | [2024-08-27](./sketches/d2024_08_27) | Colisões 1 | [./sketches/d2024_08_27/__main__.py](./sketches/d2024_08_27/__main__.py) | ![2024-08-27](./sketches/d2024_08_27/2024-08-27.png) |
 | [2024-08-28](./sketches/d2024_08_28) | Colisões 2 | [./sketches/d2024_08_28/__main__.py](./sketches/d2024_08_28/__main__.py) | ![2024-08-28](./sketches/d2024_08_28/2024-08-28.png) |
+| [2024-08-29](./sketches/d2024_08_29) | Colisões 3 | [./sketches/d2024_08_29/__main__.py](./sketches/d2024_08_29/__main__.py) | ![2024-08-29](./sketches/d2024_08_29/2024-08-29.png) |
 <!-- Next Item -->
+
 
 
 
