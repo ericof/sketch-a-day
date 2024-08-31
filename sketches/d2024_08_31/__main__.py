@@ -1,6 +1,6 @@
 """2024-08-31
-Description
-Alt
+Fraturas Circulares
+Inspirado por @generiyaki@genart.social, implementa um círculo fraturado em pequenos segmentos
 png
 Sketch,py5,CreativeCoding
 """
