@@ -207,7 +207,9 @@ You can follow this project also on:
 | [2024-08-31](./sketches/d2024_08_31) | Fraturas Circulares | [./sketches/d2024_08_31/__main__.py](./sketches/d2024_08_31/__main__.py) | ![2024-08-31](./sketches/d2024_08_31/2024-08-31.png) |
 | [2024-09-01](./sketches/d2024_09_01) | Fraturas Circulares 02 | [./sketches/d2024_09_01/__main__.py](./sketches/d2024_09_01/__main__.py) | ![2024-09-01](./sketches/d2024_09_01/2024-09-01.png) |
 | [2024-09-02](./sketches/d2024_09_02) | Fraturas Circulares 03 | [./sketches/d2024_09_02/__main__.py](./sketches/d2024_09_02/__main__.py) | ![2024-09-02](./sketches/d2024_09_02/2024-09-02.png) |
+| [2024-09-03](./sketches/d2024_09_03) | Fraturas Circulares 04 | [./sketches/d2024_09_03/__main__.py](./sketches/d2024_09_03/__main__.py) | ![2024-09-03](./sketches/d2024_09_03/2024-09-03.png) |
 <!-- Next Item -->
+
 
 
 
