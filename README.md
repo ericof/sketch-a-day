@@ -209,7 +209,9 @@ You can follow this project also on:
 | [2024-09-02](./sketches/d2024_09_02) | Fraturas Circulares 03 | [./sketches/d2024_09_02/__main__.py](./sketches/d2024_09_02/__main__.py) | ![2024-09-02](./sketches/d2024_09_02/2024-09-02.png) |
 | [2024-09-03](./sketches/d2024_09_03) | Fraturas Circulares 04 | [./sketches/d2024_09_03/__main__.py](./sketches/d2024_09_03/__main__.py) | ![2024-09-03](./sketches/d2024_09_03/2024-09-03.png) |
 | [2024-09-04](./sketches/d2024_09_04) | Colorful waves 01 | [./sketches/d2024_09_04/__main__.py](./sketches/d2024_09_04/__main__.py) | ![2024-09-04](./sketches/d2024_09_04/2024-09-04.png) |
+| [2024-09-05](./sketches/d2024_09_05) | Colorful waves 02 | [./sketches/d2024_09_05/__main__.py](./sketches/d2024_09_05/__main__.py) | ![2024-09-05](./sketches/d2024_09_05/2024-09-05.png) |
 <!-- Next Item -->
+
 
 
 
