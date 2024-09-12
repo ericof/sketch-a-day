@@ -216,7 +216,9 @@ You can follow this project also on:
 | [2024-09-09](./sketches/d2024_09_09) | Colorful waves 06 | [./sketches/d2024_09_09/__main__.py](./sketches/d2024_09_09/__main__.py) | ![2024-09-09](./sketches/d2024_09_09/2024-09-09.png) |
 | [2024-09-10](./sketches/d2024_09_10) | Colorful waves 07 | [./sketches/d2024_09_10/__main__.py](./sketches/d2024_09_10/__main__.py) | ![2024-09-10](./sketches/d2024_09_10/2024-09-10.png) |
 | [2024-09-11](./sketches/d2024_09_11) | Colorful waves 08 | [./sketches/d2024_09_11/__main__.py](./sketches/d2024_09_11/__main__.py) | ![2024-09-11](./sketches/d2024_09_11/2024-09-11.png) |
+| [2024-09-12](./sketches/d2024_09_12) | Colorful waves 09 | [./sketches/d2024_09_12/__main__.py](./sketches/d2024_09_12/__main__.py) | ![2024-09-12](./sketches/d2024_09_12/2024-09-12.png) |
 <!-- Next Item -->
+
 
 
 
