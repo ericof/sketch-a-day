@@ -222,7 +222,9 @@ You can follow this project also on:
 | [2024-09-15](./sketches/d2024_09_15) | Árvore Redux I | [./sketches/d2024_09_15/__main__.py](./sketches/d2024_09_15/__main__.py) | ![2024-09-15](./sketches/d2024_09_15/2024-09-15.png) |
 | [2024-09-16](./sketches/d2024_09_16) | Rotating Drum 1 | [./sketches/d2024_09_16/__main__.py](./sketches/d2024_09_16/__main__.py) | ![2024-09-16](./sketches/d2024_09_16/2024-09-16.png) |
 | [2024-09-17](./sketches/d2024_09_17) | Description | [./sketches/d2024_09_17/__main__.py](./sketches/d2024_09_17/__main__.py) | ![2024-09-17](./sketches/d2024_09_17/2024-09-17.png) |
+| [2024-09-17](./sketches/d2024_09_17) | Esfera 01 | [./sketches/d2024_09_17/__main__.py](./sketches/d2024_09_17/__main__.py) | ![2024-09-17](./sketches/d2024_09_17/2024-09-17.png) |
 <!-- Next Item -->
+
 
 
 

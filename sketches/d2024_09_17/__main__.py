@@ -1,6 +1,6 @@
 """2024-09-17
-Description
-Alt
+Esfera 01
+Estudo sobre esferas multicoloridas
 png
 Sketch,py5,CreativeCoding
 """
