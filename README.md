@@ -223,7 +223,9 @@ You can follow this project also on:
 | [2024-09-16](./sketches/d2024_09_16) | Rotating Drum 1 | [./sketches/d2024_09_16/__main__.py](./sketches/d2024_09_16/__main__.py) | ![2024-09-16](./sketches/d2024_09_16/2024-09-16.png) |
 | [2024-09-17](./sketches/d2024_09_17) | Description | [./sketches/d2024_09_17/__main__.py](./sketches/d2024_09_17/__main__.py) | ![2024-09-17](./sketches/d2024_09_17/2024-09-17.png) |
 | [2024-09-17](./sketches/d2024_09_17) | Esfera 01 | [./sketches/d2024_09_17/__main__.py](./sketches/d2024_09_17/__main__.py) | ![2024-09-17](./sketches/d2024_09_17/2024-09-17.png) |
+| [2024-09-18](./sketches/d2024_09_18) | Esfera 02 | [./sketches/d2024_09_18/__main__.py](./sketches/d2024_09_18/__main__.py) | ![2024-09-18](./sketches/d2024_09_18/2024-09-18.png) |
 <!-- Next Item -->
+
 
 
 
