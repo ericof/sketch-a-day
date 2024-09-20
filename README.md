@@ -225,7 +225,9 @@ You can follow this project also on:
 | [2024-09-17](./sketches/d2024_09_17) | Esfera 01 | [./sketches/d2024_09_17/__main__.py](./sketches/d2024_09_17/__main__.py) | ![2024-09-17](./sketches/d2024_09_17/2024-09-17.png) |
 | [2024-09-18](./sketches/d2024_09_18) | Esfera 02 | [./sketches/d2024_09_18/__main__.py](./sketches/d2024_09_18/__main__.py) | ![2024-09-18](./sketches/d2024_09_18/2024-09-18.png) |
 | [2024-09-19](./sketches/d2024_09_19) | Esfera 03 | [./sketches/d2024_09_19/__main__.py](./sketches/d2024_09_19/__main__.py) | ![2024-09-19](./sketches/d2024_09_19/2024-09-19.png) |
+| [2024-09-20](./sketches/d2024_09_20) | Esfera 04 | [./sketches/d2024_09_20/__main__.py](./sketches/d2024_09_20/__main__.py) | ![2024-09-20](./sketches/d2024_09_20/2024-09-20.png) |
 <!-- Next Item -->
+
 
 
 
