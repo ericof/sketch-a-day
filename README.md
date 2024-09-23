@@ -228,7 +228,9 @@ You can follow this project also on:
 | [2024-09-20](./sketches/d2024_09_20) | Esfera 04 | [./sketches/d2024_09_20/__main__.py](./sketches/d2024_09_20/__main__.py) | ![2024-09-20](./sketches/d2024_09_20/2024-09-20.png) |
 | [2024-09-21](./sketches/d2024_09_21) | Selfie 01 | [./sketches/d2024_09_21/__main__.py](./sketches/d2024_09_21/__main__.py) | ![2024-09-21](./sketches/d2024_09_21/2024-09-21.png) |
 | [2024-09-22](./sketches/d2024_09_22) | Selfie 02 | [./sketches/d2024_09_22/__main__.py](./sketches/d2024_09_22/__main__.py) | ![2024-09-22](./sketches/d2024_09_22/2024-09-22.png) |
+| [2024-09-23](./sketches/d2024_09_23) | Selfie 03 | [./sketches/d2024_09_23/__main__.py](./sketches/d2024_09_23/__main__.py) | ![2024-09-23](./sketches/d2024_09_23/2024-09-23.png) |
 <!-- Next Item -->
+
 
 
 
