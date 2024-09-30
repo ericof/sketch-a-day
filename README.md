@@ -235,7 +235,9 @@ You can follow this project also on:
 | [2024-09-27](./sketches/d2024_09_27) | Mondrian Redux 04 | [./sketches/d2024_09_27/__main__.py](./sketches/d2024_09_27/__main__.py) | ![2024-09-27](./sketches/d2024_09_27/2024-09-27.png) |
 | [2024-09-28](./sketches/d2024_09_28) | Mondrian Redux 05 | [./sketches/d2024_09_28/__main__.py](./sketches/d2024_09_28/__main__.py) | ![2024-09-28](./sketches/d2024_09_28/2024-09-28.png) |
 | [2024-09-29](./sketches/d2024_09_29) | Mondrian Redux 06 | [./sketches/d2024_09_29/__main__.py](./sketches/d2024_09_29/__main__.py) | ![2024-09-29](./sketches/d2024_09_29/2024-09-29.png) |
+| [2024-09-30](./sketches/d2024_09_30) | Mondrian Redux 07 | [./sketches/d2024_09_30/__main__.py](./sketches/d2024_09_30/__main__.py) | ![2024-09-30](./sketches/d2024_09_30/2024-09-30.png) |
 <!-- Next Item -->
+
 
 
 
