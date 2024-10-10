@@ -245,7 +245,9 @@ You can follow this project also on:
 | [2024-10-07](./sketches/d2024_10_07) | Ilha digital 04 | [./sketches/d2024_10_07/__main__.py](./sketches/d2024_10_07/__main__.py) | ![2024-10-07](./sketches/d2024_10_07/2024-10-07.png) |
 | [2024-10-08](./sketches/d2024_10_08) | Ilha digital 05 | [./sketches/d2024_10_08/__main__.py](./sketches/d2024_10_08/__main__.py) | ![2024-10-08](./sketches/d2024_10_08/2024-10-08.png) |
 | [2024-10-09](./sketches/d2024_10_09) | Ilha digital 06 | [./sketches/d2024_10_09/__main__.py](./sketches/d2024_10_09/__main__.py) | ![2024-10-09](./sketches/d2024_10_09/2024-10-09.png) |
+| [2024-10-10](./sketches/d2024_10_10) | Ilha digital 07 | [./sketches/d2024_10_10/__main__.py](./sketches/d2024_10_10/__main__.py) | ![2024-10-10](./sketches/d2024_10_10/2024-10-10.png) |
 <!-- Next Item -->
+
 
 
 
