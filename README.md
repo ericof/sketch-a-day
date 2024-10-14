@@ -249,7 +249,9 @@ You can follow this project also on:
 | [2024-10-11](./sketches/d2024_10_11) | Ilha digital 08 | [./sketches/d2024_10_11/__main__.py](./sketches/d2024_10_11/__main__.py) | ![2024-10-11](./sketches/d2024_10_11/2024-10-11.png) |
 | [2024-10-12](./sketches/d2024_10_12) | Ilha digital 09 | [./sketches/d2024_10_12/__main__.py](./sketches/d2024_10_12/__main__.py) | ![2024-10-12](./sketches/d2024_10_12/2024-10-12.png) |
 | [2024-10-13](./sketches/d2024_10_13) | Mosaico 01 | [./sketches/d2024_10_13/__main__.py](./sketches/d2024_10_13/__main__.py) | ![2024-10-13](./sketches/d2024_10_13/2024-10-13.png) |
+| [2024-10-14](./sketches/d2024_10_14) | Mosaico 02 | [./sketches/d2024_10_14/__main__.py](./sketches/d2024_10_14/__main__.py) | ![2024-10-14](./sketches/d2024_10_14/2024-10-14.png) |
 <!-- Next Item -->
+
 
 
 
