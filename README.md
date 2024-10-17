@@ -252,7 +252,9 @@ You can follow this project also on:
 | [2024-10-14](./sketches/d2024_10_14) | Mosaico 02 | [./sketches/d2024_10_14/__main__.py](./sketches/d2024_10_14/__main__.py) | ![2024-10-14](./sketches/d2024_10_14/2024-10-14.png) |
 | [2024-10-15](./sketches/d2024_10_15) | Mosaico 03 | [./sketches/d2024_10_15/__main__.py](./sketches/d2024_10_15/__main__.py) | ![2024-10-15](./sketches/d2024_10_15/2024-10-15.png) |
 | [2024-10-16](./sketches/d2024_10_16) | Planejamento 01 | [./sketches/d2024_10_16/__main__.py](./sketches/d2024_10_16/__main__.py) | ![2024-10-16](./sketches/d2024_10_16/2024-10-16.png) |
+| [2024-10-17](./sketches/d2024_10_17) | Planejamento 02 | [./sketches/d2024_10_17/__main__.py](./sketches/d2024_10_17/__main__.py) | ![2024-10-17](./sketches/d2024_10_17/2024-10-17.png) |
 <!-- Next Item -->
+
 
 
 
