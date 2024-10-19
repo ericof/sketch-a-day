@@ -254,7 +254,9 @@ You can follow this project also on:
 | [2024-10-16](./sketches/d2024_10_16) | Planejamento 01 | [./sketches/d2024_10_16/__main__.py](./sketches/d2024_10_16/__main__.py) | ![2024-10-16](./sketches/d2024_10_16/2024-10-16.png) |
 | [2024-10-17](./sketches/d2024_10_17) | Planejamento 02 | [./sketches/d2024_10_17/__main__.py](./sketches/d2024_10_17/__main__.py) | ![2024-10-17](./sketches/d2024_10_17/2024-10-17.png) |
 | [2024-10-18](./sketches/d2024_10_18) | Planejamento 03 | [./sketches/d2024_10_18/__main__.py](./sketches/d2024_10_18/__main__.py) | ![2024-10-18](./sketches/d2024_10_18/2024-10-18.png) |
+| [2024-10-19](./sketches/d2024_10_19) | Planejamento 04 | [./sketches/d2024_10_19/__main__.py](./sketches/d2024_10_19/__main__.py) | ![2024-10-19](./sketches/d2024_10_19/2024-10-19.png) |
 <!-- Next Item -->
+
 
 
 
