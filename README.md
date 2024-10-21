@@ -256,7 +256,9 @@ You can follow this project also on:
 | [2024-10-18](./sketches/d2024_10_18) | Planejamento 03 | [./sketches/d2024_10_18/__main__.py](./sketches/d2024_10_18/__main__.py) | ![2024-10-18](./sketches/d2024_10_18/2024-10-18.png) |
 | [2024-10-19](./sketches/d2024_10_19) | Planejamento 04 | [./sketches/d2024_10_19/__main__.py](./sketches/d2024_10_19/__main__.py) | ![2024-10-19](./sketches/d2024_10_19/2024-10-19.png) |
 | [2024-10-20](./sketches/d2024_10_20) | Planejamento 05 | [./sketches/d2024_10_20/__main__.py](./sketches/d2024_10_20/__main__.py) | ![2024-10-20](./sketches/d2024_10_20/2024-10-20.png) |
+| [2024-10-21](./sketches/d2024_10_21) | Mais mosaícos | [./sketches/d2024_10_21/__main__.py](./sketches/d2024_10_21/__main__.py) | ![2024-10-21](./sketches/d2024_10_21/2024-10-21.png) |
 <!-- Next Item -->
+
 
 
 
