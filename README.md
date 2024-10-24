@@ -259,7 +259,9 @@ You can follow this project also on:
 | [2024-10-21](./sketches/d2024_10_21) | Mais mosaícos | [./sketches/d2024_10_21/__main__.py](./sketches/d2024_10_21/__main__.py) | ![2024-10-21](./sketches/d2024_10_21/2024-10-21.png) |
 | [2024-10-22](./sketches/d2024_10_22) | Mais mosaícos 02 | [./sketches/d2024_10_22/__main__.py](./sketches/d2024_10_22/__main__.py) | ![2024-10-22](./sketches/d2024_10_22/2024-10-22.png) |
 | [2024-10-23](./sketches/d2024_10_23) | Mais mosaícos 03 | [./sketches/d2024_10_23/__main__.py](./sketches/d2024_10_23/__main__.py) | ![2024-10-23](./sketches/d2024_10_23/2024-10-23.png) |
+| [2024-10-24](./sketches/d2024_10_24) | Mais mosaícos 03 | [./sketches/d2024_10_24/__main__.py](./sketches/d2024_10_24/__main__.py) | ![2024-10-24](./sketches/d2024_10_24/2024-10-24.png) |
 <!-- Next Item -->
+
 
 
 
