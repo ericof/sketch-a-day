@@ -263,7 +263,9 @@ You can follow this project also on:
 | [2024-10-25](./sketches/d2024_10_25) | Mais mosaícos 04 | [./sketches/d2024_10_25/__main__.py](./sketches/d2024_10_25/__main__.py) | ![2024-10-25](./sketches/d2024_10_25/2024-10-25.png) |
 | [2024-10-26](./sketches/d2024_10_26) | Exercício de Esperança | [./sketches/d2024_10_26/__main__.py](./sketches/d2024_10_26/__main__.py) | ![2024-10-26](./sketches/d2024_10_26/2024-10-26.png) |
 | [2024-10-27](./sketches/d2024_10_27) | Exercício de Experiência | [./sketches/d2024_10_27/__main__.py](./sketches/d2024_10_27/__main__.py) | ![2024-10-27](./sketches/d2024_10_27/2024-10-27.png) |
+| [2024-10-28](./sketches/d2024_10_28) | Choque de realidade | [./sketches/d2024_10_28/__main__.py](./sketches/d2024_10_28/__main__.py) | ![2024-10-28](./sketches/d2024_10_28/2024-10-28.png) |
 <!-- Next Item -->
+
 
 
 
