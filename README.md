@@ -266,7 +266,9 @@ You can follow this project also on:
 | [2024-10-28](./sketches/d2024_10_28) | Choque de realidade | [./sketches/d2024_10_28/__main__.py](./sketches/d2024_10_28/__main__.py) | ![2024-10-28](./sketches/d2024_10_28/2024-10-28.png) |
 | [2024-10-29](./sketches/d2024_10_29) | Choque de realidade 02 | [./sketches/d2024_10_29/__main__.py](./sketches/d2024_10_29/__main__.py) | ![2024-10-29](./sketches/d2024_10_29/2024-10-29.png) |
 | [2024-10-30](./sketches/d2024_10_30) | Choque de realidade 03 | [./sketches/d2024_10_30/__main__.py](./sketches/d2024_10_30/__main__.py) | ![2024-10-30](./sketches/d2024_10_30/2024-10-30.png) |
+| [2024-10-31](./sketches/d2024_10_31) | Andy Warhol ❤️ São Paulo | [./sketches/d2024_10_31/__main__.py](./sketches/d2024_10_31/__main__.py) | ![2024-10-31](./sketches/d2024_10_31/2024-10-31.png) |
 <!-- Next Item -->
+
 
 
 
