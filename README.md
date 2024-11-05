@@ -272,7 +272,9 @@ You can follow this project also on:
 | [2024-11-03](./sketches/d2024_11_03) | Memórias 16-bit II | [./sketches/d2024_11_03/__main__.py](./sketches/d2024_11_03/__main__.py) | ![2024-11-03](./sketches/d2024_11_03/2024-11-03.png) |
 | [2024-11-04](./sketches/d2024_11_04) | Memórias 16-bit III | [./sketches/d2024_11_04/__main__.py](./sketches/d2024_11_04/__main__.py) | ![2024-11-04](./sketches/d2024_11_04/2024-11-04.png) |
 | [2024-11-05](./sketches/d2024_11_05) | Memórias 16-bit IV | [./sketches/d2024_11_05/__main__.py](./sketches/d2024_11_05/__main__.py) | ![2024-11-05](./sketches/d2024_11_05/2024-11-05.png) |
+| [2024-11-06](./sketches/d2024_11_06) | Memórias 16-bit V | [./sketches/d2024_11_06/__main__.py](./sketches/d2024_11_06/__main__.py) | ![2024-11-06](./sketches/d2024_11_06/2024-11-06.png) |
 <!-- Next Item -->
+
 
 
 
