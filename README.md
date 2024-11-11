@@ -277,7 +277,9 @@ You can follow this project also on:
 | [2024-11-08](./sketches/d2024_11_08) | Memórias 16-bit VII | [./sketches/d2024_11_08/__main__.py](./sketches/d2024_11_08/__main__.py) | ![2024-11-08](./sketches/d2024_11_08/2024-11-08.png) |
 | [2024-11-09](./sketches/d2024_11_09) | Memórias 16-bit VIII | [./sketches/d2024_11_09/__main__.py](./sketches/d2024_11_09/__main__.py) | ![2024-11-09](./sketches/d2024_11_09/2024-11-09.png) |
 | [2024-11-10](./sketches/d2024_11_10) | Memórias 16-bit IX | [./sketches/d2024_11_10/__main__.py](./sketches/d2024_11_10/__main__.py) | ![2024-11-10](./sketches/d2024_11_10/2024-11-10.png) |
+| [2024-11-11](./sketches/d2024_11_11) | Memórias 16-bit X | [./sketches/d2024_11_11/__main__.py](./sketches/d2024_11_11/__main__.py) | ![2024-11-11](./sketches/d2024_11_11/2024-11-11.png) |
 <!-- Next Item -->
+
 
 
 
