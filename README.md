@@ -283,7 +283,9 @@ You can follow this project also on:
 | [2024-11-14](./sketches/d2024_11_14) | Memórias 16-bit XIII | [./sketches/d2024_11_14/__main__.py](./sketches/d2024_11_14/__main__.py) | ![2024-11-14](./sketches/d2024_11_14/2024-11-14.png) |
 | [2024-11-15](./sketches/d2024_11_15) | Memórias 16-bit XIX | [./sketches/d2024_11_15/__main__.py](./sketches/d2024_11_15/__main__.py) | ![2024-11-15](./sketches/d2024_11_15/2024-11-15.png) |
 | [2024-11-16](./sketches/d2024_11_16) | Memórias 16-bit XX | [./sketches/d2024_11_16/__main__.py](./sketches/d2024_11_16/__main__.py) | ![2024-11-16](./sketches/d2024_11_16/2024-11-16.png) |
+| [2024-11-17](./sketches/d2024_11_17) | Circuíto Redux I | [./sketches/d2024_11_17/__main__.py](./sketches/d2024_11_17/__main__.py) | ![2024-11-17](./sketches/d2024_11_17/2024-11-17.png) |
 <!-- Next Item -->
+
 
 
 
