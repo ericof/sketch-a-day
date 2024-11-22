@@ -288,7 +288,9 @@ You can follow this project also on:
 | [2024-11-19](./sketches/d2024_11_19) | Circuíto Redux III | [./sketches/d2024_11_19/__main__.py](./sketches/d2024_11_19/__main__.py) | ![2024-11-19](./sketches/d2024_11_19/2024-11-19.png) |
 | [2024-11-20](./sketches/d2024_11_20) | Circuíto Redux IV | [./sketches/d2024_11_20/__main__.py](./sketches/d2024_11_20/__main__.py) | ![2024-11-20](./sketches/d2024_11_20/2024-11-20.png) |
 | [2024-11-21](./sketches/d2024_11_21) | Backlog I | [./sketches/d2024_11_21/__main__.py](./sketches/d2024_11_21/__main__.py) | ![2024-11-21](./sketches/d2024_11_21/2024-11-21.png) |
+| [2024-11-22](./sketches/d2024_11_22) | Backlog II | [./sketches/d2024_11_22/__main__.py](./sketches/d2024_11_22/__main__.py) | ![2024-11-22](./sketches/d2024_11_22/2024-11-22.png) |
 <!-- Next Item -->
+
 
 
 
