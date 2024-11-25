@@ -291,7 +291,9 @@ You can follow this project also on:
 | [2024-11-22](./sketches/d2024_11_22) | Backlog II | [./sketches/d2024_11_22/__main__.py](./sketches/d2024_11_22/__main__.py) | ![2024-11-22](./sketches/d2024_11_22/2024-11-22.png) |
 | [2024-11-23](./sketches/d2024_11_23) | Backlog III | [./sketches/d2024_11_23/__main__.py](./sketches/d2024_11_23/__main__.py) | ![2024-11-23](./sketches/d2024_11_23/2024-11-23.png) |
 | [2024-11-24](./sketches/d2024_11_24) | Backlog IV | [./sketches/d2024_11_24/__main__.py](./sketches/d2024_11_24/__main__.py) | ![2024-11-24](./sketches/d2024_11_24/2024-11-24.png) |
+| [2024-11-25](./sketches/d2024_11_25) | Backlog V | [./sketches/d2024_11_25/__main__.py](./sketches/d2024_11_25/__main__.py) | ![2024-11-25](./sketches/d2024_11_25/2024-11-25.png) |
 <!-- Next Item -->
+
 
 
 
