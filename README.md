@@ -299,7 +299,9 @@ You can follow this project also on:
 | [2024-11-30](./sketches/d2024_11_30) | Backlog X | [./sketches/d2024_11_30/__main__.py](./sketches/d2024_11_30/__main__.py) | ![2024-11-30](./sketches/d2024_11_30/2024-11-30.png) |
 | [2024-12-01](./sketches/d2024_12_01) | Backlog XI | [./sketches/d2024_12_01/__main__.py](./sketches/d2024_12_01/__main__.py) | ![2024-12-01](./sketches/d2024_12_01/2024-12-01.png) |
 | [2024-12-02](./sketches/d2024_12_02) | Backlog XII | [./sketches/d2024_12_02/__main__.py](./sketches/d2024_12_02/__main__.py) | ![2024-12-02](./sketches/d2024_12_02/2024-12-02.png) |
+| [2024-12-03](./sketches/d2024_12_03) | Grades e Paletas I | [./sketches/d2024_12_03/__main__.py](./sketches/d2024_12_03/__main__.py) | ![2024-12-03](./sketches/d2024_12_03/2024-12-03.png) |
 <!-- Next Item -->
+
 
 
 
