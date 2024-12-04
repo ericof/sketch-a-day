@@ -300,7 +300,9 @@ You can follow this project also on:
 | [2024-12-01](./sketches/d2024_12_01) | Backlog XI | [./sketches/d2024_12_01/__main__.py](./sketches/d2024_12_01/__main__.py) | ![2024-12-01](./sketches/d2024_12_01/2024-12-01.png) |
 | [2024-12-02](./sketches/d2024_12_02) | Backlog XII | [./sketches/d2024_12_02/__main__.py](./sketches/d2024_12_02/__main__.py) | ![2024-12-02](./sketches/d2024_12_02/2024-12-02.png) |
 | [2024-12-03](./sketches/d2024_12_03) | Grades e Paletas I | [./sketches/d2024_12_03/__main__.py](./sketches/d2024_12_03/__main__.py) | ![2024-12-03](./sketches/d2024_12_03/2024-12-03.png) |
+| [2024-12-04](./sketches/d2024_12_04) | Grades e Paletas II | [./sketches/d2024_12_04/__main__.py](./sketches/d2024_12_04/__main__.py) | ![2024-12-04](./sketches/d2024_12_04/2024-12-04.png) |
 <!-- Next Item -->
+
 
 
 
