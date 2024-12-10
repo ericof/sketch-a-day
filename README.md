@@ -306,7 +306,9 @@ You can follow this project also on:
 | [2024-12-07](./sketches/d2024_12_07) | Grades e Paletas V | [./sketches/d2024_12_07/__main__.py](./sketches/d2024_12_07/__main__.py) | ![2024-12-07](./sketches/d2024_12_07/2024-12-07.png) |
 | [2024-12-08](./sketches/d2024_12_08) | Grades e Paletas V | [./sketches/d2024_12_08/__main__.py](./sketches/d2024_12_08/__main__.py) | ![2024-12-08](./sketches/d2024_12_08/2024-12-08.png) |
 | [2024-12-09](./sketches/d2024_12_09) | Grades e Paletas VI | [./sketches/d2024_12_09/__main__.py](./sketches/d2024_12_09/__main__.py) | ![2024-12-09](./sketches/d2024_12_09/2024-12-09.png) |
+| [2024-12-10](./sketches/d2024_12_10) | Grades e Paletas VII | [./sketches/d2024_12_10/__main__.py](./sketches/d2024_12_10/__main__.py) | ![2024-12-10](./sketches/d2024_12_10/2024-12-10.png) |
 <!-- Next Item -->
+
 
 
 
