@@ -309,7 +309,9 @@ You can follow this project also on:
 | [2024-12-10](./sketches/d2024_12_10) | Grades e Paletas VII | [./sketches/d2024_12_10/__main__.py](./sketches/d2024_12_10/__main__.py) | ![2024-12-10](./sketches/d2024_12_10/2024-12-10.png) |
 | [2024-12-11](./sketches/d2024_12_11) | Grades e Paletas VIII | [./sketches/d2024_12_11/__main__.py](./sketches/d2024_12_11/__main__.py) | ![2024-12-11](./sketches/d2024_12_11/2024-12-11.png) |
 | [2024-12-12](./sketches/d2024_12_12) | Formas Geométricas 1 | [./sketches/d2024_12_12/__main__.py](./sketches/d2024_12_12/__main__.py) | ![2024-12-12](./sketches/d2024_12_12/2024-12-12.png) |
+| [2024-12-13](./sketches/d2024_12_13) | Formas Geométricas 2 | [./sketches/d2024_12_13/__main__.py](./sketches/d2024_12_13/__main__.py) | ![2024-12-13](./sketches/d2024_12_13/2024-12-13.png) |
 <!-- Next Item -->
+
 
 
 
