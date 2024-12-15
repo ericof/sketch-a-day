@@ -312,7 +312,9 @@ You can follow this project also on:
 | [2024-12-13](./sketches/d2024_12_13) | Formas Geométricas 2 | [./sketches/d2024_12_13/__main__.py](./sketches/d2024_12_13/__main__.py) | ![2024-12-13](./sketches/d2024_12_13/2024-12-13.png) |
 | [2024-12-14](./sketches/d2024_12_14) | Formas Geométricas 3 (Let's Dance, David Bowie) | [./sketches/d2024_12_14/__main__.py](./sketches/d2024_12_14/__main__.py) | ![2024-12-14](./sketches/d2024_12_14/2024-12-14.png) |
 | [2024-12-15](./sketches/d2024_12_15) | Formas Geométricas 4 (Absolute Beginners, David Bowie) | [./sketches/d2024_12_15/__main__.py](./sketches/d2024_12_15/__main__.py) | ![2024-12-15](./sketches/d2024_12_15/2024-12-15.png) |
+| [2024-12-16](./sketches/d2024_12_16) | Formas Geométricas 5 (China Girl, David Bowie) | [./sketches/d2024_12_16/__main__.py](./sketches/d2024_12_16/__main__.py) | ![2024-12-16](./sketches/d2024_12_16/2024-12-16.png) |
 <!-- Next Item -->
+
 
 
 
