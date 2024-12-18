@@ -314,7 +314,9 @@ You can follow this project also on:
 | [2024-12-15](./sketches/d2024_12_15) | Formas Geométricas 4 (Absolute Beginners, David Bowie) | [./sketches/d2024_12_15/__main__.py](./sketches/d2024_12_15/__main__.py) | ![2024-12-15](./sketches/d2024_12_15/2024-12-15.png) |
 | [2024-12-16](./sketches/d2024_12_16) | Formas Geométricas 5 (China Girl, David Bowie) | [./sketches/d2024_12_16/__main__.py](./sketches/d2024_12_16/__main__.py) | ![2024-12-16](./sketches/d2024_12_16/2024-12-16.png) |
 | [2024-12-17](./sketches/d2024_12_17) | Formas Geométricas 6 (Modern Love, David Bowie) | [./sketches/d2024_12_17/__main__.py](./sketches/d2024_12_17/__main__.py) | ![2024-12-17](./sketches/d2024_12_17/2024-12-17.png) |
+| [2024-12-18](./sketches/d2024_12_18) | Formas Geométricas 7 (Space Oddity, David Bowie) | [./sketches/d2024_12_18/__main__.py](./sketches/d2024_12_18/__main__.py) | ![2024-12-18](./sketches/d2024_12_18/2024-12-18.png) |
 <!-- Next Item -->
+
 
 
 
