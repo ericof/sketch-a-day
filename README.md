@@ -316,7 +316,11 @@ You can follow this project also on:
 | [2024-12-17](./sketches/d2024_12_17) | Formas Geométricas 6 (Modern Love, David Bowie) | [./sketches/d2024_12_17/__main__.py](./sketches/d2024_12_17/__main__.py) | ![2024-12-17](./sketches/d2024_12_17/2024-12-17.png) |
 | [2024-12-18](./sketches/d2024_12_18) | Formas Geométricas 7 (Space Oddity, David Bowie) | [./sketches/d2024_12_18/__main__.py](./sketches/d2024_12_18/__main__.py) | ![2024-12-18](./sketches/d2024_12_18/2024-12-18.png) |
 | [2024-12-19](./sketches/d2024_12_19) | 49 Anos / 49 Years | [./sketches/d2024_12_19/__main__.py](./sketches/d2024_12_19/__main__.py) | ![2024-12-19](./sketches/d2024_12_19/2024-12-19.png) |
+| [2024-12-21](./sketches/d2024_12_21) | Vendo o Som 2 - Think (Information Society) | [./sketches/d2024_12_21/__main__.py](./sketches/d2024_12_21/__main__.py) | ![2024-12-21](./sketches/d2024_12_21/2024-12-21.png) |
+| [2024-12-20](./sketches/d2024_12_20) | Vendo o Som 1 - Butterfly on a Wheel (The Mission) | [./sketches/d2024_12_20/__main__.py](./sketches/d2024_12_20/__main__.py) | ![2024-12-20](./sketches/d2024_12_20/2024-12-20.png) |
 <!-- Next Item -->
+
+
 
 
 
