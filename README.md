@@ -318,7 +318,9 @@ You can follow this project also on:
 | [2024-12-19](./sketches/d2024_12_19) | 49 Anos / 49 Years | [./sketches/d2024_12_19/__main__.py](./sketches/d2024_12_19/__main__.py) | ![2024-12-19](./sketches/d2024_12_19/2024-12-19.png) |
 | [2024-12-21](./sketches/d2024_12_21) | Vendo o Som 2 - Think (Information Society) | [./sketches/d2024_12_21/__main__.py](./sketches/d2024_12_21/__main__.py) | ![2024-12-21](./sketches/d2024_12_21/2024-12-21.png) |
 | [2024-12-20](./sketches/d2024_12_20) | Vendo o Som 1 - Butterfly on a Wheel (The Mission) | [./sketches/d2024_12_20/__main__.py](./sketches/d2024_12_20/__main__.py) | ![2024-12-20](./sketches/d2024_12_20/2024-12-20.png) |
+| [2024-12-21](./sketches/d2024_12_21) | Vendo o Som 2 - Think (Information Society) | [./sketches/d2024_12_21/__main__.py](./sketches/d2024_12_21/__main__.py) | ![2024-12-21](./sketches/d2024_12_21/2024-12-21.png) |
 <!-- Next Item -->
+
 
 
 
