@@ -22,6 +22,7 @@ dependencies = [
     "trimesh==4.4.9",
     "opensimplex==0.4.5.1",
     "install-jdk==1.1.0",
+    "sounddevice",
 ]
 
 [project.scripts]
