@@ -320,7 +320,9 @@ You can follow this project also on:
 | [2024-12-20](./sketches/d2024_12_20) | Vendo o Som 1 - Butterfly on a Wheel (The Mission) | [./sketches/d2024_12_20/__main__.py](./sketches/d2024_12_20/__main__.py) | ![2024-12-20](./sketches/d2024_12_20/2024-12-20.png) |
 | [2024-12-21](./sketches/d2024_12_21) | Vendo o Som 2 - Think (Information Society) | [./sketches/d2024_12_21/__main__.py](./sketches/d2024_12_21/__main__.py) | ![2024-12-21](./sketches/d2024_12_21/2024-12-21.png) |
 | [2024-12-22](./sketches/d2024_12_22) | Vendo o Som 3 - Somebody to Shove (Soul Asylum) | [./sketches/d2024_12_22/__main__.py](./sketches/d2024_12_22/__main__.py) | ![2024-12-22](./sketches/d2024_12_22/2024-12-22.png) |
+| [2024-12-23](./sketches/d2024_12_23) | Vendo o Som 4 - Heart of Glass (Blondie) | [./sketches/d2024_12_23/__main__.py](./sketches/d2024_12_23/__main__.py) | ![2024-12-23](./sketches/d2024_12_23/2024-12-23.png) |
 <!-- Next Item -->
+
 
 
 
