@@ -323,7 +323,9 @@ You can follow this project also on:
 | [2024-12-23](./sketches/d2024_12_23) | Vendo o Som 4 - Heart of Glass (Blondie) | [./sketches/d2024_12_23/__main__.py](./sketches/d2024_12_23/__main__.py) | ![2024-12-23](./sketches/d2024_12_23/2024-12-23.png) |
 | [2024-12-24](./sketches/d2024_12_24) | Vendo o Som 5 - Blue Monday (New Order) | [./sketches/d2024_12_24/__main__.py](./sketches/d2024_12_24/__main__.py) | ![2024-12-24](./sketches/d2024_12_24/2024-12-24.png) |
 | [2024-12-25](./sketches/d2024_12_25) | Vendo o Som 6 - Always Look on the Bright Side of Life (Monty Python) | [./sketches/d2024_12_25/__main__.py](./sketches/d2024_12_25/__main__.py) | ![2024-12-25](./sketches/d2024_12_25/2024-12-25.png) |
+| [2024-12-26](./sketches/d2024_12_26) | Vendo o Som 7 - Tempo Perdido (Legião Urbana) | [./sketches/d2024_12_26/__main__.py](./sketches/d2024_12_26/__main__.py) | ![2024-12-26](./sketches/d2024_12_26/2024-12-26.png) |
 <!-- Next Item -->
+
 
 
 
