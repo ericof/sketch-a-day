@@ -327,7 +327,9 @@ You can follow this project also on:
 | [2024-12-27](./sketches/d2024_12_27) | Vendo o Som 8 - Syncronicity II (The Police) | [./sketches/d2024_12_27/__main__.py](./sketches/d2024_12_27/__main__.py) | ![2024-12-27](./sketches/d2024_12_27/2024-12-27.png) |
 | [2024-12-28](./sketches/d2024_12_28) | Vendo o Som 9 - Success (Sigue Sigue Sputnik) | [./sketches/d2024_12_28/__main__.py](./sketches/d2024_12_28/__main__.py) | ![2024-12-28](./sketches/d2024_12_28/2024-12-28.png) |
 | [2024-12-29](./sketches/d2024_12_29) | Vendo o Som 10 - I Beg Your Pardon (Kon Kan) | [./sketches/d2024_12_29/__main__.py](./sketches/d2024_12_29/__main__.py) | ![2024-12-29](./sketches/d2024_12_29/2024-12-29.png) |
+| [2024-12-30](./sketches/d2024_12_30) | Vendo o Som 11 - How Soon is Now (The Smiths) | [./sketches/d2024_12_30/__main__.py](./sketches/d2024_12_30/__main__.py) | ![2024-12-30](./sketches/d2024_12_30/2024-12-30.png) |
 <!-- Next Item -->
+
 
 
 
