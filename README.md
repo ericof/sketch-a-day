@@ -330,7 +330,9 @@ You can follow this project also on:
 | [2024-12-30](./sketches/d2024_12_30) | Vendo o Som 11 - How Soon is Now (The Smiths) | [./sketches/d2024_12_30/__main__.py](./sketches/d2024_12_30/__main__.py) | ![2024-12-30](./sketches/d2024_12_30/2024-12-30.png) |
 | [2024-12-31](./sketches/d2024_12_31) | Adeus 2024 | [./sketches/d2024_12_31/__main__.py](./sketches/d2024_12_31/__main__.py) | ![2024-12-31](./sketches/d2024_12_31/2024-12-31.png) |
 | [2025-01-01](./sketches/d2025_01_01) | Olá 2025 | [./sketches/d2025_01_01/__main__.py](./sketches/d2025_01_01/__main__.py) | ![2025-01-01](./sketches/d2025_01_01/2025-01-01.png) |
+| [2025-01-02](./sketches/d2025_01_02) | Layers upon layers upon layers | [./sketches/d2025_01_02/__main__.py](./sketches/d2025_01_02/__main__.py) | ![2025-01-02](./sketches/d2025_01_02/2025-01-02.png) |
 <!-- Next Item -->
+
 
 
 
