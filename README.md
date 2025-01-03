@@ -332,7 +332,9 @@ You can follow this project also on:
 | [2025-01-01](./sketches/d2025_01_01) | Olá 2025 | [./sketches/d2025_01_01/__main__.py](./sketches/d2025_01_01/__main__.py) | ![2025-01-01](./sketches/d2025_01_01/2025-01-01.png) |
 | [2025-01-02](./sketches/d2025_01_02) | Layers upon layers upon layers | [./sketches/d2025_01_02/__main__.py](./sketches/d2025_01_02/__main__.py) | ![2025-01-02](./sketches/d2025_01_02/2025-01-02.png) |
 | [2025-01-03](./sketches/d2025_01_03) | The Answer (in 42 lines of code, including comments) | [./sketches/d2025_01_03/__main__.py](./sketches/d2025_01_03/__main__.py) | ![2025-01-03](./sketches/d2025_01_03/2025-01-03.png) |
+| [2025-01-04](./sketches/d2025_01_04) | Black on Black | [./sketches/d2025_01_04/__main__.py](./sketches/d2025_01_04/__main__.py) | ![2025-01-04](./sketches/d2025_01_04/2025-01-04.png) |
 <!-- Next Item -->
+
 
 
 
