@@ -334,7 +334,9 @@ You can follow this project also on:
 | [2025-01-03](./sketches/d2025_01_03) | The Answer (in 42 lines of code, including comments) | [./sketches/d2025_01_03/__main__.py](./sketches/d2025_01_03/__main__.py) | ![2025-01-03](./sketches/d2025_01_03/2025-01-03.png) |
 | [2025-01-04](./sketches/d2025_01_04) | Black on Black | [./sketches/d2025_01_04/__main__.py](./sketches/d2025_01_04/__main__.py) | ![2025-01-04](./sketches/d2025_01_04/2025-01-04.png) |
 | [2025-01-05](./sketches/d2025_01_05) | Isometric art - Proto City | [./sketches/d2025_01_05/__main__.py](./sketches/d2025_01_05/__main__.py) | ![2025-01-05](./sketches/d2025_01_05/2025-01-05.png) |
+| [2025-01-06](./sketches/d2025_01_06) | Landscape w/ primitive shapes | [./sketches/d2025_01_06/__main__.py](./sketches/d2025_01_06/__main__.py) | ![2025-01-06](./sketches/d2025_01_06/2025-01-06.png) |
 <!-- Next Item -->
+
 
 
 
