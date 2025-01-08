@@ -1,6 +1,11 @@
 {
+  "black-formatter.cwd": "${workspaceFolder}/",
+  "isort.args":["--profile", "black"],
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+  },
   }
 }
