@@ -339,7 +339,9 @@ You can follow this project also on:
 | [2025-01-07](./sketches/d2025_01_07) | Landscape with spheres | [./sketches/d2025_01_07/__main__.py](./sketches/d2025_01_07/__main__.py) | ![2025-01-07](./sketches/d2025_01_07/2025-01-07.png) |
 | [2025-01-08](./sketches/d2025_01_08) | One million lines | [./sketches/d2025_01_08/__main__.py](./sketches/d2025_01_08/__main__.py) | ![2025-01-08](./sketches/d2025_01_08/2025-01-08.png) |
 | [2025-01-09](./sketches/d2025_01_09) | Public transport seating | [./sketches/d2025_01_09/__main__.py](./sketches/d2025_01_09/__main__.py) | ![2025-01-09](./sketches/d2025_01_09/2025-01-09.png) |
+| [2025-01-10](./sketches/d2025_01_10) | TAU, TAU, TAU, TAU | [./sketches/d2025_01_10/__main__.py](./sketches/d2025_01_10/__main__.py) | ![2025-01-10](./sketches/d2025_01_10/2025-01-10.png) |
 <!-- Next Item -->
+
 
 
 
