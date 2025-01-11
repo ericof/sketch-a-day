@@ -340,7 +340,9 @@ You can follow this project also on:
 | [2025-01-08](./sketches/d2025_01_08) | One million lines | [./sketches/d2025_01_08/__main__.py](./sketches/d2025_01_08/__main__.py) | ![2025-01-08](./sketches/d2025_01_08/2025-01-08.png) |
 | [2025-01-09](./sketches/d2025_01_09) | Public transport seating | [./sketches/d2025_01_09/__main__.py](./sketches/d2025_01_09/__main__.py) | ![2025-01-09](./sketches/d2025_01_09/2025-01-09.png) |
 | [2025-01-10](./sketches/d2025_01_10) | TAU, TAU, TAU, TAU | [./sketches/d2025_01_10/__main__.py](./sketches/d2025_01_10/__main__.py) | ![2025-01-10](./sketches/d2025_01_10/2025-01-10.png) |
+| [2025-01-11](./sketches/d2025_01_11) | Impossible day | [./sketches/d2025_01_11/__main__.py](./sketches/d2025_01_11/__main__.py) | ![2025-01-11](./sketches/d2025_01_11/2025-01-11.png) |
 <!-- Next Item -->
+
 
 
 
