@@ -345,7 +345,9 @@ You can follow this project also on:
 | [2025-01-13](./sketches/d2025_01_13) | Triangles and nothing else | [./sketches/d2025_01_13/__main__.py](./sketches/d2025_01_13/__main__.py) | ![2025-01-13](./sketches/d2025_01_13/2025-01-13.png) |
 | [2025-01-14](./sketches/d2025_01_14) | Pure black and white | [./sketches/d2025_01_14/__main__.py](./sketches/d2025_01_14/__main__.py) | ![2025-01-14](./sketches/d2025_01_14/2025-01-14.png) |
 | [2025-01-15](./sketches/d2025_01_15) | Design a rug | [./sketches/d2025_01_15/__main__.py](./sketches/d2025_01_15/__main__.py) | ![2025-01-15](./sketches/d2025_01_15/2025-01-15.png) |
+| [2025-01-16](./sketches/d2025_01_16) | Generative palette | [./sketches/d2025_01_16/__main__.py](./sketches/d2025_01_16/__main__.py) | ![2025-01-16](./sketches/d2025_01_16/2025-01-16.png) |
 <!-- Next Item -->
+
 
 
 
