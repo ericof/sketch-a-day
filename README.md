@@ -347,7 +347,9 @@ You can follow this project also on:
 | [2025-01-15](./sketches/d2025_01_15) | Design a rug | [./sketches/d2025_01_15/__main__.py](./sketches/d2025_01_15/__main__.py) | ![2025-01-15](./sketches/d2025_01_15/2025-01-15.png) |
 | [2025-01-16](./sketches/d2025_01_16) | Generative palette | [./sketches/d2025_01_16/__main__.py](./sketches/d2025_01_16/__main__.py) | ![2025-01-16](./sketches/d2025_01_16/2025-01-16.png) |
 | [2025-01-17](./sketches/d2025_01_17) | PI = 4 | [./sketches/d2025_01_17/__main__.py](./sketches/d2025_01_17/__main__.py) | ![2025-01-17](./sketches/d2025_01_17/2025-01-17.png) |
+| [2025-01-18](./sketches/d2025_01_18) | What does wind look like? | [./sketches/d2025_01_18/__main__.py](./sketches/d2025_01_18/__main__.py) | ![2025-01-18](./sketches/d2025_01_18/2025-01-18.png) |
 <!-- Next Item -->
+
 
 
 
