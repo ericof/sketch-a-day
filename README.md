@@ -350,7 +350,9 @@ You can follow this project also on:
 | [2025-01-18](./sketches/d2025_01_18) | What does wind look like? | [./sketches/d2025_01_18/__main__.py](./sketches/d2025_01_18/__main__.py) | ![2025-01-18](./sketches/d2025_01_18/2025-01-18.png) |
 | [2025-01-19](./sketches/d2025_01_19) | Op Art | [./sketches/d2025_01_19/__main__.py](./sketches/d2025_01_19/__main__.py) | ![2025-01-19](./sketches/d2025_01_19/2025-01-19.png) |
 | [2025-01-20](./sketches/d2025_01_20) | Generative Architecture | [./sketches/d2025_01_20/__main__.py](./sketches/d2025_01_20/__main__.py) | ![2025-01-20](./sketches/d2025_01_20/2025-01-20.png) |
+| [2025-01-21](./sketches/d2025_01_21) | Hypotrochoid 01 | [./sketches/d2025_01_21/__main__.py](./sketches/d2025_01_21/__main__.py) | ![2025-01-21](./sketches/d2025_01_21/2025-01-21.png) |
 <!-- Next Item -->
+
 
 
 
