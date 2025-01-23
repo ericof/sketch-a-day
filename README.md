@@ -352,7 +352,9 @@ You can follow this project also on:
 | [2025-01-20](./sketches/d2025_01_20) | Generative Architecture | [./sketches/d2025_01_20/__main__.py](./sketches/d2025_01_20/__main__.py) | ![2025-01-20](./sketches/d2025_01_20/2025-01-20.png) |
 | [2025-01-21](./sketches/d2025_01_21) | Hypotrochoid 01 | [./sketches/d2025_01_21/__main__.py](./sketches/d2025_01_21/__main__.py) | ![2025-01-21](./sketches/d2025_01_21/2025-01-21.png) |
 | [2025-01-22](./sketches/d2025_01_22) | Hypotrochoid 02 + Gradients | [./sketches/d2025_01_22/__main__.py](./sketches/d2025_01_22/__main__.py) | ![2025-01-22](./sketches/d2025_01_22/2025-01-22.png) |
+| [2025-01-23](./sketches/d2025_01_23) | Hypotrochoid 03 + Gradients | [./sketches/d2025_01_23/__main__.py](./sketches/d2025_01_23/__main__.py) | ![2025-01-23](./sketches/d2025_01_23/2025-01-23.png) |
 <!-- Next Item -->
+
 
 
 
