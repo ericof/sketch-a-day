@@ -355,7 +355,9 @@ You can follow this project also on:
 | [2025-01-23](./sketches/d2025_01_23) | Hypotrochoid 03 + Gradients | [./sketches/d2025_01_23/__main__.py](./sketches/d2025_01_23/__main__.py) | ![2025-01-23](./sketches/d2025_01_23/2025-01-23.png) |
 | [2025-01-24](./sketches/d2025_01_24) | Geometric art | [./sketches/d2025_01_24/__main__.py](./sketches/d2025_01_24/__main__.py) | ![2025-01-24](./sketches/d2025_01_24/2025-01-24.png) |
 | [2025-01-25](./sketches/d2025_01_25) | Hypotrochoid 04 | [./sketches/d2025_01_25/__main__.py](./sketches/d2025_01_25/__main__.py) | ![2025-01-25](./sketches/d2025_01_25/2025-01-25.png) |
+| [2025-01-26](./sketches/d2025_01_26) | Hypotrochoid 05 + Symmetry | [./sketches/d2025_01_26/__main__.py](./sketches/d2025_01_26/__main__.py) | ![2025-01-26](./sketches/d2025_01_26/2025-01-26.png) |
 <!-- Next Item -->
+
 
 
 
