@@ -358,7 +358,9 @@ You can follow this project also on:
 | [2025-01-26](./sketches/d2025_01_26) | Hypotrochoid 05 + Symmetry | [./sketches/d2025_01_26/__main__.py](./sketches/d2025_01_26/__main__.py) | ![2025-01-26](./sketches/d2025_01_26/2025-01-26.png) |
 | [2025-01-27](./sketches/d2025_01_27) | Rose 01 | [./sketches/d2025_01_27/__main__.py](./sketches/d2025_01_27/__main__.py) | ![2025-01-27](./sketches/d2025_01_27/2025-01-27.png) |
 | [2025-01-28](./sketches/d2025_01_28) | Rose 02 | [./sketches/d2025_01_28/__main__.py](./sketches/d2025_01_28/__main__.py) | ![2025-01-28](./sketches/d2025_01_28/2025-01-28.png) |
+| [2025-01-29](./sketches/d2025_01_29) | Grid-based graphic design. | [./sketches/d2025_01_29/__main__.py](./sketches/d2025_01_29/__main__.py) | ![2025-01-29](./sketches/d2025_01_29/2025-01-29.png) |
 <!-- Next Item -->
+
 
 
 
