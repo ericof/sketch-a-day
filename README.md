@@ -361,7 +361,9 @@ You can follow this project also on:
 | [2025-01-29](./sketches/d2025_01_29) | Grid-based graphic design. | [./sketches/d2025_01_29/__main__.py](./sketches/d2025_01_29/__main__.py) | ![2025-01-29](./sketches/d2025_01_29/2025-01-29.png) |
 | [2025-01-30](./sketches/d2025_01_30) | Abstract map (Wunderbar) | [./sketches/d2025_01_30/__main__.py](./sketches/d2025_01_30/__main__.py) | ![2025-01-30](./sketches/d2025_01_30/2025-01-30.png) |
 | [2025-01-31](./sketches/d2025_01_31) | Pixel sorting (RGB Average) | [./sketches/d2025_01_31/__main__.py](./sketches/d2025_01_31/__main__.py) | ![2025-01-31](./sketches/d2025_01_31/2025-01-31.png) |
+| [2025-02-01](./sketches/d2025_02_01) | Hexagons | [./sketches/d2025_02_01/__main__.py](./sketches/d2025_02_01/__main__.py) | ![2025-02-01](./sketches/d2025_02_01/2025-02-01.png) |
 <!-- Next Item -->
+
 
 
 
