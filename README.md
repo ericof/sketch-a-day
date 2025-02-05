@@ -365,7 +365,9 @@ You can follow this project also on:
 | [2025-02-02](./sketches/d2025_02_02) | Hexagons 2 | [./sketches/d2025_02_02/__main__.py](./sketches/d2025_02_02/__main__.py) | ![2025-02-02](./sketches/d2025_02_02/2025-02-02.png) |
 | [2025-02-03](./sketches/d2025_02_03) | Hexagons 3 | [./sketches/d2025_02_03/__main__.py](./sketches/d2025_02_03/__main__.py) | ![2025-02-03](./sketches/d2025_02_03/2025-02-03.png) |
 | [2025-02-04](./sketches/d2025_02_04) | Hexagons 4 | [./sketches/d2025_02_04/__main__.py](./sketches/d2025_02_04/__main__.py) | ![2025-02-04](./sketches/d2025_02_04/2025-02-04.png) |
+| [2025-02-05](./sketches/d2025_02_05) | Hexagons 5 | [./sketches/d2025_02_05/__main__.py](./sketches/d2025_02_05/__main__.py) | ![2025-02-05](./sketches/d2025_02_05/2025-02-05.png) |
 <!-- Next Item -->
+
 
 
 
