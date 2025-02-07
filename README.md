@@ -367,7 +367,9 @@ You can follow this project also on:
 | [2025-02-04](./sketches/d2025_02_04) | Hexagons 4 | [./sketches/d2025_02_04/__main__.py](./sketches/d2025_02_04/__main__.py) | ![2025-02-04](./sketches/d2025_02_04/2025-02-04.png) |
 | [2025-02-05](./sketches/d2025_02_05) | Hexagons 5 | [./sketches/d2025_02_05/__main__.py](./sketches/d2025_02_05/__main__.py) | ![2025-02-05](./sketches/d2025_02_05/2025-02-05.png) |
 | [2025-02-06](./sketches/d2025_02_06) | Hexagons 6 | [./sketches/d2025_02_06/__main__.py](./sketches/d2025_02_06/__main__.py) | ![2025-02-06](./sketches/d2025_02_06/2025-02-06.png) |
+| [2025-02-07](./sketches/d2025_02_07) | MSX Lives 01 | [./sketches/d2025_02_07/__main__.py](./sketches/d2025_02_07/__main__.py) | ![2025-02-07](./sketches/d2025_02_07/2025-02-07.png) |
 <!-- Next Item -->
+
 
 
 
