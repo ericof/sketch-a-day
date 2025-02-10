@@ -370,7 +370,9 @@ You can follow this project also on:
 | [2025-02-07](./sketches/d2025_02_07) | MSX Lives 01 | [./sketches/d2025_02_07/__main__.py](./sketches/d2025_02_07/__main__.py) | ![2025-02-07](./sketches/d2025_02_07/2025-02-07.png) |
 | [2025-02-08](./sketches/d2025_02_08) | MSX Lives 02 | [./sketches/d2025_02_08/__main__.py](./sketches/d2025_02_08/__main__.py) | ![2025-02-08](./sketches/d2025_02_08/2025-02-08.png) |
 | [2025-02-09](./sketches/d2025_02_09) | MSX Lives 03 | [./sketches/d2025_02_09/__main__.py](./sketches/d2025_02_09/__main__.py) | ![2025-02-09](./sketches/d2025_02_09/2025-02-09.png) |
+| [2025-02-10](./sketches/d2025_02_10) | MSX Lives 04 | [./sketches/d2025_02_10/__main__.py](./sketches/d2025_02_10/__main__.py) | ![2025-02-10](./sketches/d2025_02_10/2025-02-10.png) |
 <!-- Next Item -->
+
 
 
 
