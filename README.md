@@ -372,7 +372,9 @@ You can follow this project also on:
 | [2025-02-09](./sketches/d2025_02_09) | MSX Lives 03 | [./sketches/d2025_02_09/__main__.py](./sketches/d2025_02_09/__main__.py) | ![2025-02-09](./sketches/d2025_02_09/2025-02-09.png) |
 | [2025-02-10](./sketches/d2025_02_10) | MSX Lives 04 | [./sketches/d2025_02_10/__main__.py](./sketches/d2025_02_10/__main__.py) | ![2025-02-10](./sketches/d2025_02_10/2025-02-10.png) |
 | [2025-02-11](./sketches/d2025_02_11) | Geometric art redux | [./sketches/d2025_02_11/__main__.py](./sketches/d2025_02_11/__main__.py) | ![2025-02-11](./sketches/d2025_02_11/2025-02-11.png) |
+| [2025-02-12](./sketches/d2025_02_12) | Geometric art redux 02 | [./sketches/d2025_02_12/__main__.py](./sketches/d2025_02_12/__main__.py) | ![2025-02-12](./sketches/d2025_02_12/2025-02-12.png) |
 <!-- Next Item -->
+
 
 
 
