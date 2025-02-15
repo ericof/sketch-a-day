@@ -375,7 +375,9 @@ You can follow this project also on:
 | [2025-02-12](./sketches/d2025_02_12) | Geometric art redux 02 | [./sketches/d2025_02_12/__main__.py](./sketches/d2025_02_12/__main__.py) | ![2025-02-12](./sketches/d2025_02_12/2025-02-12.png) |
 | [2025-02-13](./sketches/d2025_02_13) | Geometric art redux 03 | [./sketches/d2025_02_13/__main__.py](./sketches/d2025_02_13/__main__.py) | ![2025-02-13](./sketches/d2025_02_13/2025-02-13.png) |
 | [2025-02-14](./sketches/d2025_02_14) | Valentine's Day (or lack of ideas) | [./sketches/d2025_02_14/__main__.py](./sketches/d2025_02_14/__main__.py) | ![2025-02-14](./sketches/d2025_02_14/2025-02-14.png) |
+| [2025-02-15](./sketches/d2025_02_15) | Rotatio I | [./sketches/d2025_02_15/__main__.py](./sketches/d2025_02_15/__main__.py) | ![2025-02-15](./sketches/d2025_02_15/2025-02-15.png) |
 <!-- Next Item -->
+
 
 
 
