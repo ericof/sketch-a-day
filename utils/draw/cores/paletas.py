@@ -42,6 +42,22 @@ PALETAS = {
         py5.RGB,
         "https://www.colourlovers.com/palette/3991914/Mondrians_Crayons",
     ),
+    "azul": Paleta(
+        "azul",
+        [
+            "#0077B6",
+            "#0096C7",
+            "#00B4D8",
+            "#023E8A",
+            "#03045E",
+            "#48CAE4",
+            "#90E0EF",
+            "#ADE8F4",
+            "#CAF0F8",
+        ],
+        py5.RGB,
+        "https://www.pinterest.com/pin/5136987069455448/",
+    ),
 }
 
 
