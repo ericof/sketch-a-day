@@ -58,6 +58,26 @@ PALETAS = {
         py5.RGB,
         "https://www.pinterest.com/pin/5136987069455448/",
     ),
+    "mandarin-redux": Paleta(
+        "mandarin-redux",
+        [
+            "#F6724B",
+            "#F87A4E",
+            "#FA8251",
+            "#FC8A55",
+            "#D77653",
+            "#B36252",
+            "#8F4E51",
+            "#6D454E",
+            "#4C3C4B",
+            "#2B3349",
+            "#283651",
+            "#25395A",
+            "#223C63",
+        ],
+        py5.RGB,
+        "Extrrapolation of mandarin",
+    ),
 }
 
 
