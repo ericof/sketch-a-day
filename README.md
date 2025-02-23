@@ -383,7 +383,9 @@ You can follow this project also on:
 | [2025-02-20](./sketches/d2025_02_20) | Rotatio VI | [./sketches/d2025_02_20/__main__.py](./sketches/d2025_02_20/__main__.py) | ![2025-02-20](./sketches/d2025_02_20/2025-02-20.png) |
 | [2025-02-21](./sketches/d2025_02_21) | Rotatio VII | [./sketches/d2025_02_21/__main__.py](./sketches/d2025_02_21/__main__.py) | ![2025-02-21](./sketches/d2025_02_21/2025-02-21.png) |
 | [2025-02-22](./sketches/d2025_02_22) | Rotatio VIII | [./sketches/d2025_02_22/__main__.py](./sketches/d2025_02_22/__main__.py) | ![2025-02-22](./sketches/d2025_02_22/2025-02-22.png) |
+| [2025-02-23](./sketches/d2025_02_23) | Rotatio IX | [./sketches/d2025_02_23/__main__.py](./sketches/d2025_02_23/__main__.py) | ![2025-02-23](./sketches/d2025_02_23/2025-02-23.png) |
 <!-- Next Item -->
+
 
 
 
