@@ -78,6 +78,23 @@ PALETAS = {
         py5.RGB,
         "Extrrapolation of mandarin",
     ),
+    "sunset-ocean": Paleta(
+        "sunset-ocean",
+        [
+            "#F89999",
+            "#DC8F9D",
+            "#C086A1",
+            "#A57DA5",
+            "#8973A9",
+            "#6E6AAD",
+            "#5261B1",
+            "#3757B5",
+            "#1B4EB9",
+            "#0045BE",
+        ],
+        py5.RGB,
+        "Gradient from #F89999 to #0045BE",
+    ),
 }
 
 
