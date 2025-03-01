@@ -98,6 +98,12 @@ PALETAS = {
 }
 
 
+def lista_paletas() -> list[str]:
+    """Retorna lista de nomes de paletas."""
+    paletas = sorted(list(PALETAS.keys()))
+    return paletas
+
+
 def gera_paleta(
     nome: str, como_deque: bool = False
 ) -> list[py5.color] | deque[py5.color]:
@@ -113,4 +119,4 @@ def gera_paleta(
     return deque(resultado) if como_deque else resultado
 
 
-__all__ = ["gera_paleta"]
+__all__ = ["gera_paleta", "lista_paletas"]
