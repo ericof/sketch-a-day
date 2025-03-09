@@ -95,6 +95,21 @@ PALETAS = {
         py5.RGB,
         "Gradient from #F89999 to #0045BE",
     ),
+    "DJ1": Paleta(
+        "DJ1",
+        [
+            "#A1C8D9",
+            "#21617D",
+            "#000405",
+            "#2A784C",
+            "#52C491",
+            "#A1C8D9",
+            "#21617D",
+            "#000405",
+        ],
+        py5.RGB,
+        "https://www.colourlovers.com/palette/4962911/DJ_1",
+    ),
 }
 
 
