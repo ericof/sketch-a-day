@@ -110,6 +110,21 @@ PALETAS = {
         py5.RGB,
         "https://www.colourlovers.com/palette/4962911/DJ_1",
     ),
+    "Navy-Orange": Paleta(
+        "Navy-Orange",
+        [
+            "#FFB300",
+            "#FFD700",
+            "#00B2D0",
+            "#00879E",
+            "#003092",
+            "#FFB300",
+            "#FFD700",
+            "#00B2D0",
+        ],
+        py5.RGB,
+        "https://www.colourlovers.com/palette/4962954/navy_orange",
+    ),
 }
 
 
