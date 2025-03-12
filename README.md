@@ -400,7 +400,9 @@ You can follow this project also on:
 | [2025-03-09](./sketches/d2025_03_09) | Rotatio XXII | [./sketches/d2025_03_09/__main__.py](./sketches/d2025_03_09/__main__.py) | ![2025-03-09](./sketches/d2025_03_09/2025-03-09.png) |
 | [2025-03-10](./sketches/d2025_03_10) | Rotatio XXIII | [./sketches/d2025_03_10/__main__.py](./sketches/d2025_03_10/__main__.py) | ![2025-03-10](./sketches/d2025_03_10/2025-03-10.png) |
 | [2025-03-11](./sketches/d2025_03_11) | Rotatio XXIV | [./sketches/d2025_03_11/__main__.py](./sketches/d2025_03_11/__main__.py) | ![2025-03-11](./sketches/d2025_03_11/2025-03-11.png) |
+| [2025-03-12](./sketches/d2025_03_12) | Coleção Rotatio | [./sketches/d2025_03_12/__main__.py](./sketches/d2025_03_12/__main__.py) | ![2025-03-12](./sketches/d2025_03_12/2025-03-12.png) |
 <!-- Next Item -->
+
 
 
 
