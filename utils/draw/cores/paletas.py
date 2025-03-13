@@ -125,6 +125,18 @@ PALETAS = {
         py5.RGB,
         "https://www.colourlovers.com/palette/4962954/navy_orange",
     ),
+    "Colerful": Paleta(
+        "Colerful",
+        [
+            "#7EC0E0",
+            "#1C8EAF",
+            "#032035",
+            "#FDAA08",
+            "#F87109",
+        ],
+        py5.RGB,
+        "Reuso de paleta de sketches antigos",
+    ),
 }
 
 
