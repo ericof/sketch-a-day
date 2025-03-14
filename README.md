@@ -403,7 +403,9 @@ You can follow this project also on:
 | [2025-03-12](./sketches/d2025_03_12) | Coleção Rotatio | [./sketches/d2025_03_12/__main__.py](./sketches/d2025_03_12/__main__.py) | ![2025-03-12](./sketches/d2025_03_12/2025-03-12.png) |
 | [2025-03-13](./sketches/d2025_03_13) | Planejamento 05 | [./sketches/d2025_03_13/__main__.py](./sketches/d2025_03_13/__main__.py) | ![2025-03-13](./sketches/d2025_03_13/2025-03-13.png) |
 | [2025-03-14](./sketches/d2025_03_14) | Planejamento 04 | [./sketches/d2025_03_14/__main__.py](./sketches/d2025_03_14/__main__.py) | ![2025-03-14](./sketches/d2025_03_14/2025-03-14.png) |
+| [2025-03-15](./sketches/d2025_03_15) | Planejamento 03 | [./sketches/d2025_03_15/__main__.py](./sketches/d2025_03_15/__main__.py) | ![2025-03-15](./sketches/d2025_03_15/2025-03-15.png) |
 <!-- Next Item -->
+
 
 
 
