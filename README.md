@@ -407,7 +407,9 @@ You can follow this project also on:
 | [2025-03-16](./sketches/d2025_03_16) | Planejamento 02 | [./sketches/d2025_03_16/__main__.py](./sketches/d2025_03_16/__main__.py) | ![2025-03-16](./sketches/d2025_03_16/2025-03-16.png) |
 | [2025-03-17](./sketches/d2025_03_17) | Chaos / Caos I | [./sketches/d2025_03_17/__main__.py](./sketches/d2025_03_17/__main__.py) | ![2025-03-17](./sketches/d2025_03_17/2025-03-17.png) |
 | [2025-03-18](./sketches/d2025_03_18) | Chaos / Caos II | [./sketches/d2025_03_18/__main__.py](./sketches/d2025_03_18/__main__.py) | ![2025-03-18](./sketches/d2025_03_18/2025-03-18.png) |
+| [2025-03-19](./sketches/d2025_03_19) | Onions | [./sketches/d2025_03_19/__main__.py](./sketches/d2025_03_19/__main__.py) | ![2025-03-19](./sketches/d2025_03_19/2025-03-19.png) |
 <!-- Next Item -->
+
 
 
 
