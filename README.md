@@ -411,7 +411,9 @@ You can follow this project also on:
 | [2025-03-20](./sketches/d2025_03_20) | Leaves | [./sketches/d2025_03_20/__main__.py](./sketches/d2025_03_20/__main__.py) | ![2025-03-20](./sketches/d2025_03_20/2025-03-20.png) |
 | [2025-03-21](./sketches/d2025_03_21) | Petals | [./sketches/d2025_03_21/__main__.py](./sketches/d2025_03_21/__main__.py) | ![2025-03-21](./sketches/d2025_03_21/2025-03-21.png) |
 | [2025-03-22](./sketches/d2025_03_22) | Flower | [./sketches/d2025_03_22/__main__.py](./sketches/d2025_03_22/__main__.py) | ![2025-03-22](./sketches/d2025_03_22/2025-03-22.png) |
+| [2025-03-23](./sketches/d2025_03_23) | Warhol's Alvorada | [./sketches/d2025_03_23/__main__.py](./sketches/d2025_03_23/__main__.py) | ![2025-03-23](./sketches/d2025_03_23/2025-03-23.png) |
 <!-- Next Item -->
+
 
 
 
