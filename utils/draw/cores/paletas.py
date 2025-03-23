@@ -137,6 +137,29 @@ PALETAS = {
         py5.RGB,
         "Reuso de paleta de sketches antigos",
     ),
+    "Warhol": Paleta(
+        "Warhol",
+        [
+            "#FF007F",  # Hot Pink (Background)
+            "#007FFF",  # Electric Blue (Foreground)
+            "#FFFF33",  # Bright Yellow (Background)
+            "#00FFFF",  # Cyan (Foreground)
+            "#40E0D0",  # Turquoise (Background)
+            "#FF1744",  # Deep Red (Foreground)
+            "#FF6F00",  # Vivid Orange (Background)
+            "#008080",  # Teal (Foreground)
+            "#32CD32",  # Lime Green (Background)
+            "#FF00FF",  # Magenta (Foreground)
+            "#800080",  # Deep Purple (Background)
+            "#FFFF00",  # Neon Yellow (Foreground)
+            "#FF0000",  # Bright Red (Background)
+            "#87CEEB",  # Sky Blue (Foreground)
+            "#39FF14",  # Neon Green (Background)
+            "#FF69B4",  # Hot Pink (Foreground)
+        ],
+        py5.RGB,
+        "Andy Warhol's Marilyn Monroe",
+    ),
 }
 
 
