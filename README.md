@@ -413,7 +413,9 @@ You can follow this project also on:
 | [2025-03-22](./sketches/d2025_03_22) | Flower | [./sketches/d2025_03_22/__main__.py](./sketches/d2025_03_22/__main__.py) | ![2025-03-22](./sketches/d2025_03_22/2025-03-22.png) |
 | [2025-03-23](./sketches/d2025_03_23) | Warhol's Alvorada | [./sketches/d2025_03_23/__main__.py](./sketches/d2025_03_23/__main__.py) | ![2025-03-23](./sketches/d2025_03_23/2025-03-23.png) |
 | [2025-03-24](./sketches/d2025_03_24) | DF on LSD | [./sketches/d2025_03_24/__main__.py](./sketches/d2025_03_24/__main__.py) | ![2025-03-24](./sketches/d2025_03_24/2025-03-24.png) |
+| [2025-03-25](./sketches/d2025_03_25) | Alvorada do Alvorado | [./sketches/d2025_03_25/__main__.py](./sketches/d2025_03_25/__main__.py) | ![2025-03-25](./sketches/d2025_03_25/2025-03-25.png) |
 <!-- Next Item -->
+
 
 
 
