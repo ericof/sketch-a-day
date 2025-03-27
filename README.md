@@ -415,7 +415,9 @@ You can follow this project also on:
 | [2025-03-24](./sketches/d2025_03_24) | DF on LSD | [./sketches/d2025_03_24/__main__.py](./sketches/d2025_03_24/__main__.py) | ![2025-03-24](./sketches/d2025_03_24/2025-03-24.png) |
 | [2025-03-25](./sketches/d2025_03_25) | Alvorada do Alvorado | [./sketches/d2025_03_25/__main__.py](./sketches/d2025_03_25/__main__.py) | ![2025-03-25](./sketches/d2025_03_25/2025-03-25.png) |
 | [2025-03-26](./sketches/d2025_03_26) | Formas Geométricas 1 | [./sketches/d2025_03_26/__main__.py](./sketches/d2025_03_26/__main__.py) | ![2025-03-26](./sketches/d2025_03_26/2025-03-26.png) |
+| [2025-03-27](./sketches/d2025_03_27) | Formas Geométricas 2 | [./sketches/d2025_03_27/__main__.py](./sketches/d2025_03_27/__main__.py) | ![2025-03-27](./sketches/d2025_03_27/2025-03-27.png) |
 <!-- Next Item -->
+
 
 
 
