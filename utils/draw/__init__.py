@@ -1,4 +1,5 @@
 from .circulo import pontos_circulo  # noQA
+from .circulo import pontos_circulo_3d  # noQA
 from .cores import rgb_to_hsb  # noQA
 from .cores.paletas import gera_paleta  # noQA
 from .cores.paletas import lista_paletas  # noQA

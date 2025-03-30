@@ -160,6 +160,27 @@ PALETAS = {
         py5.RGB,
         "Andy Warhol's Marilyn Monroe",
     ),
+    "oliver-13": Paleta(
+        "oliver-13",
+        [
+            "#FFFFFF",  # White
+            "#FFFBEA",  # Soft Cream
+            "#FFF6D5",  # Light Ivory
+            "#FFF0BF",  # Warm Ivory
+            "#FFEAA9",  # Pale Gold
+            "#FFE493",  # Light Goldenrod
+            "#FFDE7D",  # Golden Haze
+            "#FFD866",  # Dandelion
+            "#FFD250",  # Golden Yellow
+            "#FFCC3A",  # Amber Glow
+            "#FFC624",  # Amber
+            "#FFB800",  # Honey Gold
+            "#FF9600",  # Deep Gold
+            "#FF7A00",  # Rich Gold
+        ],
+        py5.RGB,
+        "Paleta de 13 tons de amarelo",
+    ),
 }
 
 
