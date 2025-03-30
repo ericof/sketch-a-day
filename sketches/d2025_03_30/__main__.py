@@ -54,6 +54,7 @@ def setup():
         with py5.push():
             py5.stroke("#000")
             py5.stroke_weight(9)
+            py5.rotate_y(py5.radians(30))
             for gomo in gomos(raio):
                 x0 = y0 = z0 = None
                 for x, y, z in gomo:
