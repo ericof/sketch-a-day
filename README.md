@@ -420,7 +420,9 @@ You can follow this project also on:
 | [2025-03-29](./sketches/d2025_03_29) | Oliver's 12 | [./sketches/d2025_03_29/__main__.py](./sketches/d2025_03_29/__main__.py) | ![2025-03-29](./sketches/d2025_03_29/2025-03-29.png) |
 | [2025-03-30](./sketches/d2025_03_30) | Basketball 01 | [./sketches/d2025_03_30/__main__.py](./sketches/d2025_03_30/__main__.py) | ![2025-03-30](./sketches/d2025_03_30/2025-03-30.png) |
 | [2025-03-31](./sketches/d2025_03_31) | Basketball 02 | [./sketches/d2025_03_31/__main__.py](./sketches/d2025_03_31/__main__.py) | ![2025-03-31](./sketches/d2025_03_31/2025-03-31.png) |
+| [2025-04-01](./sketches/d2025_04_01) | Padrões 01 | [./sketches/d2025_04_01/__main__.py](./sketches/d2025_04_01/__main__.py) | ![2025-04-01](./sketches/d2025_04_01/2025-04-01.png) |
 <!-- Next Item -->
+
 
 
 
