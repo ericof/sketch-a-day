@@ -27,6 +27,18 @@ class SketchInfo:
         """Nome do arquivo de imagem / vídeo."""
         return f"{self.day}.{self.format}"
 
+    @property
+    def filepath(self) -> Path:
+        """Path para o arquivo."""
+        path = self.path
+        filename = self.filename
+        return path / filename
+
+    @property
+    def exists(self) -> bool:
+        """Confirma se arquivo existe."""
+        return self.filepath.exists()
+
 
 @dataclass
 class Sketch:

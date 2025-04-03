@@ -61,6 +61,9 @@ def all(day: str):
     """Update Readme, Commit changes, Publish on ericof.com."""
     day = process_day(day)
     info = sketch_info_for_day(day)
+    if not info.exists:
+        click.echo(f"Stopping, as the image {info.filepath} was not created.")
+        return
     click.echo(f"Updating the README.md file for day {day}")
     update_readme(info)
     click.echo(f"Commit changes for day {day}")
