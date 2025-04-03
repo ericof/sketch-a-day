@@ -422,7 +422,9 @@ You can follow this project also on:
 | [2025-03-31](./sketches/d2025_03_31) | Basketball 02 | [./sketches/d2025_03_31/__main__.py](./sketches/d2025_03_31/__main__.py) | ![2025-03-31](./sketches/d2025_03_31/2025-03-31.png) |
 | [2025-04-01](./sketches/d2025_04_01) | Padrões 01 | [./sketches/d2025_04_01/__main__.py](./sketches/d2025_04_01/__main__.py) | ![2025-04-01](./sketches/d2025_04_01/2025-04-01.png) |
 | [2025-04-02](./sketches/d2025_04_02) | Padrões 02 | [./sketches/d2025_04_02/__main__.py](./sketches/d2025_04_02/__main__.py) | ![2025-04-02](./sketches/d2025_04_02/2025-04-02.png) |
+| [2025-04-03](./sketches/d2025_04_03) | Padrões 03 | [./sketches/d2025_04_03/__main__.py](./sketches/d2025_04_03/__main__.py) | ![2025-04-03](./sketches/d2025_04_03/2025-04-03.png) |
 <!-- Next Item -->
+
 
 
 
