@@ -181,6 +181,26 @@ PALETAS = {
         py5.RGB,
         "Paleta de 13 tons de amarelo",
     ),
+    "maria-12": Paleta(
+        "maria-12",
+        [
+            "#FFFFFF",  # White
+            "#EAF3FF",  # Very Pale Blue
+            "#D4E7FF",  # Pale Sky Blue
+            "#BFDBFF",  # Light Baby Blue
+            "#A9CFFF",  # Soft Ice Blue
+            "#94C3FF",  # Powder Blue
+            "#7EB7FF",  # Sky Blue
+            "#69AAFF",  # Light Azure
+            "#539EFF",  # Dodger Blue
+            "#3E92FF",  # Bright Cornflower
+            "#2886FF",  # Vivid Blue
+            "#137AFF",  # Royal Blue
+            "#006EFF",  # Strong Blue
+        ],
+        py5.RGB,
+        "Paleta de 13 tons de amarelo",
+    ),
 }
 
 
