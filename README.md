@@ -425,7 +425,9 @@ You can follow this project also on:
 | [2025-04-03](./sketches/d2025_04_03) | Padrões 03 | [./sketches/d2025_04_03/__main__.py](./sketches/d2025_04_03/__main__.py) | ![2025-04-03](./sketches/d2025_04_03/2025-04-03.png) |
 | [2025-04-04](./sketches/d2025_04_04) | Maria's 12 | [./sketches/d2025_04_04/__main__.py](./sketches/d2025_04_04/__main__.py) | ![2025-04-04](./sketches/d2025_04_04/2025-04-04.png) |
 | [2025-04-05](./sketches/d2025_04_05) | Padrões 04 | [./sketches/d2025_04_05/__main__.py](./sketches/d2025_04_05/__main__.py) | ![2025-04-05](./sketches/d2025_04_05/2025-04-05.png) |
+| [2025-04-06](./sketches/d2025_04_06) | Padrões 05 | [./sketches/d2025_04_06/__main__.py](./sketches/d2025_04_06/__main__.py) | ![2025-04-06](./sketches/d2025_04_06/2025-04-06.png) |
 <!-- Next Item -->
+
 
 
 
