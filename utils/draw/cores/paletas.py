@@ -223,7 +223,7 @@ def lista_paletas() -> list[str]:
 
 def gera_paleta(
     nome: str, como_deque: bool = False
-) -> list[py5.color] | deque[py5.color]:
+) -> list[py5.Py5Color] | deque[py5.Py5Color]:
     """Retorna lista de cores a partir da paleta escolhida."""
     if (paleta := PALETAS.get(nome)) is None:
         raise ValueError("Paleta desconhecida")
