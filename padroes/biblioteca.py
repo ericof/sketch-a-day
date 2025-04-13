@@ -4,8 +4,7 @@ from . import tipos
 
 
 class CirculoCanto(tipos.Padrao):
-    nome = "CirculoCanto"
-    categoria = "circulo"
+    categoria = "circulos"
 
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
         """Implementa padrão."""
@@ -15,8 +14,7 @@ class CirculoCanto(tipos.Padrao):
 
 
 class CirculoCentroP(tipos.Padrao):
-    nome = "CirculoCentroP"
-    categoria = "circulo"
+    categoria = "circulos"
 
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
         """Implementa padrão."""
@@ -26,8 +24,7 @@ class CirculoCentroP(tipos.Padrao):
 
 
 class CirculoCentroM(tipos.Padrao):
-    nome = "CirculoCentroM"
-    categoria = "circulo"
+    categoria = "circulos"
 
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
         """Implementa padrão."""
@@ -37,8 +34,7 @@ class CirculoCentroM(tipos.Padrao):
 
 
 class CirculoConncentrico(tipos.Padrao):
-    nome = "CirculoConncentrico"
-    categoria = "circulo"
+    categoria = "circulos"
 
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
         """Implementa padrão."""
@@ -55,14 +51,46 @@ class CirculoConncentrico(tipos.Padrao):
 
 
 class RaiosCanto(tipos.Padrao):
-    nome = "Raios"
-    categoria = "circulo"
+    categoria = "circulos"
 
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
         """Implementa padrão."""
         pg.stroke_weight(self.traco)
         pg.ellipse_mode(py5.CENTER)
         with py5.push():
-            py5.no_stroke()
+            pg.no_fill()
             for raio in range(self.largura * 2, 5, -10):
                 pg.circle(*self.centro, raio)
+
+
+class TrianguloCanto(tipos.Padrao):
+    categoria = "triangulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        meio_x, meio_y = self.centro
+        pg.triangle(-meio_x, -meio_y, -meio_x, meio_y, meio_x, meio_y)
+
+
+class TrianguloCantoDividido(tipos.Padrao):
+    categoria = "triangulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke(self.traco)
+        meio_x, meio_y = self.centro
+        pg.triangle(-meio_x, -meio_y, -meio_x, meio_y, meio_x, meio_y)
+        with py5.push():
+            pg.fill(cores.traco)
+            pg.triangle(0, 0, -meio_x, meio_y, meio_x, meio_y)
+
+
+class TrianguloMeio(tipos.Padrao):
+    categoria = "triangulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        meio_x, meio_y = self.centro
+        pg.triangle(0, 0, -meio_x, meio_y, meio_x, meio_y)

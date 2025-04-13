@@ -11,7 +11,6 @@ class CoresPadrao:
 
 
 class Padrao:
-    nome: str
     categoria: str
     centro: tuple[float, float]
     largura: float
@@ -23,6 +22,11 @@ class Padrao:
         self.altura = int(altura)
         self.centro = (largura / 2, altura / 2)
         self.traco = traco
+
+    @property
+    def nome(self) -> str:
+        """Nome desse padrão."""
+        return self.__class__.__name__
 
     def padrao(self, pg: py5.Py5Graphics, cores: CoresPadrao):
         pass
