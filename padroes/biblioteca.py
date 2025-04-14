@@ -94,3 +94,14 @@ class TrianguloMeio(tipos.Padrao):
         pg.stroke_weight(self.traco)
         meio_x, meio_y = self.centro
         pg.triangle(0, 0, -meio_x, meio_y, meio_x, meio_y)
+
+
+class TrianguloMetades(tipos.Padrao):
+    categoria = "triangulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        meio_x, meio_y = self.centro
+        pg.triangle(0, 0, -meio_x, meio_y, meio_x, meio_y)
+        pg.triangle(0, 0, -meio_x, -meio_y, meio_x, -meio_y)
