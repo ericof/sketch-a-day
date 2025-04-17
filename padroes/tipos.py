@@ -54,6 +54,8 @@ class Borda:
 class Celula:
     x: float
     y: float
+    idx: int
+    idy: int
     borda: Borda | None = None
 
     def __init__(
