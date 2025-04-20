@@ -241,6 +241,16 @@ PALETAS = {
         py5.RGB,
         "Paleta com as cores da bandeira da Itália",
     ),
+    "basco-01": Paleta(
+        "basco-01",
+        [
+            "#D52B1E",  # Red (background of the flag)
+            "#007A33",  # Green (St. Andrew's cross)
+            "#FFFFFF",  # White (cross)
+        ],
+        py5.RGB,
+        "Paleta com as cores da bandeira do País Basco",
+    ),
 }
 
 
