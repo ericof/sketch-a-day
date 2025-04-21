@@ -51,3 +51,25 @@ class QuadradoMetade(tipos.Padrao):
         pg.rect_mode(py5.CORNER)
         largura = self.largura // 2
         pg.rect(-largura, -largura, largura, self.largura)
+
+
+@registra_padrao()
+class QuadradoTotal(tipos.Padrao):
+    categoria = "quadrados"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        largura = self.largura // 2
+        pg.rect_mode(py5.CORNER)
+        with py5.push():
+            pg.stroke_weight(self.traco)
+            pg.rect(-largura, -largura, self.largura, self.largura)
+
+
+@registra_padrao()
+class QuadradoVazio(tipos.Padrao):
+    categoria = "quadrados"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pass

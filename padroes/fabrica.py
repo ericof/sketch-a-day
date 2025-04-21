@@ -50,5 +50,6 @@ class GradeLinearPadroes:
         if not padroes:
             tamanho = len(self.celulas)
             padroes = choices([p for p in self.colecao], k=tamanho)
-        iterador = cycle([self.colecao[p] for p in padroes])
+        lista_padroes = [self.colecao[p] for p in padroes]
+        iterador = cycle(lista_padroes)
         return iterador

@@ -19,6 +19,9 @@ class BibliotecaClass:
     def get_padrao(self, nome: str) -> t.Padrao:
         return self.padroes[nome]
 
+    def get_padroes(self) -> dict[str, t.Padrao]:
+        return self.padroes
+
 
 Biblioteca = BibliotecaClass()
 
