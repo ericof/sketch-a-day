@@ -441,7 +441,9 @@ You can follow this project also on:
 | [2025-04-19](./sketches/d2025_04_19) | Padrões Fabricados 09 | [./sketches/d2025_04_19/__main__.py](./sketches/d2025_04_19/__main__.py) | ![2025-04-19](./sketches/d2025_04_19/2025-04-19.png) |
 | [2025-04-20](./sketches/d2025_04_20) | Juventus' is 101 | [./sketches/d2025_04_20/__main__.py](./sketches/d2025_04_20/__main__.py) | ![2025-04-20](./sketches/d2025_04_20/2025-04-20.png) |
 | [2025-04-21](./sketches/d2025_04_21) | Padrões Fabricados 10 | [./sketches/d2025_04_21/__main__.py](./sketches/d2025_04_21/__main__.py) | ![2025-04-21](./sketches/d2025_04_21/2025-04-21.png) |
+| [2025-04-22](./sketches/d2025_04_22) | Padrões Fabricados 11 | [./sketches/d2025_04_22/__main__.py](./sketches/d2025_04_22/__main__.py) | ![2025-04-22](./sketches/d2025_04_22/2025-04-22.png) |
 <!-- Next Item -->
+
 
 
 
