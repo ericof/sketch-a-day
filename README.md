@@ -443,7 +443,9 @@ You can follow this project also on:
 | [2025-04-21](./sketches/d2025_04_21) | Padrões Fabricados 10 | [./sketches/d2025_04_21/__main__.py](./sketches/d2025_04_21/__main__.py) | ![2025-04-21](./sketches/d2025_04_21/2025-04-21.png) |
 | [2025-04-22](./sketches/d2025_04_22) | Padrões Fabricados 11 | [./sketches/d2025_04_22/__main__.py](./sketches/d2025_04_22/__main__.py) | ![2025-04-22](./sketches/d2025_04_22/2025-04-22.png) |
 | [2025-04-23](./sketches/d2025_04_23) | Padrões Fabricados 11 | [./sketches/d2025_04_23/__main__.py](./sketches/d2025_04_23/__main__.py) | ![2025-04-23](./sketches/d2025_04_23/2025-04-23.png) |
+| [2025-04-24](./sketches/d2025_04_24) | Padrões Fabricados 11 | [./sketches/d2025_04_24/__main__.py](./sketches/d2025_04_24/__main__.py) | ![2025-04-24](./sketches/d2025_04_24/2025-04-24.png) |
 <!-- Next Item -->
+
 
 
 
