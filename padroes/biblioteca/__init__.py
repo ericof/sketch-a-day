@@ -1,6 +1,7 @@
 from ._biblioteca import Biblioteca, registra_padrao  # noQA
 from .circulos import CirculoCentroP  # noQA
 from .circulos import CirculoCanto, CirculoCentroM, CirculoConncentrico
+from .hexagonos import HexagonoRaios  # noQA
 from .quadrados import (  # noQA
     QuadradoCanto,
     QuadradoCantos,
@@ -20,6 +21,7 @@ __all__ = [
     "CirculoCentroM",
     "CirculoCentroP",
     "CirculoConncentrico",
+    "HexagonoRaios",
     "QuadradoCanto",
     "QuadradoCantos",
     "QuadradoCentro",
