@@ -7,7 +7,7 @@ import py5
 class CoresPadrao:
     traco: py5.Py5Color
     preenchimento: py5.Py5Color
-    fundo: py5.Py5Color
+    fundo: py5.Py5Color | None = None
 
 
 class Padrao:
@@ -38,7 +38,8 @@ class Padrao:
             with pg.push_matrix():
                 pg.translate(*self.centro)
                 pg.rotate(py5.radians(rotacao))
-                pg.background(cores.fundo)
+                if cores.fundo:
+                    pg.background(cores.fundo)
                 pg.stroke(cores.traco)
                 pg.fill(cores.preenchimento)
                 self.padrao(pg, cores)
