@@ -87,6 +87,15 @@ class TracosReto(PadraoTraco):
 
 
 @registra_padrao()
+class TracoCirculoCentralP(PadraoTraco):
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.no_fill()
+        pg.stroke_weight(self.traco)
+        pg.circle(0, 0, self.largura * 0.25)
+
+
+@registra_padrao()
 class TracoCirculoCentral(PadraoTraco):
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
         """Implementa padrão."""

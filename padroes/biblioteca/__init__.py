@@ -12,7 +12,11 @@ from .quadrados import (  # noQA
 )
 from .tracos import TracoCentralCompleto  # noQA
 from .tracos import TracoCentralMetade  # noQA
-from .tracos import TracoCirculoCentral, TracoCirculoCentralG  # noQA
+from .tracos import (  # noQA
+    TracoCirculoCentral,
+    TracoCirculoCentralG,
+    TracoCirculoCentralP,
+)
 from .triangulos import TrianguloCantoDividido  # noQA
 from .triangulos import TrianguloCanto, TrianguloMeio, TrianguloMetades
 
@@ -33,6 +37,7 @@ __all__ = [
     "TracoCentralCompleto",
     "TracoCirculoCentral",
     "TracoCirculoCentralG",
+    "TracoCirculoCentralP",
     "TracoCentralMetade",
     "TrianguloCanto",
     "TrianguloCantoDividido",
