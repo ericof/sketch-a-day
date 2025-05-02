@@ -451,7 +451,9 @@ You can follow this project also on:
 | [2025-04-30](./sketches/d2025_04_30) | Colisões 04 | [./sketches/d2025_04_30/__main__.py](./sketches/d2025_04_30/__main__.py) | ![2025-04-30](./sketches/d2025_04_30/2025-04-30.png) |
 | [2025-04-29](./sketches/d2025_04_29) | Colisões 03 | [./sketches/d2025_04_29/__main__.py](./sketches/d2025_04_29/__main__.py) | ![2025-04-29](./sketches/d2025_04_29/2025-04-29.png) |
 | [2025-05-01](./sketches/d2025_05_01) | Colisões 05 | [./sketches/d2025_05_01/__main__.py](./sketches/d2025_05_01/__main__.py) | ![2025-05-01](./sketches/d2025_05_01/2025-05-01.png) |
+| [2025-05-02](./sketches/d2025_05_02) | Colisões 06 | [./sketches/d2025_05_02/__main__.py](./sketches/d2025_05_02/__main__.py) | ![2025-05-02](./sketches/d2025_05_02/2025-05-02.png) |
 <!-- Next Item -->
+
 
 
 
