@@ -92,11 +92,13 @@ class Celula:
             py5.rect(-buffer, -buffer, largura, altura)
 
     def __call__(
-        self, padrao: Padrao, rotacao: float, cores: CoresPadrao
+        self, padrao: Padrao, rotacao: float, cores: CoresPadrao, desenha: bool = True
     ) -> py5.Py5Graphics:
-        if self.borda:
-            self._desenha_borda()
-        with py5.push():
-            py5.translate(self.x, self.y)
-            imagem = padrao(rotacao, cores)
-            py5.image(imagem, 0, 0, self.largura, self.altura)
+        imagem = padrao(rotacao, cores)
+        if desenha:
+            if self.borda:
+                self._desenha_borda()
+            with py5.push():
+                py5.translate(self.x, self.y)
+                py5.image(imagem, 0, 0, self.largura, self.altura)
+        return imagem
