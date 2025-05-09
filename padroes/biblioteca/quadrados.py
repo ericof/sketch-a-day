@@ -92,3 +92,22 @@ class QuadradoRaios(tipos.Padrao):
             while largura > largura_min:
                 pg.rect(0, 0, largura, largura)
                 largura *= passo
+
+
+@registra_padrao()
+class Quadrado3Raios(tipos.Padrao):
+    categoria = "quadrados"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.rect_mode(py5.CENTER)
+        limite = 0.75
+        largura_max = self.largura * limite
+        largura_min = 5
+        meio = (largura_max - largura_min) / 2 + largura_min
+        larguras = [largura_max, meio, largura_min]
+        with py5.push():
+            pg.no_fill()
+            for largura in larguras:
+                pg.rect(0, 0, largura, largura)
