@@ -459,7 +459,9 @@ You can follow this project also on:
 | [2025-05-07](./sketches/d2025_05_07) | Colisões 11 | [./sketches/d2025_05_07/__main__.py](./sketches/d2025_05_07/__main__.py) | ![2025-05-07](./sketches/d2025_05_07/2025-05-07.png) |
 | [2025-05-08](./sketches/d2025_05_08) | Rotações 01 | [./sketches/d2025_05_08/__main__.py](./sketches/d2025_05_08/__main__.py) | ![2025-05-08](./sketches/d2025_05_08/2025-05-08.png) |
 | [2025-05-09](./sketches/d2025_05_09) | Rotações 02 | [./sketches/d2025_05_09/__main__.py](./sketches/d2025_05_09/__main__.py) | ![2025-05-09](./sketches/d2025_05_09/2025-05-09.png) |
+| [2025-05-10](./sketches/d2025_05_10) | Rotações 03 | [./sketches/d2025_05_10/__main__.py](./sketches/d2025_05_10/__main__.py) | ![2025-05-10](./sketches/d2025_05_10/2025-05-10.png) |
 <!-- Next Item -->
+
 
 
 
