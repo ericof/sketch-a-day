@@ -460,7 +460,9 @@ You can follow this project also on:
 | [2025-05-08](./sketches/d2025_05_08) | Rotações 01 | [./sketches/d2025_05_08/__main__.py](./sketches/d2025_05_08/__main__.py) | ![2025-05-08](./sketches/d2025_05_08/2025-05-08.png) |
 | [2025-05-09](./sketches/d2025_05_09) | Rotações 02 | [./sketches/d2025_05_09/__main__.py](./sketches/d2025_05_09/__main__.py) | ![2025-05-09](./sketches/d2025_05_09/2025-05-09.png) |
 | [2025-05-10](./sketches/d2025_05_10) | Rotações 03 | [./sketches/d2025_05_10/__main__.py](./sketches/d2025_05_10/__main__.py) | ![2025-05-10](./sketches/d2025_05_10/2025-05-10.png) |
+| [2025-05-11](./sketches/d2025_05_11) | Rotações 04 | [./sketches/d2025_05_11/__main__.py](./sketches/d2025_05_11/__main__.py) | ![2025-05-11](./sketches/d2025_05_11/2025-05-11.png) |
 <!-- Next Item -->
+
 
 
 
