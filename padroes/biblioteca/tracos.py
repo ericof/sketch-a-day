@@ -111,3 +111,25 @@ class TracoCirculoCentralG(PadraoTraco):
         pg.no_fill()
         pg.stroke_weight(self.traco)
         pg.circle(0, 0, self.largura * 0.75)
+
+
+@registra_padrao()
+class TracosParalelos3(PadraoTraco):
+    @property
+    def retas(self) -> tuple[tuple[float, float, float, float], ...]:
+        distancia = (self.largura / 3) - (self.largura / 2)
+        x0 = -self.largura * 2
+        x1 = x0 * -1
+        retas = [(x0, distancia * idx, x1, distancia * idx) for idx in range(-1, 2)]
+        return tuple(retas)
+
+
+@registra_padrao()
+class TracosParalelos5(PadraoTraco):
+    @property
+    def retas(self) -> tuple[tuple[float, float, float, float], ...]:
+        distancia = (self.largura / 5) - (self.largura / 2)
+        x0 = -self.largura * 2
+        x1 = x0 * -1
+        retas = [(x0, distancia * idx, x1, distancia * idx) for idx in range(-2, 3)]
+        return tuple(retas)
