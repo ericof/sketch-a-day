@@ -467,7 +467,9 @@ You can follow this project also on:
 | [2025-05-15](./sketches/d2025_05_15) | Rotações 08 | [./sketches/d2025_05_15/__main__.py](./sketches/d2025_05_15/__main__.py) | ![2025-05-15](./sketches/d2025_05_15/2025-05-15.png) |
 | [2025-05-16](./sketches/d2025_05_16) | Padrões Fabricados (Redux) 01 | [./sketches/d2025_05_16/__main__.py](./sketches/d2025_05_16/__main__.py) | ![2025-05-16](./sketches/d2025_05_16/2025-05-16.png) |
 | [2025-05-17](./sketches/d2025_05_17) | Padrões Fabricados (Redux) 02 | [./sketches/d2025_05_17/__main__.py](./sketches/d2025_05_17/__main__.py) | ![2025-05-17](./sketches/d2025_05_17/2025-05-17.png) |
+| [2025-05-18](./sketches/d2025_05_18) | Padrões Fabricados (Redux) 03 | [./sketches/d2025_05_18/__main__.py](./sketches/d2025_05_18/__main__.py) | ![2025-05-18](./sketches/d2025_05_18/2025-05-18.png) |
 <!-- Next Item -->
+
 
 
 
