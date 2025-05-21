@@ -105,3 +105,42 @@ class Circulo3Raios(tipos.Padrao):
             pg.no_fill()
             for largura in larguras:
                 pg.circle(0, 0, largura)
+
+
+class CirculoRaiosCanto(tipos.Padrao):
+    categoria = "circulos-tracos"
+    raios: int = 1
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.rect_mode(py5.CENTER)
+        limite = 1.75
+        largura_max = int(self.largura * limite)
+        largura_min = int(self.largura * (limite - 1))
+        passo = int((largura_max - largura_min) / self.raios)
+        larguras = [largura for largura in range(largura_min, largura_max + 10, passo)]
+        with py5.push():
+            pg.no_fill()
+            for largura in larguras:
+                pg.circle(*self.centro, largura)
+
+
+@registra_padrao()
+class Circulo3RaiosCanto(CirculoRaiosCanto):
+    raios: int = 3
+
+
+@registra_padrao()
+class Circulo4RaiosCanto(CirculoRaiosCanto):
+    raios: int = 4
+
+
+@registra_padrao()
+class Circulo5RaiosCanto(CirculoRaiosCanto):
+    raios: int = 5
+
+
+@registra_padrao()
+class Circulo6RaiosCanto(CirculoRaiosCanto):
+    raios: int = 6
