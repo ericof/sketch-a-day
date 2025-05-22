@@ -471,7 +471,9 @@ You can follow this project also on:
 | [2025-05-19](./sketches/d2025_05_19) | Padrões Fabricados (Redux) 04 | [./sketches/d2025_05_19/__main__.py](./sketches/d2025_05_19/__main__.py) | ![2025-05-19](./sketches/d2025_05_19/2025-05-19.png) |
 | [2025-05-20](./sketches/d2025_05_20) | Padrões Fabricados (Redux) 05 | [./sketches/d2025_05_20/__main__.py](./sketches/d2025_05_20/__main__.py) | ![2025-05-20](./sketches/d2025_05_20/2025-05-20.png) |
 | [2025-05-21](./sketches/d2025_05_21) | Padrões Fabricados (Redux) 06 | [./sketches/d2025_05_21/__main__.py](./sketches/d2025_05_21/__main__.py) | ![2025-05-21](./sketches/d2025_05_21/2025-05-21.png) |
+| [2025-05-22](./sketches/d2025_05_22) | Padrões Fabricados (Redux) 07 | [./sketches/d2025_05_22/__main__.py](./sketches/d2025_05_22/__main__.py) | ![2025-05-22](./sketches/d2025_05_22/2025-05-22.png) |
 <!-- Next Item -->
+
 
 
 
