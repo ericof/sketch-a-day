@@ -1,4 +1,5 @@
 from ._biblioteca import Biblioteca, registra_padrao  # noQA
+from .bulcao import AzulejoQuadradoRaios
 from .circulos import CirculoCentroP  # noQA
 from .circulos import CirculoCanto, CirculoCentroM, CirculoConncentrico
 from .hexagonos import HexagonoRaios  # noQA
@@ -23,6 +24,7 @@ from .triangulos import TrianguloCantoDividido  # noQA
 from .triangulos import TrianguloCanto, TrianguloMeio, TrianguloMetades
 
 __all__ = [
+    "AzulejoQuadradoRaios",
     "Biblioteca",
     "CirculoCanto",
     "CirculoCentroM",
