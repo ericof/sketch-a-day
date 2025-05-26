@@ -475,7 +475,9 @@ You can follow this project also on:
 | [2025-05-23](./sketches/d2025_05_23) | Padrões Fabricados (Redux) 08 | [./sketches/d2025_05_23/__main__.py](./sketches/d2025_05_23/__main__.py) | ![2025-05-23](./sketches/d2025_05_23/2025-05-23.png) |
 | [2025-05-24](./sketches/d2025_05_24) | Bulcão 01 | [./sketches/d2025_05_24/__main__.py](./sketches/d2025_05_24/__main__.py) | ![2025-05-24](./sketches/d2025_05_24/2025-05-24.png) |
 | [2025-05-25](./sketches/d2025_05_25) | Bulcão 02 | [./sketches/d2025_05_25/__main__.py](./sketches/d2025_05_25/__main__.py) | ![2025-05-25](./sketches/d2025_05_25/2025-05-25.png) |
+| [2025-05-26](./sketches/d2025_05_26) | Bulcão 03 | [./sketches/d2025_05_26/__main__.py](./sketches/d2025_05_26/__main__.py) | ![2025-05-26](./sketches/d2025_05_26/2025-05-26.png) |
 <!-- Next Item -->
+
 
 
 
