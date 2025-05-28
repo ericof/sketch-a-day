@@ -13,6 +13,12 @@ class CoresPadrao:
 class Padrao:
     categoria: str
     centro: tuple[float, float]
+    extremidades: tuple[
+        tuple[float, float],
+        tuple[float, float],
+        tuple[float, float],
+        tuple[float, float],
+    ]
     largura: float
     altura: float
     traco: float
@@ -20,7 +26,9 @@ class Padrao:
     def __init__(self, largura: int = 100, altura: int = 100, traco: float = 1):
         self.largura = int(largura)
         self.altura = int(altura)
-        self.centro = (largura / 2, altura / 2)
+        metade_largura = largura / 2
+        metade_altura = altura / 2
+        self.centro = (metade_largura, metade_altura)
         self.traco = traco
 
     @property

@@ -129,3 +129,33 @@ class AzulejoTresTracos3(AzulejoTresTracosBase):
         largura = self.largura - (retas[0][0] - traco - 4 * espaco) + 1
         altura = self.largura
         self.desenha_raios(pg, centro, largura, altura, cores.traco)
+
+
+@registra_padrao()
+class AzulejoCirculoTriangulo(tipos.Padrao):
+    categoria = "bulcao"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        # Triangulo
+        centro_x, centro_y = self.centro
+        with pg.push():
+            pg.stroke(cores.traco)
+            pg.fill(cores.preenchimento)
+            diff = self.largura * 0.5
+            pg.triangle(
+                centro_x,
+                centro_y,
+                centro_x,
+                centro_y - diff,
+                centro_x - diff,
+                centro_y,
+            )
+        # Circulo
+        with pg.push():
+            pg.stroke(cores.traco)
+            pg.fill(cores.preenchimento)
+            raio = self.largura * 1.2
+            diff = self.largura * 0.1
+            pg.circle(-centro_x + diff, -centro_y + diff, raio)
