@@ -479,7 +479,9 @@ You can follow this project also on:
 | [2025-05-27](./sketches/d2025_05_27) | Bulcão 04 | [./sketches/d2025_05_27/__main__.py](./sketches/d2025_05_27/__main__.py) | ![2025-05-27](./sketches/d2025_05_27/2025-05-27.png) |
 | [2025-05-28](./sketches/d2025_05_28) | Bulcão 05 | [./sketches/d2025_05_28/__main__.py](./sketches/d2025_05_28/__main__.py) | ![2025-05-28](./sketches/d2025_05_28/2025-05-28.png) |
 | [2025-05-29](./sketches/d2025_05_29) | Bulcão 06 | [./sketches/d2025_05_29/__main__.py](./sketches/d2025_05_29/__main__.py) | ![2025-05-29](./sketches/d2025_05_29/2025-05-29.png) |
+| [2025-05-30](./sketches/d2025_05_30) | Bulcão 06 | [./sketches/d2025_05_30/__main__.py](./sketches/d2025_05_30/__main__.py) | ![2025-05-30](./sketches/d2025_05_30/2025-05-30.png) |
 <!-- Next Item -->
+
 
 
 
