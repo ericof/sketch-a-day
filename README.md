@@ -486,7 +486,9 @@ You can follow this project also on:
 | [2025-06-03](./sketches/d2025_06_03) | Bulcão 10 | [./sketches/d2025_06_03/__main__.py](./sketches/d2025_06_03/__main__.py) | ![2025-06-03](./sketches/d2025_06_03/2025-06-03.png) |
 | [2025-06-04](./sketches/d2025_06_04) | Bulcão 11 | [./sketches/d2025_06_04/__main__.py](./sketches/d2025_06_04/__main__.py) | ![2025-06-04](./sketches/d2025_06_04/2025-06-04.png) |
 | [2025-06-05](./sketches/d2025_06_05) | Fraturas Circulares 01 | [./sketches/d2025_06_05/__main__.py](./sketches/d2025_06_05/__main__.py) | ![2025-06-05](./sketches/d2025_06_05/2025-06-05.png) |
+| [2025-06-06](./sketches/d2025_06_06) | Fraturas Circulares 02 | [./sketches/d2025_06_06/__main__.py](./sketches/d2025_06_06/__main__.py) | ![2025-06-06](./sketches/d2025_06_06/2025-06-06.png) |
 <!-- Next Item -->
+
 
 
 
