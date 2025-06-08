@@ -488,7 +488,9 @@ You can follow this project also on:
 | [2025-06-05](./sketches/d2025_06_05) | Fraturas Circulares 01 | [./sketches/d2025_06_05/__main__.py](./sketches/d2025_06_05/__main__.py) | ![2025-06-05](./sketches/d2025_06_05/2025-06-05.png) |
 | [2025-06-06](./sketches/d2025_06_06) | Fraturas Circulares 02 | [./sketches/d2025_06_06/__main__.py](./sketches/d2025_06_06/__main__.py) | ![2025-06-06](./sketches/d2025_06_06/2025-06-06.png) |
 | [2025-06-07](./sketches/d2025_06_07) | Fraturas Circulares 03 | [./sketches/d2025_06_07/__main__.py](./sketches/d2025_06_07/__main__.py) | ![2025-06-07](./sketches/d2025_06_07/2025-06-07.png) |
+| [2025-06-08](./sketches/d2025_06_08) | Fraturas Circulares 04 | [./sketches/d2025_06_08/__main__.py](./sketches/d2025_06_08/__main__.py) | ![2025-06-08](./sketches/d2025_06_08/2025-06-08.png) |
 <!-- Next Item -->
+
 
 
 
