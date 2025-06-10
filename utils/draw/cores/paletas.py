@@ -12,6 +12,16 @@ class Paleta:
     ref: str = ""
 
 
+@dataclass
+class PaletaComposta:
+    nome: str
+    cores: (
+        list[tuple[str, str]] | list[tuple[tuple[int, int, int], tuple[int, int, int]]]
+    )
+    tipo: int = py5.HSB
+    ref: str = ""
+
+
 PALETAS = {
     "laranja": Paleta(
         "laranja",
@@ -254,9 +264,12 @@ PALETAS = {
 }
 
 
-def lista_paletas() -> list[str]:
+def lista_paletas(tipo: str = "simples") -> list[str]:
     """Retorna lista de nomes de paletas."""
-    paletas = sorted(list(PALETAS.keys()))
+    if tipo == "composta":
+        paletas = sorted(list(PALETAS_COMPOSTAS.keys()))
+    else:
+        paletas = sorted(list(PALETAS.keys()))
     return paletas
 
 
@@ -275,4 +288,44 @@ def gera_paleta(
     return deque(resultado) if como_deque else resultado
 
 
-__all__ = ["gera_paleta", "lista_paletas"]
+PALETAS_COMPOSTAS = {
+    "ouro-azul": PaletaComposta(
+        "ouro-azul",
+        [
+            ("#FFF6D5", "#006EFF"),
+            ("#FFF0BF", "#137AFF"),
+            ("#FFEAA9", "#2886FF"),
+            ("#FFE493", "#3E92FF"),
+            ("#FFDE7D", "#539EFF"),
+            ("#FFD866", "#69AAFF"),
+            ("#FFD250", "#7EB7FF"),
+            ("#FFCC3A", "#94C3FF"),
+            ("#FFC624", "#A9CFFF"),
+            ("#FFB800", "#BFDBFF"),
+            ("#FF9600", "#D4E7FF"),
+            ("#FF7A00", "#EAF3FF"),
+        ],
+        py5.RGB,
+        "Paleta de tons de amarelo e azul",
+    ),
+}
+
+
+def gera_paleta_composta(
+    nome: str, como_deque: bool = False
+) -> list[tuple[py5.Py5Color, py5.Py5Color]] | deque[tuple[py5.Py5Color, py5.Py5Color]]:
+    """Retorna cores a partir de paleta escolhida."""
+    if (paleta := PALETAS_COMPOSTAS.get(nome)) is None:
+        raise ValueError("Paleta desconhecida")
+    resultado = []
+    for cor1, cor2 in paleta.cores:
+        if isinstance(cor1, str) and isinstance(cor2, str):
+            resultado.append((py5.color(cor1), py5.color(cor2)))
+        elif isinstance(cor1, tuple) and isinstance(cor2, tuple):
+            resultado.append((py5.color(*cor1), py5.color(*cor2)))
+        else:
+            raise ValueError("Cores mal formadas na paleta composta")
+    return deque(resultado) if como_deque else resultado
+
+
+__all__ = ["gera_paleta", "gera_paleta_composta", "lista_paletas"]
