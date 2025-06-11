@@ -231,6 +231,16 @@ PALETAS = {
         py5.RGB,
         "Paleta com as cores da bandeira do Brasil",
     ),
+    "brasil-03": Paleta(
+        "brasil-02",
+        [
+            "#009739",  # Green (Ordem e Progresso background)
+            "#FFCC29",  # Yellow (diamond shape)
+            "#002776",  # Blue (globe with stars)
+        ],
+        py5.RGB,
+        "Paleta com as cores da bandeira do Brasil",
+    ),
     "franca-01": Paleta(
         "franca-01",
         [
