@@ -494,7 +494,9 @@ You can follow this project also on:
 | [2025-06-11](./sketches/d2025_06_11) | Fraturas Retangulares 01 | [./sketches/d2025_06_11/__main__.py](./sketches/d2025_06_11/__main__.py) | ![2025-06-11](./sketches/d2025_06_11/2025-06-11.png) |
 | [2025-06-12](./sketches/d2025_06_12) | Fraturas Retangulares 02 | [./sketches/d2025_06_12/__main__.py](./sketches/d2025_06_12/__main__.py) | ![2025-06-12](./sketches/d2025_06_12/2025-06-12.png) |
 | [2025-06-13](./sketches/d2025_06_13) | Fraturas Retangulares 03 | [./sketches/d2025_06_13/__main__.py](./sketches/d2025_06_13/__main__.py) | ![2025-06-13](./sketches/d2025_06_13/2025-06-13.png) |
+| [2025-06-14](./sketches/d2025_06_14) | Fraturas Retangulares 04 | [./sketches/d2025_06_14/__main__.py](./sketches/d2025_06_14/__main__.py) | ![2025-06-14](./sketches/d2025_06_14/2025-06-14.png) |
 <!-- Next Item -->
+
 
 
 
