@@ -498,7 +498,9 @@ You can follow this project also on:
 | [2025-06-15](./sketches/d2025_06_15) | Fraturas Retangulares 05 | [./sketches/d2025_06_15/__main__.py](./sketches/d2025_06_15/__main__.py) | ![2025-06-15](./sketches/d2025_06_15/2025-06-15.png) |
 | [2025-06-16](./sketches/d2025_06_16) | Vera Molnár 01 | [./sketches/d2025_06_16/__main__.py](./sketches/d2025_06_16/__main__.py) | ![2025-06-16](./sketches/d2025_06_16/2025-06-16.png) |
 | [2025-06-17](./sketches/d2025_06_17) | Vera Molnár 02 | [./sketches/d2025_06_17/__main__.py](./sketches/d2025_06_17/__main__.py) | ![2025-06-17](./sketches/d2025_06_17/2025-06-17.png) |
+| [2025-06-18](./sketches/d2025_06_18) | Vera Molnár 03 | [./sketches/d2025_06_18/__main__.py](./sketches/d2025_06_18/__main__.py) | ![2025-06-18](./sketches/d2025_06_18/2025-06-18.png) |
 <!-- Next Item -->
+
 
 
 
