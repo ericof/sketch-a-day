@@ -36,7 +36,7 @@ def cria_grade(
     celula_x: int,
     celula_y: int,
     alternada: bool = True,
-):
+) -> list[tuple[float, float]]:
     """Cria uma grade."""
     return _cria_grade(
         largura, altura, margem_x, margem_y, celula_x, celula_y, alternada, False
@@ -51,7 +51,7 @@ def cria_grade_ex(
     celula_x: int,
     celula_y: int,
     alternada: bool = True,
-):
+) -> list[tuple[int, float, int, float]]:
     """Cria uma grade retornando também os índices."""
     return _cria_grade(
         largura, altura, margem_x, margem_y, celula_x, celula_y, alternada, True

@@ -232,7 +232,7 @@ PALETAS = {
         "Paleta com as cores da bandeira do Brasil",
     ),
     "brasil-03": Paleta(
-        "brasil-02",
+        "brasil-03",
         [
             "#009739",  # Green (Ordem e Progresso background)
             "#FFCC29",  # Yellow (diamond shape)
