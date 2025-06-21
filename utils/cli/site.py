@@ -64,7 +64,7 @@ def post_to_site(sketch: Sketch):
         "blocks_layout": {"items": blocks_layout},
         "subjects": info.tags,
     }
-    response = session.post(settings["base_url"], json=payload, timeout=3)
+    response = session.post(settings["base_url"], json=payload, timeout=10)
     if response.status_code != 201:
         raise Exception(response.status_code)
     data = response.json()
