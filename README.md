@@ -501,7 +501,9 @@ You can follow this project also on:
 | [2025-06-18](./sketches/d2025_06_18) | Vera Molnár 03 | [./sketches/d2025_06_18/__main__.py](./sketches/d2025_06_18/__main__.py) | ![2025-06-18](./sketches/d2025_06_18/2025-06-18.png) |
 | [2025-06-19](./sketches/d2025_06_19) | Vera Molnár 04 | [./sketches/d2025_06_19/__main__.py](./sketches/d2025_06_19/__main__.py) | ![2025-06-19](./sketches/d2025_06_19/2025-06-19.png) |
 | [2025-06-20](./sketches/d2025_06_20) | Mosaico 01 | [./sketches/d2025_06_20/__main__.py](./sketches/d2025_06_20/__main__.py) | ![2025-06-20](./sketches/d2025_06_20/2025-06-20.png) |
+| [2025-06-21](./sketches/d2025_06_21) | Mosaico 02 | [./sketches/d2025_06_21/__main__.py](./sketches/d2025_06_21/__main__.py) | ![2025-06-21](./sketches/d2025_06_21/2025-06-21.png) |
 <!-- Next Item -->
+
 
 
 
