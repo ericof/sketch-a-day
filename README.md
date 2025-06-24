@@ -504,7 +504,9 @@ You can follow this project also on:
 | [2025-06-21](./sketches/d2025_06_21) | Mosaico 02 | [./sketches/d2025_06_21/__main__.py](./sketches/d2025_06_21/__main__.py) | ![2025-06-21](./sketches/d2025_06_21/2025-06-21.png) |
 | [2025-06-22](./sketches/d2025_06_22) | Mosaico 03 | [./sketches/d2025_06_22/__main__.py](./sketches/d2025_06_22/__main__.py) | ![2025-06-22](./sketches/d2025_06_22/2025-06-22.png) |
 | [2025-06-23](./sketches/d2025_06_23) | Mosaico 04 | [./sketches/d2025_06_23/__main__.py](./sketches/d2025_06_23/__main__.py) | ![2025-06-23](./sketches/d2025_06_23/2025-06-23.png) |
+| [2025-06-24](./sketches/d2025_06_24) | Mosaico 05 | [./sketches/d2025_06_24/__main__.py](./sketches/d2025_06_24/__main__.py) | ![2025-06-24](./sketches/d2025_06_24/2025-06-24.png) |
 <!-- Next Item -->
+
 
 
 
