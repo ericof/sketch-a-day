@@ -8,3 +8,4 @@ from .formas import gera_hexagono  # noQA
 from .formas import gera_octagono  # noQA
 from .grade import cria_grade  # noQA
 from .grade import cria_grade_ex  # noQA
+from .grade import grade_desigual  # noQA
