@@ -66,51 +66,80 @@ def grade_desigual(
     altura: int,
     area_min: int,
     area_max: int,
-    razao_max: float,
+    razao_max: float = 4.0,
+    multiplicador_area_max: float = 10.0,
 ) -> np.ndarray:
-    """Cria grade com retângulos de tamanhos variados."""
+    """Cria uma grade com retângulos de tamanhos variados.
+
+    Restrições:
+    - área entre area_min e area_max
+    - razão entre os lados ≤ razao_max
+    - área máxima ≤ multiplicador_area_max × menor área encontrada
+    - evita retângulos colados com outro por uma borda inteira
+    - todos os pixels são usados
+    """
     rng = np.random.default_rng()
     usados = np.zeros((altura, largura), dtype=bool)
     retangulos = []
+    menor_area_vista = None
 
     def nao_usado(x, y, w, h):
         return (
-            (x + w <= largura)
-            and (y + h <= altura)
+            x + w <= largura
+            and y + h <= altura
             and not usados[y : y + h, x : x + w].any()
         )
 
     def marca_usado(x, y, w, h):
         usados[y : y + h, x : x + w] = True
 
-    for _ in range(100000):
+    def tem_borda_colada(x, y, w, h):
+        """Evita retângulos colados em outro por uma borda inteira"""
+        if y > 0 and usados[y - 1, x : x + w].all():
+            return True
+        if y + h < altura and usados[y + h, x : x + w].all():
+            return True
+        if x > 0 and usados[y : y + h, x - 1].all():
+            return True
+        if x + w < largura and usados[y : y + h, x + w].all():
+            return True
+        return False
+
+    for _ in range(100_000):
         x = rng.integers(0, largura)
         y = rng.integers(0, altura)
 
         if usados[y, x]:
             continue
 
-        l_max = min(largura - x, int(np.sqrt(area_max)))
-        a_max = min(altura - y, int(area_max / max(1, l_max)))
+        l_max = largura - x
+        a_max = altura - y
 
         if l_max <= 0 or a_max <= 0:
             continue
 
-        retangulo_l = rng.integers(1, l_max + 1)
-        retangulo_a = rng.integers(1, a_max + 1)
-        area = retangulo_l * retangulo_a
+        ret_l = rng.integers(1, l_max + 1)
+        ret_a = rng.integers(1, a_max + 1)
+        area = ret_l * ret_a
 
         if area < area_min or area > area_max:
             continue
 
-        razao = max(retangulo_l / retangulo_a, retangulo_a / retangulo_l)
+        razao = max(ret_l / ret_a, ret_a / ret_l)
         if razao > razao_max:
             continue
 
-        if nao_usado(x, y, retangulo_l, retangulo_a):
-            retangulos.append((x, y, retangulo_l, retangulo_a))
-            marca_usado(x, y, retangulo_l, retangulo_a)
+        if menor_area_vista is None:
+            menor_area_vista = area
+        elif area > multiplicador_area_max * menor_area_vista:
+            continue
 
+        if nao_usado(x, y, ret_l, ret_a) and not tem_borda_colada(x, y, ret_l, ret_a):
+            retangulos.append((x, y, ret_l, ret_a))
+            marca_usado(x, y, ret_l, ret_a)
+            menor_area_vista = min(menor_area_vista, area)
+
+    # Preenche espaços restantes com retângulos menores, sem restrições
     visitados = np.zeros_like(usados)
     for y in range(altura):
         for x in range(largura):
