@@ -508,7 +508,9 @@ You can follow this project also on:
 | [2025-06-25](./sketches/d2025_06_25) | Mosaico 06 | [./sketches/d2025_06_25/__main__.py](./sketches/d2025_06_25/__main__.py) | ![2025-06-25](./sketches/d2025_06_25/2025-06-25.png) |
 | [2025-06-26](./sketches/d2025_06_26) | Mosaico 07 | [./sketches/d2025_06_26/__main__.py](./sketches/d2025_06_26/__main__.py) | ![2025-06-26](./sketches/d2025_06_26/2025-06-26.png) |
 | [2025-06-27](./sketches/d2025_06_27) | Mosaico 08 | [./sketches/d2025_06_27/__main__.py](./sketches/d2025_06_27/__main__.py) | ![2025-06-27](./sketches/d2025_06_27/2025-06-27.png) |
+| [2025-06-28](./sketches/d2025_06_28) | Mosaico 09 | [./sketches/d2025_06_28/__main__.py](./sketches/d2025_06_28/__main__.py) | ![2025-06-28](./sketches/d2025_06_28/2025-06-28.png) |
 <!-- Next Item -->
+
 
 
 
