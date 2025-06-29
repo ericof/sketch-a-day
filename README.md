@@ -509,7 +509,9 @@ You can follow this project also on:
 | [2025-06-26](./sketches/d2025_06_26) | Mosaico 07 | [./sketches/d2025_06_26/__main__.py](./sketches/d2025_06_26/__main__.py) | ![2025-06-26](./sketches/d2025_06_26/2025-06-26.png) |
 | [2025-06-27](./sketches/d2025_06_27) | Mosaico 08 | [./sketches/d2025_06_27/__main__.py](./sketches/d2025_06_27/__main__.py) | ![2025-06-27](./sketches/d2025_06_27/2025-06-27.png) |
 | [2025-06-28](./sketches/d2025_06_28) | Mosaico 09 | [./sketches/d2025_06_28/__main__.py](./sketches/d2025_06_28/__main__.py) | ![2025-06-28](./sketches/d2025_06_28/2025-06-28.png) |
+| [2025-06-29](./sketches/d2025_06_29) | Mandelbrot 01 | [./sketches/d2025_06_29/__main__.py](./sketches/d2025_06_29/__main__.py) | ![2025-06-29](./sketches/d2025_06_29/2025-06-29.png) |
 <!-- Next Item -->
+
 
 
 
