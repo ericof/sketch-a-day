@@ -20,6 +20,7 @@ You can follow this project also on:
 
 | Day | Description | File | Image |
 | -- | -- | -- | -- |
+| [2025-06-30](./sketches/daily/d2025_06_30) | Mapas: Origin | [./sketches/daily/d2025_06_30/__main__.py](./sketches/daily/d2025_06_30/__main__.py) | ![2025-06-30](./sketches/daily/d2025_06_30/2025-06-30.png) |
 <!-- Next Item -->
 
 ### 2024
