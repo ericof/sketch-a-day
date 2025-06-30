@@ -1,55 +1,117 @@
 [project]
 name = "sketches"
-version = "2024.01.01"
-description = "Sketch a day, 2024 edition"
+description = "Sketch a day, 2025 edition"
+dynamic = ["version"]
 authors = [
     {"name" = "Erico Andrei", "email" = "ericof@gmail.com"},
 ]
 license = "MIT"
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = [
-    "py5==0.10.2a0",
-    "CairoSVG==2.7.1",
-    "opencv-python==4.10.0.84",
-    "pymunk==6.8.1",
-    "scikit-learn==1.5.1",
-    "prettyconf==2.2.1",
-    "click==8.1.7",
-    "requests==2.32.3",
-    "gitpython==3.1.43",
-    "shapely==2.0.6",
-    "trimesh==4.4.9",
-    "opensimplex==0.4.5.1",
-    "install-jdk==1.1.0",
-    "sounddevice",
+requires-python = ">=3.13"
+keywords = [
+    "CMS",
+    "Plone",
+    "Python",
 ]
+classifiers = [
+    "Development Status :: 6 - Mature",
+    "License :: Public Domain",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python","Programming Language :: Python :: 3.13",
+    "Programming Language :: Python","Programming Language :: Python :: 3.14",
+]
+dependencies = [
+    "py5",
+    "CairoSVG",
+    "opencv-python",
+    "pymunk",
+    "scikit-learn",
+    "prettyconf",
+    "typer",
+    "requests",
+    "gitpython",
+    "shapely",
+    "trimesh",
+    "opensimplex",
+    "install-jdk",
+    "sounddevice",
+    "osmnx>=2.0.4",
+]
+
+[tool.hatch.version]
+path = "sketches/__init__.py"
+
+[dependency-groups]
+build = [
+    "hatchling",
+    "wheel",
+]
+dev = [
+    "pre-commit",
+    "ruff",
+]
+
+[project.urls]
+Homepage = "https://ericof.com/en/sketches"
+Source = "https://github.com/ericof/sketch-a-day"
 
 [project.scripts]
-sketches = 'utils.cli.cli:cli'
-
-[tool.hatch.envs.default]
-installer = "uv"
-dependencies = [
-    "black==24.8.0",
-    "isort==5.13.2",
-    "pre-commit==3.8.0",
-    "hatchling==1.25.0",
-]
-
-[tool.hatch.envs.default.scripts]
-create-today = "sketches create today"
-publish-today = "sketches all today"
-check = [
-  "pre-commit run -a"
-]
-
-[tool.black]
-target-version = ["py311"]
-
-[tool.isort]
-profile = "black"
+sketches = 'sketches.utils.cli:app'
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[tool.uv]
+managed = true
+default-groups = ["build", "dev"]
+
+
+[tool.ruff]
+target-version = "py313"
+line-length = 88
+fix = true
+lint.select = [
+    # flake8-2020
+    "YTT",
+    # flake8-bandit
+    "S",
+    # flake8-bugbear
+    "B",
+    # flake8-builtins
+    "A",
+    # flake8-comprehensions
+    "C4",
+    # flake8-debugger
+    "T10",
+    # flake8-simplify
+    "SIM",
+    # mccabe
+    "C90",
+    # pycodestyle
+    "E", "W",
+    # pyflakes
+    "F",
+    # pygrep-hooks
+    "PGH",
+    # pyupgrade
+    "UP",
+    # ruff
+    "RUF",
+]
+lint.ignore = [
+    # DoNotAssignLambda
+    "E731",
+]
+
+[tool.ruff.lint.isort]
+case-sensitive = false
+no-sections = true
+force-single-line = true
+from-first = true
+lines-after-imports = 2
+lines-between-types = 1
+order-by-type = false
+
+[tool.ruff.format]
+preview = true

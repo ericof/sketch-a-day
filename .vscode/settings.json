@@ -1,11 +1,10 @@
 {
-  "black-formatter.cwd": "${workspaceFolder}/",
-  "isort.args":["--profile", "black"],
+  "ruff.organizeImports": true,
+  "python.terminal.activateEnvironment": true,
   "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
-  },
+    },
   }
 }

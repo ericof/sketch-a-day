@@ -1,0 +1,146 @@
+from .. import tipos
+from ._biblioteca import registra_padrao
+
+import py5
+
+
+@registra_padrao()
+class CirculoCanto(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.ellipse_mode(py5.CENTER)
+        pg.circle(*self.centro, self.largura * 2)
+
+
+@registra_padrao()
+class CirculoCentroP(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.ellipse_mode(py5.CENTER)
+        pg.circle(0, 0, self.largura // 3)
+
+
+@registra_padrao()
+class CirculoCentroM(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.ellipse_mode(py5.CENTER)
+        pg.circle(0, 0, self.largura // 2)
+
+
+@registra_padrao()
+class CirculoConncentrico(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.ellipse_mode(py5.CENTER)
+        with py5.push():
+            pg.fill(cores.traco)
+            pg.stroke(cores.preenchimento)
+            pg.circle(0, 0, self.largura // 2)
+        with py5.push():
+            pg.stroke(cores.traco)
+            pg.fill(cores.preenchimento)
+            pg.circle(0, 0, self.largura // 3)
+
+
+@registra_padrao()
+class RaiosCanto(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.ellipse_mode(py5.CENTER)
+        with py5.push():
+            pg.no_fill()
+            for raio in range(self.largura * 2, 5, -10):
+                pg.circle(*self.centro, raio)
+
+
+@registra_padrao()
+class CirculosRaios(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.ellipse_mode(py5.CENTER)
+        passo = 0.75
+        largura_max = self.largura * passo
+        largura_min = 5
+        largura = largura_max
+        with py5.push():
+            pg.no_fill()
+            while largura > largura_min:
+                pg.circle(0, 0, largura)
+                largura *= passo
+
+
+@registra_padrao()
+class Circulo3Raios(tipos.Padrao):
+    categoria = "circulos"
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.rect_mode(py5.CENTER)
+        limite = 0.75
+        largura_max = self.largura * limite
+        largura_min = 5
+        meio = (largura_max - largura_min) / 2 + largura_min
+        larguras = [largura_max, meio, largura_min]
+        with py5.push():
+            pg.no_fill()
+            for largura in larguras:
+                pg.circle(0, 0, largura)
+
+
+class CirculoRaiosCanto(tipos.Padrao):
+    categoria = "circulos-tracos"
+    raios: int = 1
+
+    def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
+        """Implementa padrão."""
+        pg.stroke_weight(self.traco)
+        pg.rect_mode(py5.CENTER)
+        limite = 1.75
+        largura_max = int(self.largura * limite)
+        largura_min = int(self.largura * (limite - 1))
+        passo = int((largura_max - largura_min) / self.raios)
+        larguras = list(range(largura_min, largura_max + 10, passo))
+        with py5.push():
+            pg.no_fill()
+            for largura in larguras:
+                pg.circle(*self.centro, largura)
+
+
+@registra_padrao()
+class Circulo3RaiosCanto(CirculoRaiosCanto):
+    raios: int = 3
+
+
+@registra_padrao()
+class Circulo4RaiosCanto(CirculoRaiosCanto):
+    raios: int = 4
+
+
+@registra_padrao()
+class Circulo5RaiosCanto(CirculoRaiosCanto):
+    raios: int = 5
+
+
+@registra_padrao()
+class Circulo6RaiosCanto(CirculoRaiosCanto):
+    raios: int = 6
