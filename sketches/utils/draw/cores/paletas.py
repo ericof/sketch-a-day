@@ -308,6 +308,23 @@ PALETAS = {
         py5.RGB,
         "Paleta com tonalidades de laranja",
     ),
+    "tons-azul-01": Paleta(
+        "tons-azul-01",
+        [
+            "#3757B5",  # Soft Cobalt
+            "#2F53B6",  # Slightly deeper cobalt
+            "#2750B7",  # In-between cobalt
+            "#214DB8",  # Nearly base blue
+            "#1B4EB9",  # Primary Blue
+            "#174ABA",  # Slightly richer blue
+            "#1247BB",  # Bold royal blue
+            "#0C45BC",  # Deeper
+            "#0643BD",  # Even deeper blue
+            "#0045BE",  # Deep Royal Blue
+        ],
+        py5.RGB,
+        "Paleta com tonalidades de azul",
+    ),
 }
 
 
