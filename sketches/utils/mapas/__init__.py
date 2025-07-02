@@ -72,14 +72,37 @@ def _expandir_bbox(
     )
 
 
+def geocode_to_gdf(query: str) -> GeoDataFrame:
+    """Converte uma string de consulta geográfica em um GeoDataFrame.
+
+    Parâmetros:
+    - query: string com a localização a ser geocodificada
+
+    Retorna:
+    - GeoDataFrame com a geometria da localização
+    """
+    parts = query.split(":")
+    is_osmid = False
+    if len(parts) == 2 and parts[0].strip() == "osmid":
+        is_osmid = True
+        query = parts[1].strip()
+    try:
+        gdf = ox.geocode_to_gdf(query, by_osmid=is_osmid)
+    except TypeError as e:
+        raise ValueError(f"Erro ao geocodificar a consulta: {query}") from e
+    if gdf.empty:
+        raise ValueError(f"Não foi possível encontrar a localização: {query}")
+    return gdf
+
+
 def obtem_dados(regiao: str, pasta: Path, tags: tuple[str] = ("building",)) -> Geodata:
-    """Obtém dados geográficos para uma região específica."""
+    """Obtém dados geográficos de uma região usando OSMnx."""
     if (data_path := pasta / data_filename).is_file():
         with open(data_path, "rb") as f:
             geodata = pickle.load(f)  # noQA: S301
     else:
         payload = dict.fromkeys(tags, True)
-        limites = ox.geocode_to_gdf(regiao)
+        limites = geocode_to_gdf(regiao)
         bbox_limites = _expandir_bbox(limites.total_bounds, percentual=20)
         graph = ox.graph_from_bbox(bbox_limites)
         gdf_nodes, gdf_edges = ox.graph_to_gdfs(

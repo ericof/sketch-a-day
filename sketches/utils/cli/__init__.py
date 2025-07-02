@@ -5,6 +5,8 @@ from .site import post_to_site
 from sketches.utils.helpers.dates import process_day
 from sketches.utils.helpers.sketches import sketch_for_day
 from sketches.utils.helpers.sketches import sketch_info_for_day
+from sketches.utils.mapas import _expandir_bbox
+from sketches.utils.mapas import geocode_to_gdf
 from typing import Annotated
 
 import typer
@@ -76,3 +78,29 @@ def run_all(day: Annotated[str, typer.Argument(help=DAY_HELP)]):
     typer.echo(f"Publish sketch for day {day} to ericof.com")
     url = post_to_site(sketch, commit_hash=commit_info.hexsha)
     typer.echo(f"Sketch for day {day} published on {url}")
+
+
+@app.command(name="geocode")
+def geocode(
+    query: Annotated[
+        str,
+        typer.Argument(
+            help="The query to geocode, e.g., 'Asa Norte, Brasília, DF, Brasil'"
+        ),
+    ],
+    expand: Annotated[
+        float, typer.Option(help="How much should we expand the bounds")
+    ] = 0.0,
+):
+    """Test a geocode query."""
+    try:
+        gdf = geocode_to_gdf(query)
+    except ValueError as e:
+        typer.echo(f"Could not find location: {query}")
+        raise typer.Exit(code=1) from e
+    bbox = gdf.total_bounds
+    if expand > 0.0:
+        bbox = _expandir_bbox(bbox, percentual=expand)
+    typer.echo(f"Geocoded {query} to bounds:")
+    typer.echo(f" - ({bbox[0]:.6f}, {bbox[3]:.6f})")
+    typer.echo(f" - ({bbox[2]:.6f}, {bbox[1]:.6f})")
