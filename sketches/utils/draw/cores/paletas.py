@@ -325,6 +325,24 @@ PALETAS = {
         py5.RGB,
         "Paleta com tonalidades de azul",
     ),
+    "pycon-colombia-2025": Paleta(
+        "pycon-colombia-2025",
+        [
+            "#FFA1D1",  # Pale Magenta
+            "#FF8AC6",  # Light Hot Pink
+            "#F773B8",  # Tinted Base
+            "#F65CAD",  # Slightly lighter than base
+            "#F445A2",  # Close to base
+            "#F137A6",  # Base Color
+            "#DB3296",  # Slightly darker
+            "#C52D87",  # Rich Magenta
+            "#AF2977",  # Plum-like shade
+            "#9A2468",  # Deep Magenta
+            "#851F58",  # Darker Mauve
+        ],
+        py5.RGB,
+        "Paleta de cores para a PyCon Colombia 2025",
+    ),
 }
 
 
