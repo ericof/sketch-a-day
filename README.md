@@ -24,6 +24,7 @@ You can follow this project also on:
 | [2025-07-01](./sketches/daily/d2025_07_01) | Mapas: Exílio 01 | [./sketches/daily/d2025_07_01/__main__.py](./sketches/daily/d2025_07_01/__main__.py) | ![2025-07-01](./sketches/daily/d2025_07_01/2025-07-01.png) |
 | [2025-07-02](./sketches/daily/d2025_07_02) | Mapas: Bela Vista | [./sketches/daily/d2025_07_02/__main__.py](./sketches/daily/d2025_07_02/__main__.py) | ![2025-07-02](./sketches/daily/d2025_07_02/2025-07-02.png) |
 | [2025-07-03](./sketches/daily/d2025_07_03) | Mapas: PyCon Colombia 2025 | [./sketches/daily/d2025_07_03/__main__.py](./sketches/daily/d2025_07_03/__main__.py) | ![2025-07-03](./sketches/daily/d2025_07_03/2025-07-03.png) |
+| [2025-07-04](./sketches/daily/d2025_07_04) | Mapas: PyCon Colombia 2025 | [./sketches/daily/d2025_07_04/__main__.py](./sketches/daily/d2025_07_04/__main__.py) | ![2025-07-04](./sketches/daily/d2025_07_04/2025-07-04.png) |
 <!-- Next Item -->
 
 ### 2024
