@@ -95,7 +95,9 @@ def geocode_to_gdf(query: str) -> GeoDataFrame:
     return gdf
 
 
-def obtem_dados(regiao: str, pasta: Path, tags: tuple[str] = ("building",)) -> Geodata:
+def obtem_dados(
+    regiao: str, pasta: Path, tags: tuple[str] = ("building",), percentual: float = 20
+) -> Geodata:
     """Obtém dados geográficos de uma região usando OSMnx."""
     if (data_path := pasta / data_filename).is_file():
         with open(data_path, "rb") as f:
@@ -103,7 +105,7 @@ def obtem_dados(regiao: str, pasta: Path, tags: tuple[str] = ("building",)) -> G
     else:
         payload = dict.fromkeys(tags, True)
         limites = geocode_to_gdf(regiao)
-        bbox_limites = _expandir_bbox(limites.total_bounds, percentual=20)
+        bbox_limites = _expandir_bbox(limites.total_bounds, percentual=percentual)
         graph = ox.graph_from_bbox(bbox_limites)
         gdf_nodes, gdf_edges = ox.graph_to_gdfs(
             graph, nodes=True, edges=True, node_geometry=True, fill_edge_geometry=False
