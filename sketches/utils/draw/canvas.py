@@ -23,6 +23,9 @@ STYLES: dict[str, TextBoxStyle] = {
     "light": TextBoxStyle(color="#000", background_color="#FFF", stroke="#000"),
     "transparent": TextBoxStyle(color="#000", background_color=None, stroke=None),
     "transparent_white": TextBoxStyle(color="#FFF", background_color=None, stroke=None),
+    "large_transparent_white": TextBoxStyle(
+        color="#FFF", background_color=None, stroke=None, font_size=24
+    ),
 }
 
 
