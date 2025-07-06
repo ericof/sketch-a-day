@@ -26,6 +26,7 @@ You can follow this project also on:
 | [2025-07-03](./sketches/daily/d2025_07_03) | Mapas: PyCon Colombia 2025 | [./sketches/daily/d2025_07_03/__main__.py](./sketches/daily/d2025_07_03/__main__.py) | ![2025-07-03](./sketches/daily/d2025_07_03/2025-07-03.png) |
 | [2025-07-04](./sketches/daily/d2025_07_04) | Mapas: PyCon Colombia 2025 | [./sketches/daily/d2025_07_04/__main__.py](./sketches/daily/d2025_07_04/__main__.py) | ![2025-07-04](./sketches/daily/d2025_07_04/2025-07-04.png) |
 | [2025-07-05](./sketches/daily/d2025_07_05) | Mapas: PyCon Colombia 2025 II | [./sketches/daily/d2025_07_05/__main__.py](./sketches/daily/d2025_07_05/__main__.py) | ![2025-07-05](./sketches/daily/d2025_07_05/2025-07-05.png) |
+| [2025-07-06](./sketches/daily/d2025_07_06) | Mapas: Comuna 13, Medellín | [./sketches/daily/d2025_07_06/__main__.py](./sketches/daily/d2025_07_06/__main__.py) | ![2025-07-06](./sketches/daily/d2025_07_06/2025-07-06.png) |
 <!-- Next Item -->
 
 ### 2024
