@@ -1,6 +1,7 @@
 {
   "ruff.organizeImports": true,
   "python.terminal.activateEnvironment": true,
+  "flake8.enabled": false,
   "[python]": {
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
