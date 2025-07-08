@@ -42,6 +42,16 @@ class GeodataEscalado:
     camadas: list[Camada]
 
 
+@dataclass
+class EstiloElemento:
+    """Estilos para um elemento."""
+
+    exibir: bool = True
+    stroke: int | None = py5.color("#FFF")
+    stroke_weight: float = 1.0
+    fill: int | None = None
+
+
 def _expandir_bbox(
     bbox: np.ndarray | tuple[float, float, float, float], percentual: float = 10.0
 ) -> tuple[float, float, float, float]:
@@ -203,40 +213,57 @@ def escala_dados(
 
 
 def processa_elementos(
-    paleta: deque[py5.Py5Color],
+    paleta: deque[py5.Py5Color] | None = None,
     area_min: float = 5.0,
-    stroke: py5.Py5Color | None = None,
+    stroke: int | None = None,
     stroke_weight: int = 0,
+    estilos: dict[str, EstiloElemento] | None = None,
 ) -> Callable:
     """Processa a camada de elementos para desenhar o mapa."""
+    estilo_base = EstiloElemento(True, stroke, stroke_weight, fill=None)
+    estilos = estilos if estilos else {}
+    if "default" not in estilos:
+        estilos["default"] = estilo_base
 
     def func(gdf: GeoDataFrame) -> list[py5.Py5Shape]:
         camadas = []
-        for g, _ in zip(gdf.geometry, gdf.amenity, strict=True):
+        for g, amenity in zip(gdf.geometry, gdf.amenity, strict=True):
+            traco_cor = stroke
+            traco_largura = stroke_weight
             # Ignora geometrias sem indicação de uso
             if g.area < area_min:
                 continue
-            cor = py5.color(paleta[0])
-            paleta.rotate()
+            estilo = estilos.get(str(amenity), estilos["default"])
+            if paleta:
+                cor = py5.color(paleta[0])
+                paleta.rotate()
+            else:
+                cor = estilo.fill
+                traco_cor = estilo.stroke
+                traco_largura = estilo.stroke_weight
             elemento = py5.convert_shape(g)
-            if stroke is not None:
-                elemento.set_stroke(stroke)
-                elemento.set_stroke_weight(stroke_weight)
+            if traco_cor is not None:
+                elemento.set_stroke(traco_cor)
+                elemento.set_stroke_weight(traco_largura)
             else:
                 elemento.set_stroke_weight(0)
-            elemento.set_fill(cor)
+            if cor is not None:
+                elemento.set_fill(cor)
+            else:
+                elemento.set_fill(False)
             camadas.append(elemento)
         return camadas
 
     return func
 
 
-def processa_caminhos(stroke: py5.Py5Color, stroke_weight: int = 1) -> Callable:
+def processa_caminhos(stroke: int, stroke_weight: int = 1) -> Callable:
     """Processa a camada de caminhos para desenhar as rotas de um mapa."""
 
     def func(gdf: GeoDataFrame) -> list[py5.Py5Shape]:
         caminhos = dataframe_para_shape(gdf)
-        caminhos.set_stroke(py5.color(255))
+        caminhos.set_stroke(stroke)
+        caminhos.stroke_weight(stroke_weight)
         return [
             caminhos,
         ]
