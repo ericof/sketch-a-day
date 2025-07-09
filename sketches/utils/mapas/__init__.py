@@ -1,3 +1,4 @@
+from .estilos import EstiloElemento
 from collections import deque
 from collections.abc import Callable
 from dataclasses import dataclass
@@ -5,6 +6,7 @@ from geopandas.geodataframe import GeoDataFrame
 from networkx import MultiDiGraph
 from pathlib import Path
 from shapely.affinity import affine_transform
+from typing import Any
 
 import numpy as np
 import osmnx as ox
@@ -40,16 +42,6 @@ class GeodataEscalado:
     _raw: Geodata
     bbox: tuple[float, float, float, float]
     camadas: list[Camada]
-
-
-@dataclass
-class EstiloElemento:
-    """Estilos para um elemento."""
-
-    exibir: bool = True
-    stroke: int | None = py5.color("#FFF")
-    stroke_weight: float = 1.0
-    fill: int | None = None
 
 
 def _expandir_bbox(
@@ -106,7 +98,10 @@ def geocode_to_gdf(query: str) -> GeoDataFrame:
 
 
 def obtem_dados(
-    regiao: str, pasta: Path, tags: tuple[str] = ("building",), percentual: float = 20
+    regiao: str,
+    pasta: Path,
+    tags: tuple[str] | dict[str, Any] = ("building",),
+    percentual: float = 20,
 ) -> Geodata:
     """Obtém dados geográficos de uma região usando OSMnx."""
     if (data_path := pasta / data_filename).is_file():
@@ -227,13 +222,20 @@ def processa_elementos(
 
     def func(gdf: GeoDataFrame) -> list[py5.Py5Shape]:
         camadas = []
-        for g, amenity in zip(gdf.geometry, gdf.amenity, strict=True):
+        for g, amenity, natural in zip(
+            gdf.geometry, gdf.amenity, gdf.natural, strict=True
+        ):
             traco_cor = stroke
             traco_largura = stroke_weight
             # Ignora geometrias sem indicação de uso
             if g.area < area_min:
                 continue
-            estilo = estilos.get(str(amenity), estilos["default"])
+            category = "default"
+            if str(amenity) != "nan":
+                category = str(amenity)
+            elif str(natural) != "nan":
+                category = str(natural)
+            estilo = estilos.get(category, estilos["default"])
             if paleta:
                 cor = py5.color(paleta[0])
                 paleta.rotate()
