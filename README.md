@@ -29,6 +29,7 @@ You can follow this project also on:
 | [2025-07-06](./sketches/daily/d2025_07_06) | Mapas: Comuna 13, Medellín | [./sketches/daily/d2025_07_06/__main__.py](./sketches/daily/d2025_07_06/__main__.py) | ![2025-07-06](./sketches/daily/d2025_07_06/2025-07-06.png) |
 | [2025-07-07](./sketches/daily/d2025_07_07) | Mapas: Miraflores, Lima, Peru | [./sketches/daily/d2025_07_07/__main__.py](./sketches/daily/d2025_07_07/__main__.py) | ![2025-07-07](./sketches/daily/d2025_07_07/2025-07-07.png) |
 | [2025-07-08](./sketches/daily/d2025_07_08) | Mapas: Cusco, Peru | [./sketches/daily/d2025_07_08/__main__.py](./sketches/daily/d2025_07_08/__main__.py) | ![2025-07-08](./sketches/daily/d2025_07_08/2025-07-08.png) |
+| [2025-07-09](./sketches/daily/d2025_07_09) | Mapas: Machu Picchu, Peru | [./sketches/daily/d2025_07_09/__main__.py](./sketches/daily/d2025_07_09/__main__.py) | ![2025-07-09](./sketches/daily/d2025_07_09/2025-07-09.png) |
 <!-- Next Item -->
 
 ### 2024
