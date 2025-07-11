@@ -1,9 +1,11 @@
+from .estilos import EstiloCaminho
 from .estilos import EstiloElemento
 from collections import deque
 from collections.abc import Callable
 from dataclasses import dataclass
 from geopandas.geodataframe import GeoDataFrame
 from networkx import MultiDiGraph
+from pandas import Series
 from pathlib import Path
 from shapely.affinity import affine_transform
 from typing import Any
@@ -207,6 +209,21 @@ def escala_dados(
     )
 
 
+def _categoriza_elemento(
+    item: Series,
+) -> tuple[str, str]:
+    """Classifica um elemento de acordo com suas tags."""
+    tags = ["amenity", "natural", "leisure", "building"]
+    for tag in tags:
+        if tag in item and str(item[tag]) != "nan":
+            value = str(item[tag])
+            if value in ["yes", "true", "common"]:
+                value = tag
+            return tag, value
+    # Se nenhuma tag conhecida for encontrada, retorna "default"
+    return "default", "default"
+
+
 def processa_elementos(
     paleta: deque[py5.Py5Color] | None = None,
     area_min: float = 5.0,
@@ -215,27 +232,22 @@ def processa_elementos(
     estilos: dict[str, EstiloElemento] | None = None,
 ) -> Callable:
     """Processa a camada de elementos para desenhar o mapa."""
-    estilo_base = EstiloElemento(True, stroke, stroke_weight, fill=None)
+    estilo_base = EstiloElemento(True, stroke, stroke_weight, None)
     estilos = estilos if estilos else {}
     if "default" not in estilos:
         estilos["default"] = estilo_base
 
     def func(gdf: GeoDataFrame) -> list[py5.Py5Shape]:
         camadas = []
-        for g, amenity, natural in zip(
-            gdf.geometry, gdf.amenity, gdf.natural, strict=True
-        ):
+        for _, item in gdf.iterrows():
+            g = item.geometry
             traco_cor = stroke
             traco_largura = stroke_weight
             # Ignora geometrias sem indicação de uso
             if g.area < area_min:
                 continue
-            category = "default"
-            if str(amenity) != "nan":
-                category = str(amenity)
-            elif str(natural) != "nan":
-                category = str(natural)
-            estilo = estilos.get(category, estilos["default"])
+            grupo, categoria = _categoriza_elemento(item)
+            estilo = estilos.get(categoria, estilos["default"])
             if paleta:
                 cor = py5.color(paleta[0])
                 paleta.rotate()
@@ -255,6 +267,58 @@ def processa_elementos(
                 elemento.set_fill(False)
             camadas.append(elemento)
         return camadas
+
+    return func
+
+
+def _categoriza_caminho(
+    item: Series,
+) -> tuple[str, str]:
+    """Classifica um elemento de acordo com suas tags."""
+    tags = ["highway", "footway", "service"]
+    for tag in tags:
+        if tag in item and str(item[tag]) != "nan":
+            value = str(item[tag])
+            if value in ["yes", "true", "common"]:
+                value = tag
+            return tag, value
+    # Se nenhuma tag conhecida for encontrada, retorna "default"
+    return "default", "default"
+
+
+def processa_caminhos_estilos(
+    estilos: dict[str, EstiloCaminho] | None = None,
+) -> Callable:
+    """Processa a camada de caminhos para desenhar as rotas de um mapa."""
+    estilos = estilos if estilos else {}
+
+    def func(gdf: GeoDataFrame) -> list[py5.Py5Shape]:
+        caminhos = []
+        for _, item in gdf.iterrows():
+            g = item.geometry
+            if g is None or g.is_empty:
+                continue
+            elemento = py5.convert_shape(g)
+            grupo, categoria = _categoriza_caminho(item)
+            estilo = estilos.get(categoria, estilos["default"])
+            cor = estilo.fill
+            traco_cor = estilo.stroke
+            traco_largura = estilo.stroke_weight
+            elemento = py5.convert_shape(g)
+            if traco_cor is not None:
+                elemento.set_stroke(traco_cor)
+                elemento.set_stroke_weight(traco_largura)
+            else:
+                elemento.set_stroke_weight(0)
+            if cor is not None:
+                elemento.set_fill(cor)
+            else:
+                elemento.set_fill(False)
+            if str(item["name"]) != "nan":
+                # Se o nome do caminho não for nulo, define o nome do elemento
+                elemento.set_name(item["name"])
+            caminhos.append(elemento)
+        return caminhos
 
     return func
 
