@@ -98,6 +98,8 @@ def sketch_frame(
 ):
     """Draw the sketch frame with date and credits."""
     with py5.push():
+        py5.rect_mode(py5.CORNER)
+        py5.shape_mode(py5.CORNER)
         py5.translate(0, 0, z)
         with py5.push():
             py5.rect_mode(py5.CORNER)
