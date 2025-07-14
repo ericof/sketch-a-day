@@ -33,6 +33,7 @@ You can follow this project also on:
 | [2025-07-10](./sketches/daily/d2025_07_10) | Mapas: Convento San Francisco, Cusco, Peru | [./sketches/daily/d2025_07_10/__main__.py](./sketches/daily/d2025_07_10/__main__.py) | ![2025-07-10](./sketches/daily/d2025_07_10/2025-07-10.png) |
 | [2025-07-11](./sketches/daily/d2025_07_11) | Hexágonos e gradientes | [./sketches/daily/d2025_07_11/__main__.py](./sketches/daily/d2025_07_11/__main__.py) | ![2025-07-11](./sketches/daily/d2025_07_11/2025-07-11.png) |
 | [2025-07-12](./sketches/daily/d2025_07_12) | Hexágonos e gradientes II | [./sketches/daily/d2025_07_12/__main__.py](./sketches/daily/d2025_07_12/__main__.py) | ![2025-07-12](./sketches/daily/d2025_07_12/2025-07-12.png) |
+| [2025-07-13](./sketches/daily/d2025_07_13) | Polígonos e gradientes III | [./sketches/daily/d2025_07_13/__main__.py](./sketches/daily/d2025_07_13/__main__.py) | ![2025-07-13](./sketches/daily/d2025_07_13/2025-07-13.png) |
 <!-- Next Item -->
 
 ### 2024
