@@ -35,6 +35,7 @@ You can follow this project also on:
 | [2025-07-12](./sketches/daily/d2025_07_12) | Hexágonos e gradientes II | [./sketches/daily/d2025_07_12/__main__.py](./sketches/daily/d2025_07_12/__main__.py) | ![2025-07-12](./sketches/daily/d2025_07_12/2025-07-12.png) |
 | [2025-07-13](./sketches/daily/d2025_07_13) | Polígonos e gradientes III | [./sketches/daily/d2025_07_13/__main__.py](./sketches/daily/d2025_07_13/__main__.py) | ![2025-07-13](./sketches/daily/d2025_07_13/2025-07-13.png) |
 | [2025-07-14](./sketches/daily/d2025_07_14) | Polígonos e gradientes IV | [./sketches/daily/d2025_07_14/__main__.py](./sketches/daily/d2025_07_14/__main__.py) | ![2025-07-14](./sketches/daily/d2025_07_14/2025-07-14.png) |
+| [2025-07-15](./sketches/daily/d2025_07_15) | Polígonos e gradientes V | [./sketches/daily/d2025_07_15/__main__.py](./sketches/daily/d2025_07_15/__main__.py) | ![2025-07-15](./sketches/daily/d2025_07_15/2025-07-15.png) |
 <!-- Next Item -->
 
 ### 2024
