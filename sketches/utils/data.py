@@ -20,6 +20,14 @@ class SketchSize:
         y = (self.external[1] - y) // 2
         return x, y
 
+    @property
+    def centro(self) -> tuple[int, int]:
+        """Ponto central do sketch."""
+        x, y = self.external
+        x //= 2
+        y //= 2
+        return x, y
+
 
 @dataclass
 class SketchInfo:
