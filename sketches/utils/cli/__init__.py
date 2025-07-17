@@ -48,7 +48,7 @@ def commit(day: Annotated[str, typer.Argument(help=DAY_HELP)]):
     info = sketch_info_for_day(day)
     typer.echo(f"Commit changes for day {day}")
     commit = commit_changes(info)
-    typer.echo(f"Changes committed with SHA: {commit}")
+    typer.echo(f"Changes committed with SHA: {commit.hexsha}")
 
 
 @app.command(name="publish")
@@ -73,7 +73,7 @@ def run_all(day: Annotated[str, typer.Argument(help=DAY_HELP)]):
     update_readme(info)
     typer.echo(f"Commit changes for day {day}")
     commit_info = commit_changes(info)
-    typer.echo(f"Changes committed with SHA: {commit}")
+    typer.echo(f"Changes committed with SHA: {commit.hexsha}")
     sketch = sketch_for_day(day, commit=commit_info)
     typer.echo(f"Publish sketch for day {day} to ericof.com")
     url = post_to_site(sketch, commit_hash=commit_info.hexsha)
