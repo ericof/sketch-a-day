@@ -28,6 +28,27 @@ class SketchSize:
         y //= 2
         return x, y
 
+    @property
+    def vertices_interno(
+        self,
+    ) -> tuple[
+        tuple[int, int],
+        tuple[int, int],
+        tuple[int, int],
+        tuple[int, int],
+    ]:
+        """Vértices da área interna."""
+        x, y = self.internal
+        x = (self.external[0] - x) // 2
+        y = (self.external[1] - y) // 2
+        vertices = (
+            (x, y),
+            (x + self.internal[0], y),
+            (x + self.internal[0], y + self.internal[1]),
+            (x, y + self.internal[1]),
+        )
+        return vertices
+
 
 @dataclass
 class SketchInfo:
