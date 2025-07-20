@@ -40,6 +40,7 @@ You can follow this project also on:
 | [2025-07-17](./sketches/daily/d2025_07_17) | Polígonos e gradientes VII | [./sketches/daily/d2025_07_17/__main__.py](./sketches/daily/d2025_07_17/__main__.py) | ![2025-07-17](./sketches/daily/d2025_07_17/2025-07-17.png) |
 | [2025-07-18](./sketches/daily/d2025_07_18) | Polígonos e gradientes IX | [./sketches/daily/d2025_07_18/__main__.py](./sketches/daily/d2025_07_18/__main__.py) | ![2025-07-18](./sketches/daily/d2025_07_18/2025-07-18.png) |
 | [2025-07-19](./sketches/daily/d2025_07_19) | Polígonos e gradientes X | [./sketches/daily/d2025_07_19/__main__.py](./sketches/daily/d2025_07_19/__main__.py) | ![2025-07-19](./sketches/daily/d2025_07_19/2025-07-19.png) |
+| [2025-07-20](./sketches/daily/d2025_07_20) | Polígonos e gradientes XI | [./sketches/daily/d2025_07_20/__main__.py](./sketches/daily/d2025_07_20/__main__.py) | ![2025-07-20](./sketches/daily/d2025_07_20/2025-07-20.png) |
 <!-- Next Item -->
 
 ### 2024
