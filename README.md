@@ -45,6 +45,7 @@ You can follow this project also on:
 | [2025-07-22](./sketches/daily/d2025_07_22) | Polígonos e gradientes XIII | [./sketches/daily/d2025_07_22/__main__.py](./sketches/daily/d2025_07_22/__main__.py) | ![2025-07-22](./sketches/daily/d2025_07_22/2025-07-22.png) |
 | [2025-07-23](./sketches/daily/d2025_07_23) | Polígonos e gradientes XIV | [./sketches/daily/d2025_07_23/__main__.py](./sketches/daily/d2025_07_23/__main__.py) | ![2025-07-23](./sketches/daily/d2025_07_23/2025-07-23.png) |
 | [2025-07-24](./sketches/daily/d2025_07_24) | Polígonos e gradientes XV | [./sketches/daily/d2025_07_24/__main__.py](./sketches/daily/d2025_07_24/__main__.py) | ![2025-07-24](./sketches/daily/d2025_07_24/2025-07-24.png) |
+| [2025-07-25](./sketches/daily/d2025_07_25) | Circularis strepitus I | [./sketches/daily/d2025_07_25/__main__.py](./sketches/daily/d2025_07_25/__main__.py) | ![2025-07-25](./sketches/daily/d2025_07_25/2025-07-25.png) |
 <!-- Next Item -->
 
 ### 2024
