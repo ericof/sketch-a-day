@@ -52,6 +52,7 @@ You can follow this project also on:
 | [2025-07-29](./sketches/daily/d2025_07_29) | Circularis strepitus V | [./sketches/daily/d2025_07_29/__main__.py](./sketches/daily/d2025_07_29/__main__.py) | ![2025-07-29](./sketches/daily/d2025_07_29/2025-07-29.png) |
 | [2025-07-30](./sketches/daily/d2025_07_30) | Circularis strepitus VI | [./sketches/daily/d2025_07_30/__main__.py](./sketches/daily/d2025_07_30/__main__.py) | ![2025-07-30](./sketches/daily/d2025_07_30/2025-07-30.png) |
 | [2025-07-31](./sketches/daily/d2025_07_31) | Circularis strepitus VII | [./sketches/daily/d2025_07_31/__main__.py](./sketches/daily/d2025_07_31/__main__.py) | ![2025-07-31](./sketches/daily/d2025_07_31/2025-07-31.png) |
+| [2025-08-01](./sketches/daily/d2025_08_01) | Colorido geométrico I | [./sketches/daily/d2025_08_01/__main__.py](./sketches/daily/d2025_08_01/__main__.py) | ![2025-08-01](./sketches/daily/d2025_08_01/2025-08-01.png) |
 <!-- Next Item -->
 
 ### 2024
