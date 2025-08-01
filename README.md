@@ -51,6 +51,7 @@ You can follow this project also on:
 | [2025-07-28](./sketches/daily/d2025_07_28) | Circularis strepitus IV | [./sketches/daily/d2025_07_28/__main__.py](./sketches/daily/d2025_07_28/__main__.py) | ![2025-07-28](./sketches/daily/d2025_07_28/2025-07-28.png) |
 | [2025-07-29](./sketches/daily/d2025_07_29) | Circularis strepitus V | [./sketches/daily/d2025_07_29/__main__.py](./sketches/daily/d2025_07_29/__main__.py) | ![2025-07-29](./sketches/daily/d2025_07_29/2025-07-29.png) |
 | [2025-07-30](./sketches/daily/d2025_07_30) | Circularis strepitus VI | [./sketches/daily/d2025_07_30/__main__.py](./sketches/daily/d2025_07_30/__main__.py) | ![2025-07-30](./sketches/daily/d2025_07_30/2025-07-30.png) |
+| [2025-07-31](./sketches/daily/d2025_07_31) | Circularis strepitus VII | [./sketches/daily/d2025_07_31/__main__.py](./sketches/daily/d2025_07_31/__main__.py) | ![2025-07-31](./sketches/daily/d2025_07_31/2025-07-31.png) |
 <!-- Next Item -->
 
 ### 2024
