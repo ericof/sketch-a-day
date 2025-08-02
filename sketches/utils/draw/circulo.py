@@ -21,7 +21,7 @@ def pontos_circulo_3d(
     x0: float = 0.0,
     y0: float = 0.0,
     z0: float = 0.0,
-    normal: tuple[int] = (0, 0, 1),
+    normal: tuple[int, int, int] = (0, 0, 1),
 ) -> list[tuple[int, int, int]]:
     pontos = []
 
