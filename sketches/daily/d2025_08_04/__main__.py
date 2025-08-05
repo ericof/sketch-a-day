@@ -1,6 +1,6 @@
 """2025-08-04
 Colorido geométrico III
-Pentagonos distribuídos em uma grade, com cores baseadas em senoides e cossenoides.
+Hexágonos distribuídos em uma grade, com cores baseadas em senoides e cossenoides.
 ericof.com
 png
 Sketch,py5,CreativeCoding
