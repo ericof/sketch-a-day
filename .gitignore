@@ -157,6 +157,4 @@ cython_debug/
 cache
 **/osmnx.data*
 # Playground Files
-playground/*.py
-playground/*.csv
-playground/*.json
+playground/*
