@@ -64,6 +64,7 @@ You can follow this project also on:
 | [2025-08-10](./sketches/daily/d2025_08_10) | Colorido geométrico IX | [./sketches/daily/d2025_08_10/__main__.py](./sketches/daily/d2025_08_10/__main__.py) | ![2025-08-10](./sketches/daily/d2025_08_10/2025-08-10.png) |
 | [2025-08-11](./sketches/daily/d2025_08_11) | Colorido geométrico X | [./sketches/daily/d2025_08_11/__main__.py](./sketches/daily/d2025_08_11/__main__.py) | ![2025-08-11](./sketches/daily/d2025_08_11/2025-08-11.png) |
 | [2025-08-12](./sketches/daily/d2025_08_12) | Colorido geométrico XI | [./sketches/daily/d2025_08_12/__main__.py](./sketches/daily/d2025_08_12/__main__.py) | ![2025-08-12](./sketches/daily/d2025_08_12/2025-08-12.png) |
+| [2025-08-13](./sketches/daily/d2025_08_13) | Colorido geométrico XII | [./sketches/daily/d2025_08_13/__main__.py](./sketches/daily/d2025_08_13/__main__.py) | ![2025-08-13](./sketches/daily/d2025_08_13/2025-08-13.png) |
 <!-- Next Item -->
 
 ### 2024
