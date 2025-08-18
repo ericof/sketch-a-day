@@ -12,6 +12,7 @@ RESOURCES_FOLDER = ROOT_FOLDER / "_resources"
 
 __all__ = [
     "image_as_array",
+    "resource_image_as_array",
     "save_frame",
 ]
 
