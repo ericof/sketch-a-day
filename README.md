@@ -70,6 +70,7 @@ You can follow this project also on:
 | [2025-08-16](./sketches/daily/d2025_08_16) | All Good Things | [./sketches/daily/d2025_08_16/__main__.py](./sketches/daily/d2025_08_16/__main__.py) | ![2025-08-16](./sketches/daily/d2025_08_16/2025-08-16.png) |
 | [2025-08-17](./sketches/daily/d2025_08_17) | Lorem ipsum spiral | [./sketches/daily/d2025_08_17/__main__.py](./sketches/daily/d2025_08_17/__main__.py) | ![2025-08-17](./sketches/daily/d2025_08_17/2025-08-17.png) |
 | [2025-08-17](./sketches/daily/d2025_08_17) | Lorem ipsum spiral I | [./sketches/daily/d2025_08_17/__main__.py](./sketches/daily/d2025_08_17/__main__.py) | ![2025-08-17](./sketches/daily/d2025_08_17/2025-08-17.png) |
+| [2025-08-18](./sketches/daily/d2025_08_18) | Lorem ipsum spiral II | [./sketches/daily/d2025_08_18/__main__.py](./sketches/daily/d2025_08_18/__main__.py) | ![2025-08-18](./sketches/daily/d2025_08_18/2025-08-18.png) |
 <!-- Next Item -->
 
 ### 2024
