@@ -73,6 +73,7 @@ You can follow this project also on:
 | [2025-08-18](./sketches/daily/d2025_08_18) | Lorem ipsum spiral II | [./sketches/daily/d2025_08_18/__main__.py](./sketches/daily/d2025_08_18/__main__.py) | ![2025-08-18](./sketches/daily/d2025_08_18/2025-08-18.png) |
 | [2025-08-19](./sketches/daily/d2025_08_19) | Lorem ipsum spiral III | [./sketches/daily/d2025_08_19/__main__.py](./sketches/daily/d2025_08_19/__main__.py) | ![2025-08-19](./sketches/daily/d2025_08_19/2025-08-19.png) |
 | [2025-08-20](./sketches/daily/d2025_08_20) | Interferências 01 | [./sketches/daily/d2025_08_20/__main__.py](./sketches/daily/d2025_08_20/__main__.py) | ![2025-08-20](./sketches/daily/d2025_08_20/2025-08-20.png) |
+| [2025-08-21](./sketches/daily/d2025_08_21) | Interferências 02 | [./sketches/daily/d2025_08_21/__main__.py](./sketches/daily/d2025_08_21/__main__.py) | ![2025-08-21](./sketches/daily/d2025_08_21/2025-08-21.png) |
 <!-- Next Item -->
 
 ### 2024
