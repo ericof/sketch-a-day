@@ -75,6 +75,7 @@ You can follow this project also on:
 | [2025-08-20](./sketches/daily/d2025_08_20) | Interferências 01 | [./sketches/daily/d2025_08_20/__main__.py](./sketches/daily/d2025_08_20/__main__.py) | ![2025-08-20](./sketches/daily/d2025_08_20/2025-08-20.png) |
 | [2025-08-21](./sketches/daily/d2025_08_21) | Interferências 02 | [./sketches/daily/d2025_08_21/__main__.py](./sketches/daily/d2025_08_21/__main__.py) | ![2025-08-21](./sketches/daily/d2025_08_21/2025-08-21.png) |
 | [2025-08-22](./sketches/daily/d2025_08_22) | Interferências 03 | [./sketches/daily/d2025_08_22/__main__.py](./sketches/daily/d2025_08_22/__main__.py) | ![2025-08-22](./sketches/daily/d2025_08_22/2025-08-22.png) |
+| [2025-08-23](./sketches/daily/d2025_08_23) | Interferências 04 | [./sketches/daily/d2025_08_23/__main__.py](./sketches/daily/d2025_08_23/__main__.py) | ![2025-08-23](./sketches/daily/d2025_08_23/2025-08-23.png) |
 <!-- Next Item -->
 
 ### 2024
