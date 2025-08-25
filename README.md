@@ -77,6 +77,7 @@ You can follow this project also on:
 | [2025-08-22](./sketches/daily/d2025_08_22) | Interferências 03 | [./sketches/daily/d2025_08_22/__main__.py](./sketches/daily/d2025_08_22/__main__.py) | ![2025-08-22](./sketches/daily/d2025_08_22/2025-08-22.png) |
 | [2025-08-23](./sketches/daily/d2025_08_23) | Interferências 04 | [./sketches/daily/d2025_08_23/__main__.py](./sketches/daily/d2025_08_23/__main__.py) | ![2025-08-23](./sketches/daily/d2025_08_23/2025-08-23.png) |
 | [2025-08-24](./sketches/daily/d2025_08_24) | Gradientes poligonais 01 | [./sketches/daily/d2025_08_24/__main__.py](./sketches/daily/d2025_08_24/__main__.py) | ![2025-08-24](./sketches/daily/d2025_08_24/2025-08-24.png) |
+| [2025-08-25](./sketches/daily/d2025_08_25) | Gradientes poligonais 02 | [./sketches/daily/d2025_08_25/__main__.py](./sketches/daily/d2025_08_25/__main__.py) | ![2025-08-25](./sketches/daily/d2025_08_25/2025-08-25.png) |
 <!-- Next Item -->
 
 ### 2024
