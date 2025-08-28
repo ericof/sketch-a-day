@@ -80,6 +80,7 @@ You can follow this project also on:
 | [2025-08-25](./sketches/daily/d2025_08_25) | Gradientes poligonais 02 | [./sketches/daily/d2025_08_25/__main__.py](./sketches/daily/d2025_08_25/__main__.py) | ![2025-08-25](./sketches/daily/d2025_08_25/2025-08-25.png) |
 | [2025-08-26](./sketches/daily/d2025_08_26) | Gradientes poligonais 03 | [./sketches/daily/d2025_08_26/__main__.py](./sketches/daily/d2025_08_26/__main__.py) | ![2025-08-26](./sketches/daily/d2025_08_26/2025-08-26.png) |
 | [2025-08-27](./sketches/daily/d2025_08_27) | Gradientes poligonais 04 | [./sketches/daily/d2025_08_27/__main__.py](./sketches/daily/d2025_08_27/__main__.py) | ![2025-08-27](./sketches/daily/d2025_08_27/2025-08-27.png) |
+| [2025-08-28](./sketches/daily/d2025_08_28) | Gradientes poligonais 05 | [./sketches/daily/d2025_08_28/__main__.py](./sketches/daily/d2025_08_28/__main__.py) | ![2025-08-28](./sketches/daily/d2025_08_28/2025-08-28.png) |
 <!-- Next Item -->
 
 ### 2024
