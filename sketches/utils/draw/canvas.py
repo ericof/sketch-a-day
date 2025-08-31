@@ -26,6 +26,9 @@ STYLES: dict[str, TextBoxStyle] = {
     "large_transparent_white": TextBoxStyle(
         color="#FFF", background_color=None, stroke=None, font_size=24
     ),
+    "numero": TextBoxStyle(
+        color="#FFF", background_color=None, stroke=None, font_size=48
+    ),
 }
 
 
@@ -35,21 +38,25 @@ def draw_text_box(
     x: float = 0.0,
     y: float = 0.0,
     align: int = py5.CENTER,
+    font: str | None = None,
+    font_size: int | None = None,
 ):
     """Draw a text box with the given text and style."""
     style = STYLES.get(style_name, STYLES["default"])
+    font = font or style.font
+    font_size = font_size or style.font_size
     color = py5.color(style.color)
     bg_color = py5.color(style.background_color) if style.background_color else None
     stroke = py5.color(style.stroke) if style.stroke else None
     text_lines = text.split("\n")
     with py5.push_style():
         py5.rect_mode(py5.CENTER)
-        font = py5.create_font(style.font, style.font_size, True)
+        font = py5.create_font(font, font_size, True)
         py5.text_font(font)
-        py5.text_size(style.font_size)
+        py5.text_size(font_size)
 
         width = max(py5.text_width(text) * 1.3 for text in text_lines)
-        height = style.font_size * len(text_lines) * 1.2
+        height = font_size * len(text_lines) * 1.2
 
         # Frame
         if bg_color:
