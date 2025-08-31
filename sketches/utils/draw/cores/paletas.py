@@ -343,6 +343,22 @@ PALETAS = {
         py5.RGB,
         "Paleta de cores para a PyCon Colombia 2025",
     ),
+    "bright-colors": Paleta(
+        "bright-colors",
+        [
+            "#FF4C4C",  # Bright Red
+            "#00FFCC",  # Bright Turquoise
+            "#FF9900",  # Vivid Orange
+            "#3366FF",  # Bright Blue
+            "#FFD700",  # Bright Yellow
+            "#9933FF",  # Vivid Violet
+            "#00CC66",  # Bright Green
+            "#FF33CC",  # Neon Pink
+            "#00CFFF",  # Electric Cyan
+            "#FF66B2",  # Hot Pink
+        ],
+        py5.RGB,
+    ),
 }
 
 
