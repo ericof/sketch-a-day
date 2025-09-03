@@ -86,6 +86,7 @@ You can follow this project also on:
 | [2025-08-31](./sketches/daily/d2025_08_31) | Conexões em PI (01) | [./sketches/daily/d2025_08_31/__main__.py](./sketches/daily/d2025_08_31/__main__.py) | ![2025-08-31](./sketches/daily/d2025_08_31/2025-08-31.png) |
 | [2025-09-01](./sketches/daily/d2025_09_01) | Conexões em PI (02) | [./sketches/daily/d2025_09_01/__main__.py](./sketches/daily/d2025_09_01/__main__.py) | ![2025-09-01](./sketches/daily/d2025_09_01/2025-09-01.png) |
 | [2025-09-02](./sketches/daily/d2025_09_02) | Conexões em PI (03) | [./sketches/daily/d2025_09_02/__main__.py](./sketches/daily/d2025_09_02/__main__.py) | ![2025-09-02](./sketches/daily/d2025_09_02/2025-09-02.png) |
+| [2025-09-03](./sketches/daily/d2025_09_03) | Conexões em PI (04) -- 314 dígitos | [./sketches/daily/d2025_09_03/__main__.py](./sketches/daily/d2025_09_03/__main__.py) | ![2025-09-03](./sketches/daily/d2025_09_03/2025-09-03.png) |
 <!-- Next Item -->
 
 ### 2024
