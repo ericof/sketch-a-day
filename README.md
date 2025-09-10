@@ -93,6 +93,7 @@ You can follow this project also on:
 | [2025-09-07](./sketches/daily/d2025_09_07) | Conexões em PI (08) -- Hexadecimal | [./sketches/daily/d2025_09_07/__main__.py](./sketches/daily/d2025_09_07/__main__.py) | ![2025-09-07](./sketches/daily/d2025_09_07/2025-09-07.png) |
 | [2025-09-08](./sketches/daily/d2025_09_08) | Conexões em PI (09) -- Hexadecimal | [./sketches/daily/d2025_09_08/__main__.py](./sketches/daily/d2025_09_08/__main__.py) | ![2025-09-08](./sketches/daily/d2025_09_08/2025-09-08.png) |
 | [2025-09-09](./sketches/daily/d2025_09_09) | Conexões em e (01) | [./sketches/daily/d2025_09_09/__main__.py](./sketches/daily/d2025_09_09/__main__.py) | ![2025-09-09](./sketches/daily/d2025_09_09/2025-09-09.png) |
+| [2025-09-10](./sketches/daily/d2025_09_10) | Conexões em e (02) | [./sketches/daily/d2025_09_10/__main__.py](./sketches/daily/d2025_09_10/__main__.py) | ![2025-09-10](./sketches/daily/d2025_09_10/2025-09-10.png) |
 <!-- Next Item -->
 
 ### 2024
