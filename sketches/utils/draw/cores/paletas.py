@@ -359,6 +359,22 @@ PALETAS = {
         ],
         py5.RGB,
     ),
+    "pastel": Paleta(
+        "pastel",
+        [
+            "#B85858",  # Muted Red
+            "#C2854B",  # Earthy Orange
+            "#D1B85A",  # Soft Gold
+            "#7CA982",  # Dusty Green
+            "#6AA8A2",  # Faded Teal
+            "#5F84B4",  # Washed Blue
+            "#8476B9",  # Muted Violet
+            "#B06CA8",  # Dusty Purple-Pink
+            "#C78096",  # Rose Mauve
+            "#A9A88F",  # Olive Gray
+        ],
+        py5.RGB,
+    ),
 }
 
 
