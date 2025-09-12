@@ -96,6 +96,7 @@ You can follow this project also on:
 | [2025-09-10](./sketches/daily/d2025_09_10) | Conexões em e (02) | [./sketches/daily/d2025_09_10/__main__.py](./sketches/daily/d2025_09_10/__main__.py) | ![2025-09-10](./sketches/daily/d2025_09_10/2025-09-10.png) |
 | [2025-09-11](./sketches/daily/d2025_09_11) | Conexões em e (03) | [./sketches/daily/d2025_09_11/__main__.py](./sketches/daily/d2025_09_11/__main__.py) | ![2025-09-11](./sketches/daily/d2025_09_11/2025-09-11.png) |
 | [2025-09-12](./sketches/daily/d2025_09_12) | Conexões em e (04) | [./sketches/daily/d2025_09_12/__main__.py](./sketches/daily/d2025_09_12/__main__.py) | ![2025-09-12](./sketches/daily/d2025_09_12/2025-09-12.png) |
+| [2025-09-13](./sketches/daily/d2025_09_13) | Conexões em e (05) | [./sketches/daily/d2025_09_13/__main__.py](./sketches/daily/d2025_09_13/__main__.py) | ![2025-09-13](./sketches/daily/d2025_09_13/2025-09-13.png) |
 <!-- Next Item -->
 
 ### 2024
