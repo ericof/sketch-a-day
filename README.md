@@ -99,6 +99,7 @@ You can follow this project also on:
 | [2025-09-13](./sketches/daily/d2025_09_13) | Conexões em e (05) | [./sketches/daily/d2025_09_13/__main__.py](./sketches/daily/d2025_09_13/__main__.py) | ![2025-09-13](./sketches/daily/d2025_09_13/2025-09-13.png) |
 | [2025-09-14](./sketches/daily/d2025_09_14) | Concêntricos | [./sketches/daily/d2025_09_14/__main__.py](./sketches/daily/d2025_09_14/__main__.py) | ![2025-09-14](./sketches/daily/d2025_09_14/2025-09-14.png) |
 | [2025-09-15](./sketches/daily/d2025_09_15) | Concêntricos 02 | [./sketches/daily/d2025_09_15/__main__.py](./sketches/daily/d2025_09_15/__main__.py) | ![2025-09-15](./sketches/daily/d2025_09_15/2025-09-15.png) |
+| [2025-09-16](./sketches/daily/d2025_09_16) | Concêntricos 03 | [./sketches/daily/d2025_09_16/__main__.py](./sketches/daily/d2025_09_16/__main__.py) | ![2025-09-16](./sketches/daily/d2025_09_16/2025-09-16.png) |
 <!-- Next Item -->
 
 ### 2024
