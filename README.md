@@ -104,6 +104,7 @@ You can follow this project also on:
 | [2025-09-18](./sketches/daily/d2025_09_18) | Colorido geométrico redux II | [./sketches/daily/d2025_09_18/__main__.py](./sketches/daily/d2025_09_18/__main__.py) | ![2025-09-18](./sketches/daily/d2025_09_18/2025-09-18.png) |
 | [2025-09-19](./sketches/daily/d2025_09_19) | Colorido geométrico redux III | [./sketches/daily/d2025_09_19/__main__.py](./sketches/daily/d2025_09_19/__main__.py) | ![2025-09-19](./sketches/daily/d2025_09_19/2025-09-19.png) |
 | [2025-09-20](./sketches/daily/d2025_09_20) | Colorido geométrico redux IV | [./sketches/daily/d2025_09_20/__main__.py](./sketches/daily/d2025_09_20/__main__.py) | ![2025-09-20](./sketches/daily/d2025_09_20/2025-09-20.png) |
+| [2025-09-21](./sketches/daily/d2025_09_21) | Colorido geométrico redux V | [./sketches/daily/d2025_09_21/__main__.py](./sketches/daily/d2025_09_21/__main__.py) | ![2025-09-21](./sketches/daily/d2025_09_21/2025-09-21.png) |
 <!-- Next Item -->
 
 ### 2024
