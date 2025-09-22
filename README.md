@@ -105,6 +105,7 @@ You can follow this project also on:
 | [2025-09-19](./sketches/daily/d2025_09_19) | Colorido geométrico redux III | [./sketches/daily/d2025_09_19/__main__.py](./sketches/daily/d2025_09_19/__main__.py) | ![2025-09-19](./sketches/daily/d2025_09_19/2025-09-19.png) |
 | [2025-09-20](./sketches/daily/d2025_09_20) | Colorido geométrico redux IV | [./sketches/daily/d2025_09_20/__main__.py](./sketches/daily/d2025_09_20/__main__.py) | ![2025-09-20](./sketches/daily/d2025_09_20/2025-09-20.png) |
 | [2025-09-21](./sketches/daily/d2025_09_21) | Colorido geométrico redux V | [./sketches/daily/d2025_09_21/__main__.py](./sketches/daily/d2025_09_21/__main__.py) | ![2025-09-21](./sketches/daily/d2025_09_21/2025-09-21.png) |
+| [2025-09-22](./sketches/daily/d2025_09_22) | MSX Basic: Flor 01 | [./sketches/daily/d2025_09_22/__main__.py](./sketches/daily/d2025_09_22/__main__.py) | ![2025-09-22](./sketches/daily/d2025_09_22/2025-09-22.png) |
 <!-- Next Item -->
 
 ### 2024
