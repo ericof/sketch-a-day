@@ -110,6 +110,7 @@ You can follow this project also on:
 | [2025-09-24](./sketches/daily/d2025_09_24) | MSX Basic: Flor 03 | [./sketches/daily/d2025_09_24/__main__.py](./sketches/daily/d2025_09_24/__main__.py) | ![2025-09-24](./sketches/daily/d2025_09_24/2025-09-24.png) |
 | [2025-09-25](./sketches/daily/d2025_09_25) | MSX Basic: Flor 04 | [./sketches/daily/d2025_09_25/__main__.py](./sketches/daily/d2025_09_25/__main__.py) | ![2025-09-25](./sketches/daily/d2025_09_25/2025-09-25.png) |
 | [2025-09-26](./sketches/daily/d2025_09_26) | MSX Basic: Flor 05 | [./sketches/daily/d2025_09_26/__main__.py](./sketches/daily/d2025_09_26/__main__.py) | ![2025-09-26](./sketches/daily/d2025_09_26/2025-09-26.png) |
+| [2025-09-27](./sketches/daily/d2025_09_27) | MSX Basic: Flor Mutante 01 | [./sketches/daily/d2025_09_27/__main__.py](./sketches/daily/d2025_09_27/__main__.py) | ![2025-09-27](./sketches/daily/d2025_09_27/2025-09-27.png) |
 <!-- Next Item -->
 
 ### 2024
