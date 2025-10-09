@@ -122,6 +122,7 @@ You can follow this project also on:
 | [2025-10-06](./sketches/daily/d2025_10_06) | MSX Basic: Flor Mutante 10 | [./sketches/daily/d2025_10_06/__main__.py](./sketches/daily/d2025_10_06/__main__.py) | ![2025-10-06](./sketches/daily/d2025_10_06/2025-10-06.png) |
 | [2025-10-07](./sketches/daily/d2025_10_07) | MSX Basic: Flor Mutante 11 | [./sketches/daily/d2025_10_07/__main__.py](./sketches/daily/d2025_10_07/__main__.py) | ![2025-10-07](./sketches/daily/d2025_10_07/2025-10-07.png) |
 | [2025-10-08](./sketches/daily/d2025_10_08) | MSX Basic: Flor Mutante 12 | [./sketches/daily/d2025_10_08/__main__.py](./sketches/daily/d2025_10_08/__main__.py) | ![2025-10-08](./sketches/daily/d2025_10_08/2025-10-08.png) |
+| [2025-10-09](./sketches/daily/d2025_10_09) | MSX Basic: Padrões Axiais 01 | [./sketches/daily/d2025_10_09/__main__.py](./sketches/daily/d2025_10_09/__main__.py) | ![2025-10-09](./sketches/daily/d2025_10_09/2025-10-09.png) |
 <!-- Next Item -->
 
 ### 2024
