@@ -127,6 +127,7 @@ You can follow this project also on:
 | [2025-10-11](./sketches/daily/d2025_10_11) | MSX Basic: Padrões Axiais 03 | [./sketches/daily/d2025_10_11/__main__.py](./sketches/daily/d2025_10_11/__main__.py) | ![2025-10-11](./sketches/daily/d2025_10_11/2025-10-11.png) |
 | [2025-10-12](./sketches/daily/d2025_10_12) | MSX Basic: Padrões Axiais 04 | [./sketches/daily/d2025_10_12/__main__.py](./sketches/daily/d2025_10_12/__main__.py) | ![2025-10-12](./sketches/daily/d2025_10_12/2025-10-12.png) |
 | [2025-10-13](./sketches/daily/d2025_10_13) | MSX Basic: Padrões Axiais 05 | [./sketches/daily/d2025_10_13/__main__.py](./sketches/daily/d2025_10_13/__main__.py) | ![2025-10-13](./sketches/daily/d2025_10_13/2025-10-13.png) |
+| [2025-10-14](./sketches/daily/d2025_10_14) | MSX Basic: Código de Barras 01 | [./sketches/daily/d2025_10_14/__main__.py](./sketches/daily/d2025_10_14/__main__.py) | ![2025-10-14](./sketches/daily/d2025_10_14/2025-10-14.png) |
 <!-- Next Item -->
 
 ### 2024
