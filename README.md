@@ -137,6 +137,7 @@ You can follow this project also on:
 | [2025-10-21](./sketches/daily/d2025_10_21) | MSX Basic: Padrões Axiais 10 | [./sketches/daily/d2025_10_21/__main__.py](./sketches/daily/d2025_10_21/__main__.py) | ![2025-10-21](./sketches/daily/d2025_10_21/2025-10-21.png) |
 | [2025-10-22](./sketches/daily/d2025_10_22) | Circularis strepitus redux 01 | [./sketches/daily/d2025_10_22/__main__.py](./sketches/daily/d2025_10_22/__main__.py) | ![2025-10-22](./sketches/daily/d2025_10_22/2025-10-22.png) |
 | [2025-10-23](./sketches/daily/d2025_10_23) | Circularis strepitus redux 02 | [./sketches/daily/d2025_10_23/__main__.py](./sketches/daily/d2025_10_23/__main__.py) | ![2025-10-23](./sketches/daily/d2025_10_23/2025-10-23.png) |
+| [2025-10-24](./sketches/daily/d2025_10_24) | Circularis strepitus redux 03 | [./sketches/daily/d2025_10_24/__main__.py](./sketches/daily/d2025_10_24/__main__.py) | ![2025-10-24](./sketches/daily/d2025_10_24/2025-10-24.png) |
 <!-- Next Item -->
 
 ### 2024
