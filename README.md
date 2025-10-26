@@ -139,6 +139,7 @@ You can follow this project also on:
 | [2025-10-23](./sketches/daily/d2025_10_23) | Circularis strepitus redux 02 | [./sketches/daily/d2025_10_23/__main__.py](./sketches/daily/d2025_10_23/__main__.py) | ![2025-10-23](./sketches/daily/d2025_10_23/2025-10-23.png) |
 | [2025-10-24](./sketches/daily/d2025_10_24) | Circularis strepitus redux 03 | [./sketches/daily/d2025_10_24/__main__.py](./sketches/daily/d2025_10_24/__main__.py) | ![2025-10-24](./sketches/daily/d2025_10_24/2025-10-24.png) |
 | [2025-10-25](./sketches/daily/d2025_10_25) | Circularis strepitus redux 04 | [./sketches/daily/d2025_10_25/__main__.py](./sketches/daily/d2025_10_25/__main__.py) | ![2025-10-25](./sketches/daily/d2025_10_25/2025-10-25.png) |
+| [2025-10-26](./sketches/daily/d2025_10_26) | Circularis strepitus redux 05 | [./sketches/daily/d2025_10_26/__main__.py](./sketches/daily/d2025_10_26/__main__.py) | ![2025-10-26](./sketches/daily/d2025_10_26/2025-10-26.png) |
 <!-- Next Item -->
 
 ### 2024
