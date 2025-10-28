@@ -141,6 +141,7 @@ You can follow this project also on:
 | [2025-10-25](./sketches/daily/d2025_10_25) | Circularis strepitus redux 04 | [./sketches/daily/d2025_10_25/__main__.py](./sketches/daily/d2025_10_25/__main__.py) | ![2025-10-25](./sketches/daily/d2025_10_25/2025-10-25.png) |
 | [2025-10-26](./sketches/daily/d2025_10_26) | Circularis strepitus redux 05 | [./sketches/daily/d2025_10_26/__main__.py](./sketches/daily/d2025_10_26/__main__.py) | ![2025-10-26](./sketches/daily/d2025_10_26/2025-10-26.png) |
 | [2025-10-27](./sketches/daily/d2025_10_27) | Circularis strepitus redux 06 | [./sketches/daily/d2025_10_27/__main__.py](./sketches/daily/d2025_10_27/__main__.py) | ![2025-10-27](./sketches/daily/d2025_10_27/2025-10-27.png) |
+| [2025-10-28](./sketches/daily/d2025_10_28) | Polígonos Redux 01 | [./sketches/daily/d2025_10_28/__main__.py](./sketches/daily/d2025_10_28/__main__.py) | ![2025-10-28](./sketches/daily/d2025_10_28/2025-10-28.png) |
 <!-- Next Item -->
 
 ### 2024
