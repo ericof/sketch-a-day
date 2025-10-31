@@ -144,6 +144,7 @@ You can follow this project also on:
 | [2025-10-28](./sketches/daily/d2025_10_28) | Polígonos Redux 01 | [./sketches/daily/d2025_10_28/__main__.py](./sketches/daily/d2025_10_28/__main__.py) | ![2025-10-28](./sketches/daily/d2025_10_28/2025-10-28.png) |
 | [2025-10-29](./sketches/daily/d2025_10_29) | Polígonos Redux 02 | [./sketches/daily/d2025_10_29/__main__.py](./sketches/daily/d2025_10_29/__main__.py) | ![2025-10-29](./sketches/daily/d2025_10_29/2025-10-29.png) |
 | [2025-10-30](./sketches/daily/d2025_10_30) | Polígonos Redux 03 | [./sketches/daily/d2025_10_30/__main__.py](./sketches/daily/d2025_10_30/__main__.py) | ![2025-10-30](./sketches/daily/d2025_10_30/2025-10-30.png) |
+| [2025-10-31](./sketches/daily/d2025_10_31) | Polígonos Redux 04 | [./sketches/daily/d2025_10_31/__main__.py](./sketches/daily/d2025_10_31/__main__.py) | ![2025-10-31](./sketches/daily/d2025_10_31/2025-10-31.png) |
 <!-- Next Item -->
 
 ### 2024
