@@ -150,6 +150,7 @@ You can follow this project also on:
 | [2025-11-03](./sketches/daily/d2025_11_03) | Polígonos Redux 07 | [./sketches/daily/d2025_11_03/__main__.py](./sketches/daily/d2025_11_03/__main__.py) | ![2025-11-03](./sketches/daily/d2025_11_03/2025-11-03.png) |
 | [2025-11-04](./sketches/daily/d2025_11_04) | Polígonos Redux 08 | [./sketches/daily/d2025_11_04/__main__.py](./sketches/daily/d2025_11_04/__main__.py) | ![2025-11-04](./sketches/daily/d2025_11_04/2025-11-04.png) |
 | [2025-11-05](./sketches/daily/d2025_11_05) | Polígonos Redux 09 | [./sketches/daily/d2025_11_05/__main__.py](./sketches/daily/d2025_11_05/__main__.py) | ![2025-11-05](./sketches/daily/d2025_11_05/2025-11-05.png) |
+| [2025-11-06](./sketches/daily/d2025_11_06) | Polígonos Redux 10 | [./sketches/daily/d2025_11_06/__main__.py](./sketches/daily/d2025_11_06/__main__.py) | ![2025-11-06](./sketches/daily/d2025_11_06/2025-11-06.png) |
 <!-- Next Item -->
 
 ### 2024
