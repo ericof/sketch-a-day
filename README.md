@@ -154,6 +154,7 @@ You can follow this project also on:
 | [2025-11-07](./sketches/daily/d2025_11_07) | Description | [./sketches/daily/d2025_11_07/__main__.py](./sketches/daily/d2025_11_07/__main__.py) | ![2025-11-07](./sketches/daily/d2025_11_07/2025-11-07.png) |
 | [2025-11-08](./sketches/daily/d2025_11_08) | Noise lines 02 | [./sketches/daily/d2025_11_08/__main__.py](./sketches/daily/d2025_11_08/__main__.py) | ![2025-11-08](./sketches/daily/d2025_11_08/2025-11-08.png) |
 | [2025-11-09](./sketches/daily/d2025_11_09) | Noise lines 03 | [./sketches/daily/d2025_11_09/__main__.py](./sketches/daily/d2025_11_09/__main__.py) | ![2025-11-09](./sketches/daily/d2025_11_09/2025-11-09.png) |
+| [2025-11-10](./sketches/daily/d2025_11_10) | Noise lines 04 | [./sketches/daily/d2025_11_10/__main__.py](./sketches/daily/d2025_11_10/__main__.py) | ![2025-11-10](./sketches/daily/d2025_11_10/2025-11-10.png) |
 <!-- Next Item -->
 
 ### 2024
