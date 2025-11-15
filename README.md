@@ -159,6 +159,7 @@ You can follow this project also on:
 | [2025-11-12](./sketches/daily/d2025_11_12) | Noise lines 05 | [./sketches/daily/d2025_11_12/__main__.py](./sketches/daily/d2025_11_12/__main__.py) | ![2025-11-12](./sketches/daily/d2025_11_12/2025-11-12.png) |
 | [2025-11-13](./sketches/daily/d2025_11_13) | Pastel Squares | [./sketches/daily/d2025_11_13/__main__.py](./sketches/daily/d2025_11_13/__main__.py) | ![2025-11-13](./sketches/daily/d2025_11_13/2025-11-13.png) |
 | [2025-11-14](./sketches/daily/d2025_11_14) | Warhol Squares | [./sketches/daily/d2025_11_14/__main__.py](./sketches/daily/d2025_11_14/__main__.py) | ![2025-11-14](./sketches/daily/d2025_11_14/2025-11-14.png) |
+| [2025-11-15](./sketches/daily/d2025_11_15) | Distributing circles | [./sketches/daily/d2025_11_15/__main__.py](./sketches/daily/d2025_11_15/__main__.py) | ![2025-11-15](./sketches/daily/d2025_11_15/2025-11-15.png) |
 <!-- Next Item -->
 
 ### 2024
