@@ -162,6 +162,7 @@ You can follow this project also on:
 | [2025-11-15](./sketches/daily/d2025_11_15) | Distributing circles | [./sketches/daily/d2025_11_15/__main__.py](./sketches/daily/d2025_11_15/__main__.py) | ![2025-11-15](./sketches/daily/d2025_11_15/2025-11-15.png) |
 | [2025-11-16](./sketches/daily/d2025_11_16) | Distributing circles 02 | [./sketches/daily/d2025_11_16/__main__.py](./sketches/daily/d2025_11_16/__main__.py) | ![2025-11-16](./sketches/daily/d2025_11_16/2025-11-16.png) |
 | [2025-11-17](./sketches/daily/d2025_11_17) | Distributing circles 03 | [./sketches/daily/d2025_11_17/__main__.py](./sketches/daily/d2025_11_17/__main__.py) | ![2025-11-17](./sketches/daily/d2025_11_17/2025-11-17.png) |
+| [2025-11-18](./sketches/daily/d2025_11_18) | Distributing circles 04 | [./sketches/daily/d2025_11_18/__main__.py](./sketches/daily/d2025_11_18/__main__.py) | ![2025-11-18](./sketches/daily/d2025_11_18/2025-11-18.png) |
 <!-- Next Item -->
 
 ### 2024
