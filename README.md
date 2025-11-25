@@ -169,6 +169,7 @@ You can follow this project also on:
 | [2025-11-22](./sketches/daily/d2025_11_22) | Polígonos -> Círculos 04 | [./sketches/daily/d2025_11_22/__main__.py](./sketches/daily/d2025_11_22/__main__.py) | ![2025-11-22](./sketches/daily/d2025_11_22/2025-11-22.png) |
 | [2025-11-23](./sketches/daily/d2025_11_23) | Polígonos -> Círculos 05 | [./sketches/daily/d2025_11_23/__main__.py](./sketches/daily/d2025_11_23/__main__.py) | ![2025-11-23](./sketches/daily/d2025_11_23/2025-11-23.png) |
 | [2025-11-24](./sketches/daily/d2025_11_24) | Polígonos -> Círculos 06 | [./sketches/daily/d2025_11_24/__main__.py](./sketches/daily/d2025_11_24/__main__.py) | ![2025-11-24](./sketches/daily/d2025_11_24/2025-11-24.png) |
+| [2025-11-25](./sketches/daily/d2025_11_25) | Polígonos -> Círculos 07 | [./sketches/daily/d2025_11_25/__main__.py](./sketches/daily/d2025_11_25/__main__.py) | ![2025-11-25](./sketches/daily/d2025_11_25/2025-11-25.png) |
 <!-- Next Item -->
 
 ### 2024
