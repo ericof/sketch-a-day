@@ -172,6 +172,7 @@ You can follow this project also on:
 | [2025-11-25](./sketches/daily/d2025_11_25) | Polígonos -> Círculos 07 | [./sketches/daily/d2025_11_25/__main__.py](./sketches/daily/d2025_11_25/__main__.py) | ![2025-11-25](./sketches/daily/d2025_11_25/2025-11-25.png) |
 | [2025-11-26](./sketches/daily/d2025_11_26) | Polígonos -> Pentágonos 08 | [./sketches/daily/d2025_11_26/__main__.py](./sketches/daily/d2025_11_26/__main__.py) | ![2025-11-26](./sketches/daily/d2025_11_26/2025-11-26.png) |
 | [2025-11-27](./sketches/daily/d2025_11_27) | Polígonos -> Polígonos 09 | [./sketches/daily/d2025_11_27/__main__.py](./sketches/daily/d2025_11_27/__main__.py) | ![2025-11-27](./sketches/daily/d2025_11_27/2025-11-27.png) |
+| [2025-11-28](./sketches/daily/d2025_11_28) | Polígonos -> Polígonos 10 | [./sketches/daily/d2025_11_28/__main__.py](./sketches/daily/d2025_11_28/__main__.py) | ![2025-11-28](./sketches/daily/d2025_11_28/2025-11-28.png) |
 <!-- Next Item -->
 
 ### 2024
