@@ -176,6 +176,7 @@ You can follow this project also on:
 | [2025-11-29](./sketches/daily/d2025_11_29) | Polígonos -> Polígonos 11 | [./sketches/daily/d2025_11_29/__main__.py](./sketches/daily/d2025_11_29/__main__.py) | ![2025-11-29](./sketches/daily/d2025_11_29/2025-11-29.png) |
 | [2025-11-30](./sketches/daily/d2025_11_30) | Polígonos -> Polígonos 12 | [./sketches/daily/d2025_11_30/__main__.py](./sketches/daily/d2025_11_30/__main__.py) | ![2025-11-30](./sketches/daily/d2025_11_30/2025-11-30.png) |
 | [2025-12-01](./sketches/daily/d2025_12_01) | Circularis strepitus | [./sketches/daily/d2025_12_01/__main__.py](./sketches/daily/d2025_12_01/__main__.py) | ![2025-12-01](./sketches/daily/d2025_12_01/2025-12-01.png) |
+| [2025-12-02](./sketches/daily/d2025_12_02) | Mapas v2: Origem | [./sketches/daily/d2025_12_02/__main__.py](./sketches/daily/d2025_12_02/__main__.py) | ![2025-12-02](./sketches/daily/d2025_12_02/2025-12-02.png) |
 <!-- Next Item -->
 
 ### 2024
