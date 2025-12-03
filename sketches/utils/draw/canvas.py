@@ -110,6 +110,7 @@ def sketch_frame(
         py5.translate(0, 0, z)
         with py5.push():
             py5.rect_mode(py5.CORNER)
+            py5.fill(cor_fundo)
             buraco = py5.create_shape(
                 py5.RECT, *sketch.size.pos_interno, *sketch.size.internal
             )
