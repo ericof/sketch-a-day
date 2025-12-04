@@ -375,6 +375,51 @@ PALETAS = {
         ],
         py5.RGB,
     ),
+    "bege-01": Paleta(
+        "bege-01",
+        [
+            "#F7D897",
+            "#F9E1A7",
+            "#FBE9B7",
+            "#FDF1C7",
+            "#FFF9D7",
+        ],
+        py5.RGB,
+    ),
+    "bege-02": Paleta(
+        "bege-02",
+        [
+            "#A66A2C",
+            "#B17534",
+            "#BB803B",
+            "#C58B43",
+            "#CF964B",
+            "#D9A153",
+        ],
+        py5.RGB,
+    ),
+    "azul-01": Paleta(
+        "azul-01",
+        [
+            "#7EB7FF",
+            "#94C3FF",
+            "#A9CFFF",
+            "#BFDBFF",
+            "#D4E7FF",
+        ],
+        py5.RGB,
+    ),
+    "azul-02": Paleta(
+        "azul-02",
+        [
+            "#137AFF",
+            "#2886FF",
+            "#3E92FF",
+            "#539EFF",
+            "#69AAFF",
+        ],
+        py5.RGB,
+    ),
 }
 
 
