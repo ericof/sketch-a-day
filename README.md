@@ -178,6 +178,7 @@ You can follow this project also on:
 | [2025-12-01](./sketches/daily/d2025_12_01) | Circularis strepitus | [./sketches/daily/d2025_12_01/__main__.py](./sketches/daily/d2025_12_01/__main__.py) | ![2025-12-01](./sketches/daily/d2025_12_01/2025-12-01.png) |
 | [2025-12-02](./sketches/daily/d2025_12_02) | Mapas v2: Origem | [./sketches/daily/d2025_12_02/__main__.py](./sketches/daily/d2025_12_02/__main__.py) | ![2025-12-02](./sketches/daily/d2025_12_02/2025-12-02.png) |
 | [2025-12-03](./sketches/daily/d2025_12_03) | Mapas v2: Origem 01 | [./sketches/daily/d2025_12_03/__main__.py](./sketches/daily/d2025_12_03/__main__.py) | ![2025-12-03](./sketches/daily/d2025_12_03/2025-12-03.png) |
+| [2025-12-04](./sketches/daily/d2025_12_04) | Mapas v2: Origem 02 | [./sketches/daily/d2025_12_04/__main__.py](./sketches/daily/d2025_12_04/__main__.py) | ![2025-12-04](./sketches/daily/d2025_12_04/2025-12-04.png) |
 <!-- Next Item -->
 
 ### 2024
