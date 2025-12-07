@@ -181,6 +181,7 @@ You can follow this project also on:
 | [2025-12-04](./sketches/daily/d2025_12_04) | Mapas v2: Origem 02 | [./sketches/daily/d2025_12_04/__main__.py](./sketches/daily/d2025_12_04/__main__.py) | ![2025-12-04](./sketches/daily/d2025_12_04/2025-12-04.png) |
 | [2025-12-05](./sketches/daily/d2025_12_05) | Mapas v2: Exílio 01 | [./sketches/daily/d2025_12_05/__main__.py](./sketches/daily/d2025_12_05/__main__.py) | ![2025-12-05](./sketches/daily/d2025_12_05/2025-12-05.png) |
 | [2025-12-06](./sketches/daily/d2025_12_06) | Mapas v2: Exílio 02 | [./sketches/daily/d2025_12_06/__main__.py](./sketches/daily/d2025_12_06/__main__.py) | ![2025-12-06](./sketches/daily/d2025_12_06/2025-12-06.png) |
+| [2025-12-07](./sketches/daily/d2025_12_07) | Mapas v2: Brasília | [./sketches/daily/d2025_12_07/__main__.py](./sketches/daily/d2025_12_07/__main__.py) | ![2025-12-07](./sketches/daily/d2025_12_07/2025-12-07.png) |
 <!-- Next Item -->
 
 ### 2024
