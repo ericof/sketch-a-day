@@ -190,6 +190,7 @@ You can follow this project also on:
 | [2025-12-13](./sketches/daily/d2025_12_13) | Particles 06 | [./sketches/daily/d2025_12_13/__main__.py](./sketches/daily/d2025_12_13/__main__.py) | ![2025-12-13](./sketches/daily/d2025_12_13/2025-12-13.png) |
 | [2025-12-14](./sketches/daily/d2025_12_14) | Particles 07 | [./sketches/daily/d2025_12_14/__main__.py](./sketches/daily/d2025_12_14/__main__.py) | ![2025-12-14](./sketches/daily/d2025_12_14/2025-12-14.png) |
 | [2025-12-15](./sketches/daily/d2025_12_15) | Particles 08 | [./sketches/daily/d2025_12_15/__main__.py](./sketches/daily/d2025_12_15/__main__.py) | ![2025-12-15](./sketches/daily/d2025_12_15/2025-12-15.png) |
+| [2025-12-16](./sketches/daily/d2025_12_16) | Particles 09 | [./sketches/daily/d2025_12_16/__main__.py](./sketches/daily/d2025_12_16/__main__.py) | ![2025-12-16](./sketches/daily/d2025_12_16/2025-12-16.png) |
 <!-- Next Item -->
 
 ### 2024
