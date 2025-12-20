@@ -194,6 +194,7 @@ You can follow this project also on:
 | [2025-12-17](./sketches/daily/d2025_12_17) | Particles 10 | [./sketches/daily/d2025_12_17/__main__.py](./sketches/daily/d2025_12_17/__main__.py) | ![2025-12-17](./sketches/daily/d2025_12_17/2025-12-17.png) |
 | [2025-12-18](./sketches/daily/d2025_12_18) | Particles 11 | [./sketches/daily/d2025_12_18/__main__.py](./sketches/daily/d2025_12_18/__main__.py) | ![2025-12-18](./sketches/daily/d2025_12_18/2025-12-18.png) |
 | [2025-12-19](./sketches/daily/d2025_12_19) | 18263 days after | [./sketches/daily/d2025_12_19/__main__.py](./sketches/daily/d2025_12_19/__main__.py) | ![2025-12-19](./sketches/daily/d2025_12_19/2025-12-19.png) |
+| [2025-12-20](./sketches/daily/d2025_12_20) | Lorem ipsum spiral I (Pastel) | [./sketches/daily/d2025_12_20/__main__.py](./sketches/daily/d2025_12_20/__main__.py) | ![2025-12-20](./sketches/daily/d2025_12_20/2025-12-20.png) |
 <!-- Next Item -->
 
 ### 2024
