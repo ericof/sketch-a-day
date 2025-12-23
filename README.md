@@ -197,6 +197,7 @@ You can follow this project also on:
 | [2025-12-20](./sketches/daily/d2025_12_20) | Lorem ipsum spiral I (Pastel) | [./sketches/daily/d2025_12_20/__main__.py](./sketches/daily/d2025_12_20/__main__.py) | ![2025-12-20](./sketches/daily/d2025_12_20/2025-12-20.png) |
 | [2025-12-21](./sketches/daily/d2025_12_21) | Lorem ipsum spiral II (Warhol) | [./sketches/daily/d2025_12_21/__main__.py](./sketches/daily/d2025_12_21/__main__.py) | ![2025-12-21](./sketches/daily/d2025_12_21/2025-12-21.png) |
 | [2025-12-22](./sketches/daily/d2025_12_22) | Lorem ipsum spiral III (Mondrian) | [./sketches/daily/d2025_12_22/__main__.py](./sketches/daily/d2025_12_22/__main__.py) | ![2025-12-22](./sketches/daily/d2025_12_22/2025-12-22.png) |
+| [2025-12-23](./sketches/daily/d2025_12_23) | Hamlet (Pastel) | [./sketches/daily/d2025_12_23/__main__.py](./sketches/daily/d2025_12_23/__main__.py) | ![2025-12-23](./sketches/daily/d2025_12_23/2025-12-23.png) |
 <!-- Next Item -->
 
 ### 2024
