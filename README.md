@@ -200,6 +200,7 @@ You can follow this project also on:
 | [2025-12-23](./sketches/daily/d2025_12_23) | Hamlet (Pastel) | [./sketches/daily/d2025_12_23/__main__.py](./sketches/daily/d2025_12_23/__main__.py) | ![2025-12-23](./sketches/daily/d2025_12_23/2025-12-23.png) |
 | [2025-12-24](./sketches/daily/d2025_12_24) | Hamlet (Mondrian) | [./sketches/daily/d2025_12_24/__main__.py](./sketches/daily/d2025_12_24/__main__.py) | ![2025-12-24](./sketches/daily/d2025_12_24/2025-12-24.png) |
 | [2025-12-25](./sketches/daily/d2025_12_25) | Esfera de Conexões 01 | [./sketches/daily/d2025_12_25/__main__.py](./sketches/daily/d2025_12_25/__main__.py) | ![2025-12-25](./sketches/daily/d2025_12_25/2025-12-25.png) |
+| [2025-12-26](./sketches/daily/d2025_12_26) | Esfera de Conexões 02 | [./sketches/daily/d2025_12_26/__main__.py](./sketches/daily/d2025_12_26/__main__.py) | ![2025-12-26](./sketches/daily/d2025_12_26/2025-12-26.png) |
 <!-- Next Item -->
 
 ### 2024
