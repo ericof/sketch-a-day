@@ -202,6 +202,7 @@ You can follow this project also on:
 | [2025-12-25](./sketches/daily/d2025_12_25) | Esfera de Conexões 01 | [./sketches/daily/d2025_12_25/__main__.py](./sketches/daily/d2025_12_25/__main__.py) | ![2025-12-25](./sketches/daily/d2025_12_25/2025-12-25.png) |
 | [2025-12-26](./sketches/daily/d2025_12_26) | Esfera de Conexões 02 | [./sketches/daily/d2025_12_26/__main__.py](./sketches/daily/d2025_12_26/__main__.py) | ![2025-12-26](./sketches/daily/d2025_12_26/2025-12-26.png) |
 | [2025-12-27](./sketches/daily/d2025_12_27) | Esfera de Conexões 03 | [./sketches/daily/d2025_12_27/__main__.py](./sketches/daily/d2025_12_27/__main__.py) | ![2025-12-27](./sketches/daily/d2025_12_27/2025-12-27.png) |
+| [2025-12-28](./sketches/daily/d2025_12_28) | Padrões vetoriais 01 | [./sketches/daily/d2025_12_28/__main__.py](./sketches/daily/d2025_12_28/__main__.py) | ![2025-12-28](./sketches/daily/d2025_12_28/2025-12-28.png) |
 <!-- Next Item -->
 
 ### 2024
