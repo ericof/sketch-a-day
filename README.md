@@ -205,6 +205,7 @@ You can follow this project also on:
 | [2025-12-28](./sketches/daily/d2025_12_28) | Padrões vetoriais 01 | [./sketches/daily/d2025_12_28/__main__.py](./sketches/daily/d2025_12_28/__main__.py) | ![2025-12-28](./sketches/daily/d2025_12_28/2025-12-28.png) |
 | [2025-12-29](./sketches/daily/d2025_12_29) | Padrões vetoriais 02 | [./sketches/daily/d2025_12_29/__main__.py](./sketches/daily/d2025_12_29/__main__.py) | ![2025-12-29](./sketches/daily/d2025_12_29/2025-12-29.png) |
 | [2025-12-30](./sketches/daily/d2025_12_30) | Padrões vetoriais 03 | [./sketches/daily/d2025_12_30/__main__.py](./sketches/daily/d2025_12_30/__main__.py) | ![2025-12-30](./sketches/daily/d2025_12_30/2025-12-30.png) |
+| [2025-12-31](./sketches/daily/d2025_12_31) | Padrões vetoriais 04 | [./sketches/daily/d2025_12_31/__main__.py](./sketches/daily/d2025_12_31/__main__.py) | ![2025-12-31](./sketches/daily/d2025_12_31/2025-12-31.png) |
 <!-- Next Item -->
 
 ### 2024
