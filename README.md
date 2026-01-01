@@ -21,6 +21,7 @@ You can follow this project also on:
 | Day | Description | File | Image |
 | -- | -- | -- | -- |
 
+| [2026-01-01](./sketches/daily/d2026_01_01) | Waves 01 | [./sketches/daily/d2026_01_01/__main__.py](./sketches/daily/d2026_01_01/__main__.py) | ![2026-01-01](./sketches/daily/d2026_01_01/2026-01-01.png) |
 <!-- Next Item -->
 
 ### 2025
