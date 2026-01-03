@@ -5,6 +5,8 @@ from pathlib import Path
 from sketches.utils.data import Sketch
 from sketches.utils.data import SketchInfo
 from sketches.utils.data import SketchSize
+from sketches.utils.helpers.dates import format_day
+from sketches.utils.helpers.dates import format_year_month
 
 
 DIMENSOES = SketchSize(
@@ -34,8 +36,11 @@ def info_for_sketch(__file, __doc) -> SketchInfo:
 
 def sketch_info_for_day(day: str) -> SketchInfo:
     """Return the SketchInfo for a given day."""
-    formatted_day = f"d{day.replace('-', '_')}"
-    mod = import_module(f"sketches.daily.{formatted_day}.__main__")
+    formatted_year_month = format_year_month(day)
+    formatted_day = format_day(day)
+    mod = import_module(
+        f"sketches.daily.{formatted_year_month}.{formatted_day}.__main__"
+    )
     return mod.sketch
 
 

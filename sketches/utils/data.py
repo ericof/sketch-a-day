@@ -66,7 +66,9 @@ class SketchInfo:
     @property
     def day(self) -> date:
         """Dia do Sketch."""
-        parts = [int(i) for i in (self.path.name[1:]).split("_")]
+        parts = self.path.parent.name.split("_")
+        parts.append(self.path.name)
+        parts = [int("".join([char for char in i if char.isdigit()])) for i in parts]
         return date(*parts)
 
     @property

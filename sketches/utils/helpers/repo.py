@@ -2,6 +2,8 @@ from datetime import datetime
 from git import Commit
 from git import Repo
 from pathlib import Path
+from sketches.utils.helpers.dates import format_day
+from sketches.utils.helpers.dates import format_year_month
 
 
 def get_repo() -> Repo:
@@ -33,8 +35,9 @@ def get_last_commit_for_file(repo: Repo, filepath: Path) -> Commit | None:
 def last_commit_for_day(day: str) -> Commit | None:
     """Return commit date for a given day."""
     repo = get_repo()
-    formatted_day = f"d{day.replace('-', '_')}"
-    path = f"sketches/daily/{formatted_day}"
+    formatted_year_month = format_year_month(day)
+    formatted_day = format_day(day)
+    path = f"sketches/daily/{formatted_year_month}/{formatted_day}"
     last_commit = get_last_commit_for_file(repo, Path(path))
     return last_commit
 
