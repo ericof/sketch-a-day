@@ -24,6 +24,7 @@ You can follow this project also on:
 | [2026-01-01](./sketches/daily/d2026_01_01) | Waves 01 | [./sketches/daily/d2026_01_01/__main__.py](./sketches/daily/d2026_01_01/__main__.py) | ![2026-01-01](./sketches/daily/d2026_01_01/2026-01-01.png) |
 | [2026-01-02](./sketches/daily/d2026_01_02) | Waves 02 | [./sketches/daily/d2026_01_02/__main__.py](./sketches/daily/d2026_01_02/__main__.py) | ![2026-01-02](./sketches/daily/d2026_01_02/2026-01-02.png) |
 | [2026-01-03](./sketches/daily/d2026_01_03) | Waves 03 | [./sketches/daily/d2026_01_03/__main__.py](./sketches/daily/d2026_01_03/__main__.py) | ![2026-01-03](./sketches/daily/d2026_01_03/2026-01-03.png) |
+| [2026-01-04](./sketches/daily/d2026_01_04) | Waves 04 | [./sketches/daily/d2026_01_04/__main__.py](./sketches/daily/d2026_01_04/__main__.py) | ![2026-01-04](./sketches/daily/d2026_01_04/2026-01-04.png) |
 <!-- Next Item -->
 
 ### 2025
