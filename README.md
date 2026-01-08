@@ -28,6 +28,7 @@ You can follow this project also on:
 | [2026-01-05](./sketches/daily/d2026_01_05) | Waves 05 (P2D) | [./sketches/daily/d2026_01_05/__main__.py](./sketches/daily/d2026_01_05/__main__.py) | ![2026-01-05](./sketches/daily/d2026_01_05/2026-01-05.png) |
 | [2026-01-06](./sketches/daily/d2026_01_06) | Waves 06 (P2D) | [./sketches/daily/d2026_01_06/__main__.py](./sketches/daily/d2026_01_06/__main__.py) | ![2026-01-06](./sketches/daily/d2026_01_06/2026-01-06.png) |
 | [2026-01-07](./sketches/daily/d2026_01_07) | Padrão de Curvas Dinâmicas 01 | [./sketches/daily/d2026_01_07/__main__.py](./sketches/daily/d2026_01_07/__main__.py) | ![2026-01-07](./sketches/daily/d2026_01_07/2026-01-07.png) |
+| [2026-01-08](./sketches/daily/d2026_01_08) | Padrão de Curvas Dinâmicas 02 | [./sketches/daily/d2026_01_08/__main__.py](./sketches/daily/d2026_01_08/__main__.py) | ![2026-01-08](./sketches/daily/d2026_01_08/2026-01-08.png) |
 <!-- Next Item -->
 
 ### 2025
