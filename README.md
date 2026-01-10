@@ -30,6 +30,7 @@ You can follow this project also on:
 | [2026-01-07](./sketches/daily/d2026_01_07) | Padrão de Curvas Dinâmicas 01 | [./sketches/daily/d2026_01_07/__main__.py](./sketches/daily/d2026_01_07/__main__.py) | ![2026-01-07](./sketches/daily/d2026_01_07/2026-01-07.png) |
 | [2026-01-08](./sketches/daily/d2026_01_08) | Padrão de Curvas Dinâmicas 02 | [./sketches/daily/d2026_01_08/__main__.py](./sketches/daily/d2026_01_08/__main__.py) | ![2026-01-08](./sketches/daily/d2026_01_08/2026-01-08.png) |
 | [2026-01-09](./sketches/daily/d2026_01_09) | Padrão de Curvas Dinâmicas 03 | [./sketches/daily/d2026_01_09/__main__.py](./sketches/daily/d2026_01_09/__main__.py) | ![2026-01-09](./sketches/daily/d2026_01_09/2026-01-09.png) |
+| [2026-01-10](./sketches/daily/d2026_01_10) | Padrão de Curvas Dinâmicas 04 | [./sketches/daily/d2026_01_10/__main__.py](./sketches/daily/d2026_01_10/__main__.py) | ![2026-01-10](./sketches/daily/d2026_01_10/2026-01-10.png) |
 <!-- Next Item -->
 
 ### 2025
