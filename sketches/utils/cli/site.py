@@ -74,6 +74,7 @@ def post_to_site(sketch: Sketch, commit_hash: str = ""):
     }
     response = session.post(settings["base_url"], json=payload, timeout=20)
     if response.status_code != 201:
-        raise Exception(response.status_code)
+        msg = f"Error posting to site: {response.status_code} - {response.text}"
+        raise Exception(msg)
     data = response.json()
     return data["@id"]
