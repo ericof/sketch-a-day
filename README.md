@@ -35,6 +35,7 @@ You can follow this project also on:
 | [2026-01-12](./sketches/daily/d2026_01_12) | Padrão de Curvas Dinâmicas 05 | [./sketches/daily/d2026_01_12/__main__.py](./sketches/daily/d2026_01_12/__main__.py) | ![2026-01-12](./sketches/daily/d2026_01_12/2026-01-12.png) |
 | [2026-01-13](./sketches/daily/d2026_01_13) | Tiles 01 | [./sketches/daily/d2026_01_13/__main__.py](./sketches/daily/d2026_01_13/__main__.py) | ![2026-01-13](./sketches/daily/d2026_01_13/2026-01-13.png) |
 | [2026-01-14](./sketches/daily/d2026_01_14) | Tiles 02 | [./sketches/daily/d2026_01_14/__main__.py](./sketches/daily/d2026_01_14/__main__.py) | ![2026-01-14](./sketches/daily/d2026_01_14/2026-01-14.gif) |
+| [2026-01-15](./sketches/daily/d2026_01_15) | Tiles 03 | [./sketches/daily/d2026_01_15/__main__.py](./sketches/daily/d2026_01_15/__main__.py) | ![2026-01-15](./sketches/daily/d2026_01_15/2026-01-15.png) |
 <!-- Next Item -->
 
 ### 2025
