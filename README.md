@@ -38,6 +38,7 @@ You can follow this project also on:
 | [2026-01-15](./sketches/daily/d2026_01_15) | Tiles 03 | [./sketches/daily/d2026_01_15/__main__.py](./sketches/daily/d2026_01_15/__main__.py) | ![2026-01-15](./sketches/daily/d2026_01_15/2026-01-15.png) |
 | [2026-01-16](./sketches/daily/d2026_01_16) | Tiles 04 | [./sketches/daily/d2026_01_16/__main__.py](./sketches/daily/d2026_01_16/__main__.py) | ![2026-01-16](./sketches/daily/d2026_01_16/2026-01-16.png) |
 | [2026-01-17](./sketches/daily/d2026_01_17) | Tiles 05 | [./sketches/daily/d2026_01_17/__main__.py](./sketches/daily/d2026_01_17/__main__.py) | ![2026-01-17](./sketches/daily/d2026_01_17/2026-01-17.png) |
+| [2026-01-18](./sketches/daily/d2026_01_18) | Tiles 06 (South Africa edition) | [./sketches/daily/d2026_01_18/__main__.py](./sketches/daily/d2026_01_18/__main__.py) | ![2026-01-18](./sketches/daily/d2026_01_18/2026-01-18.png) |
 <!-- Next Item -->
 
 ### 2025
