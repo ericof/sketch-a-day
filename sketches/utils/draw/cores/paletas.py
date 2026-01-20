@@ -1,5 +1,6 @@
 from collections import deque
 from dataclasses import dataclass
+from typing import overload
 
 import py5
 
@@ -435,6 +436,17 @@ PALETAS = {
             "#17bebb",
         ],
     ),
+    "south-africa": Paleta(
+        "south-africa",
+        [
+            "#007749",  # Green
+            "#FFB612",  # Gold / Yellow
+            "#000000",  # Black
+            "#DE3831",  # Red
+            "#002395",  # Blue
+            "#FFFFFF",  # White
+        ],
+    ),
 }
 
 
@@ -447,9 +459,11 @@ def lista_paletas(tipo: str = "simples") -> list[str]:
     return paletas
 
 
-def gera_paleta(
-    nome: str, como_deque: bool = False
-) -> list[py5.Py5Color] | deque[py5.Py5Color]:
+@overload
+def gera_paleta(nome: str, como_deque: bool = False) -> list[str | int]: ...
+@overload
+def gera_paleta(nome: str, como_deque: bool = True) -> deque[str | int]: ...
+def gera_paleta(nome, como_deque=False):
     """Retorna lista de cores a partir da paleta escolhida."""
     if (paleta := PALETAS.get(nome)) is None:
         raise ValueError("Paleta desconhecida")
