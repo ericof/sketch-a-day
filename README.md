@@ -40,6 +40,7 @@ You can follow this project also on:
 | [2026-01-17](./sketches/daily/d2026_01_17) | Tiles 05 | [./sketches/daily/d2026_01_17/__main__.py](./sketches/daily/d2026_01_17/__main__.py) | ![2026-01-17](./sketches/daily/d2026_01_17/2026-01-17.png) |
 | [2026-01-18](./sketches/daily/d2026_01_18) | Tiles 06 (South Africa edition) | [./sketches/daily/d2026_01_18/__main__.py](./sketches/daily/d2026_01_18/__main__.py) | ![2026-01-18](./sketches/daily/d2026_01_18/2026-01-18.png) |
 | [2026-01-19](./sketches/daily/d2026_01_19) | Pixelate South Africa 01 | [./sketches/daily/d2026_01_19/__main__.py](./sketches/daily/d2026_01_19/__main__.py) | ![2026-01-19](./sketches/daily/d2026_01_19/2026-01-19.png) |
+| [2026-01-20](./sketches/daily/d2026_01_20) | Pixelate South Africa 02 | [./sketches/daily/d2026_01_20/__main__.py](./sketches/daily/d2026_01_20/__main__.py) | ![2026-01-20](./sketches/daily/d2026_01_20/2026-01-20.png) |
 <!-- Next Item -->
 
 ### 2025
