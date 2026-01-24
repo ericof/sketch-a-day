@@ -44,6 +44,7 @@ You can follow this project also on:
 | [2026-01-21](./sketches/daily/d2026_01_21) | Tiles 06 | [./sketches/daily/d2026_01_21/__main__.py](./sketches/daily/d2026_01_21/__main__.py) | ![2026-01-21](./sketches/daily/d2026_01_21/2026-01-21.png) |
 | [2026-01-22](./sketches/daily/d2026_01_22) | Tiles 07 | [./sketches/daily/d2026_01_22/__main__.py](./sketches/daily/d2026_01_22/__main__.py) | ![2026-01-22](./sketches/daily/d2026_01_22/2026-01-22.png) |
 | [2026-01-23](./sketches/daily/d2026_01_23) | Tiles 08 | [./sketches/daily/d2026_01_23/__main__.py](./sketches/daily/d2026_01_23/__main__.py) | ![2026-01-23](./sketches/daily/d2026_01_23/2026-01-23.png) |
+| [2026-01-24](./sketches/daily/d2026_01_24) | Tiles 09 | [./sketches/daily/d2026_01_24/__main__.py](./sketches/daily/d2026_01_24/__main__.py) | ![2026-01-24](./sketches/daily/d2026_01_24/2026-01-24.png) |
 <!-- Next Item -->
 
 ### 2025
