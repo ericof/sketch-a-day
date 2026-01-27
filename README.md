@@ -47,6 +47,8 @@ You can follow this project also on:
 | [2026-01-24](./sketches/daily/d2026_01_24) | Tiles 09 | [./sketches/daily/d2026_01_24/__main__.py](./sketches/daily/d2026_01_24/__main__.py) | ![2026-01-24](./sketches/daily/d2026_01_24/2026-01-24.png) |
 | [2026-01-25](./sketches/daily/d2026_01_25) | SP, 472 years | [./sketches/daily/d2026_01_25/__main__.py](./sketches/daily/d2026_01_25/__main__.py) | ![2026-01-25](./sketches/daily/d2026_01_25/2026-01-25.png) |
 | [2026-01-26](./sketches/daily/d2026_01_26) | Island space | [./sketches/daily/d2026_01_26/__main__.py](./sketches/daily/d2026_01_26/__main__.py) | ![2026-01-26](./sketches/daily/d2026_01_26/2026-01-26.png) |
+| [2026-01-27](./sketches/daily/d2026_01_27) | Description | [./sketches/daily/d2026_01_27/__main__.py](./sketches/daily/d2026_01_27/__main__.py) | ![2026-01-27](./sketches/daily/d2026_01_27/2026-01-27.png) |
+| [2026-01-27](./sketches/daily/d2026_01_27) | Waves 01 | [./sketches/daily/d2026_01_27/__main__.py](./sketches/daily/d2026_01_27/__main__.py) | ![2026-01-27](./sketches/daily/d2026_01_27/2026-01-27.png) |
 <!-- Next Item -->
 
 ### 2025
