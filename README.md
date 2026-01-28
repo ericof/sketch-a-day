@@ -49,6 +49,7 @@ You can follow this project also on:
 | [2026-01-26](./sketches/daily/d2026_01_26) | Island space | [./sketches/daily/d2026_01_26/__main__.py](./sketches/daily/d2026_01_26/__main__.py) | ![2026-01-26](./sketches/daily/d2026_01_26/2026-01-26.png) |
 | [2026-01-27](./sketches/daily/d2026_01_27) | Description | [./sketches/daily/d2026_01_27/__main__.py](./sketches/daily/d2026_01_27/__main__.py) | ![2026-01-27](./sketches/daily/d2026_01_27/2026-01-27.png) |
 | [2026-01-27](./sketches/daily/d2026_01_27) | Waves 01 | [./sketches/daily/d2026_01_27/__main__.py](./sketches/daily/d2026_01_27/__main__.py) | ![2026-01-27](./sketches/daily/d2026_01_27/2026-01-27.png) |
+| [2026-01-28](./sketches/daily/d2026_01_28) | Waves 02 | [./sketches/daily/d2026_01_28/__main__.py](./sketches/daily/d2026_01_28/__main__.py) | ![2026-01-28](./sketches/daily/d2026_01_28/2026-01-28.png) |
 <!-- Next Item -->
 
 ### 2025
