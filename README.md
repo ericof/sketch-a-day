@@ -52,6 +52,7 @@ You can follow this project also on:
 | [2026-01-28](./sketches/daily/d2026_01_28) | Waves 02 | [./sketches/daily/d2026_01_28/__main__.py](./sketches/daily/d2026_01_28/__main__.py) | ![2026-01-28](./sketches/daily/d2026_01_28/2026-01-28.png) |
 | [2026-01-29](./sketches/daily/d2026_01_29) | Waves 03 | [./sketches/daily/d2026_01_29/__main__.py](./sketches/daily/d2026_01_29/__main__.py) | ![2026-01-29](./sketches/daily/d2026_01_29/2026-01-29.png) |
 | [2026-01-30](./sketches/daily/d2026_01_30) | Waves 04 | [./sketches/daily/d2026_01_30/__main__.py](./sketches/daily/d2026_01_30/__main__.py) | ![2026-01-30](./sketches/daily/d2026_01_30/2026-01-30.png) |
+| [2026-01-31](./sketches/daily/d2026_01_31) | Multiple Mondrian 01 | [./sketches/daily/d2026_01_31/__main__.py](./sketches/daily/d2026_01_31/__main__.py) | ![2026-01-31](./sketches/daily/d2026_01_31/2026-01-31.png) |
 <!-- Next Item -->
 
 ### 2025
