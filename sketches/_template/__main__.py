@@ -14,15 +14,23 @@ import py5
 
 sketch = helpers.info_for_sketch(__file__, __doc__)
 
+cor_fundo = py5.color(0)
+
 
 def setup():
     py5.size(*helpers.DIMENSOES.external, py5.P3D)
-    cor_fundo = py5.color(0)
-    py5.background(cor_fundo)
     py5.color_mode(py5.HSB, 360, 100, 100)
+
+
+def draw():
+    py5.background(cor_fundo)
     # Credits and go
     canvas.sketch_frame(
-        sketch, cor_fundo, "large_transparent_white", "transparent_white"
+        sketch,
+        cor_fundo,
+        "large_transparent_white",
+        "transparent_white",
+        version=2,
     )
 
 

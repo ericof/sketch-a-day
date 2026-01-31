@@ -86,6 +86,15 @@ def date_box(sketch: SketchInfo, style_name: str = "default"):
     draw_text_box(sketch.title, style_name, x, y)
 
 
+def date_description_box(sketch: SketchInfo, style_name: str = "default"):
+    largura, altura = sketch.size.external
+    altura_int = sketch.size.internal[0]
+    x = largura // 2
+    y = (altura - altura_int) // 3
+    text = f"{sketch.title}\n{sketch.description}"
+    draw_text_box(text, style_name, x, y)
+
+
 def credits_box(sketch: SketchInfo, style_name: str = "default"):
     largura, altura = sketch.size.external
     largura_int, altura_int = sketch.size.internal
@@ -101,6 +110,7 @@ def sketch_frame(
     cor_fundo: int = py5.color("#FFF"),
     date_style: str = "default",
     credits_style: str = "transparent",
+    version: int = 1,
     z: int = 1,
 ):
     """Draw the sketch frame with date and credits."""
@@ -118,7 +128,11 @@ def sketch_frame(
             frame.set_fill(cor_fundo)
             py5.shape(frame)
         with py5.push():
-            date_box(sketch, date_style)
+            match version:
+                case 1:
+                    date_box(sketch, date_style)
+                case 2:
+                    date_description_box(sketch, date_style)
         with py5.push():
             credits_box(sketch, credits_style)
 
