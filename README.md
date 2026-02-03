@@ -55,6 +55,7 @@ You can follow this project also on:
 | [2026-01-31](./sketches/daily/d2026_01_31) | Multiple Mondrian 01 | [./sketches/daily/d2026_01_31/__main__.py](./sketches/daily/d2026_01_31/__main__.py) | ![2026-01-31](./sketches/daily/d2026_01_31/2026-01-31.png) |
 | [2026-02-01](./sketches/daily/d2026_02_01) | Multiple Mondrian 02 | [./sketches/daily/d2026_02_01/__main__.py](./sketches/daily/d2026_02_01/__main__.py) | ![2026-02-01](./sketches/daily/d2026_02_01/2026-02-01.png) |
 | [2026-02-02](./sketches/daily/d2026_02_02) | Multiple Mondrian 03 | [./sketches/daily/d2026_02_02/__main__.py](./sketches/daily/d2026_02_02/__main__.py) | ![2026-02-02](./sketches/daily/d2026_02_02/2026-02-02.png) |
+| [2026-02-03](./sketches/daily/d2026_02_03) | Square Moviment 01 | [./sketches/daily/d2026_02_03/__main__.py](./sketches/daily/d2026_02_03/__main__.py) | ![2026-02-03](./sketches/daily/d2026_02_03/2026-02-03.png) |
 <!-- Next Item -->
 
 ### 2025
