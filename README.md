@@ -59,6 +59,7 @@ You can follow this project also on:
 | [2026-02-04](./sketches/daily/d2026_02_04) | Square Moviment 02 | [./sketches/daily/d2026_02_04/__main__.py](./sketches/daily/d2026_02_04/__main__.py) | ![2026-02-04](./sketches/daily/d2026_02_04/2026-02-04.png) |
 | [2026-02-05](./sketches/daily/d2026_02_05) | Square Moviment 03 | [./sketches/daily/d2026_02_05/__main__.py](./sketches/daily/d2026_02_05/__main__.py) | ![2026-02-05](./sketches/daily/d2026_02_05/2026-02-05.png) |
 | [2026-02-06](./sketches/daily/d2026_02_06) | Square Moviment 04 | [./sketches/daily/d2026_02_06/__main__.py](./sketches/daily/d2026_02_06/__main__.py) | ![2026-02-06](./sketches/daily/d2026_02_06/2026-02-06.png) |
+| [2026-02-07](./sketches/daily/d2026_02_07) | Pattern & Grid 01 | [./sketches/daily/d2026_02_07/__main__.py](./sketches/daily/d2026_02_07/__main__.py) | ![2026-02-07](./sketches/daily/d2026_02_07/2026-02-07.png) |
 <!-- Next Item -->
 
 ### 2025
