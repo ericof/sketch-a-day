@@ -64,6 +64,7 @@ You can follow this project also on:
 | [2026-02-09](./sketches/daily/d2026_02_09) | Pattern & Grid 03 | [./sketches/daily/d2026_02_09/__main__.py](./sketches/daily/d2026_02_09/__main__.py) | ![2026-02-09](./sketches/daily/d2026_02_09/2026-02-09.png) |
 | [2026-02-10](./sketches/daily/d2026_02_10) | Pattern & Grid 04 | [./sketches/daily/d2026_02_10/__main__.py](./sketches/daily/d2026_02_10/__main__.py) | ![2026-02-10](./sketches/daily/d2026_02_10/2026-02-10.png) |
 | [2026-02-11](./sketches/daily/d2026_02_11) | Eye 01 | [./sketches/daily/d2026_02_11/__main__.py](./sketches/daily/d2026_02_11/__main__.py) | ![2026-02-11](./sketches/daily/d2026_02_11/2026-02-11.png) |
+| [2026-02-12](./sketches/daily/d2026_02_12) | Eye 02 | [./sketches/daily/d2026_02_12/__main__.py](./sketches/daily/d2026_02_12/__main__.py) | ![2026-02-12](./sketches/daily/d2026_02_12/2026-02-12.png) |
 <!-- Next Item -->
 
 ### 2025
