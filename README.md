@@ -75,6 +75,7 @@ You can follow this project also on:
 | [2026-02-20](./sketches/daily/d2026_02_20) | Eye(s) 10 | [./sketches/daily/d2026_02_20/__main__.py](./sketches/daily/d2026_02_20/__main__.py) | ![2026-02-20](./sketches/daily/d2026_02_20/2026-02-20.png) |
 | [2026-02-21](./sketches/daily/d2026_02_21) | Eyes Collective 01 | [./sketches/daily/d2026_02_21/__main__.py](./sketches/daily/d2026_02_21/__main__.py) | ![2026-02-21](./sketches/daily/d2026_02_21/2026-02-21.png) |
 | [2026-02-22](./sketches/daily/d2026_02_22) | Eyes Collective 02 | [./sketches/daily/d2026_02_22/__main__.py](./sketches/daily/d2026_02_22/__main__.py) | ![2026-02-22](./sketches/daily/d2026_02_22/2026-02-22.png) |
+| [2026-02-23](./sketches/daily/d2026_02_23) | Eyes Collective 03 | [./sketches/daily/d2026_02_23/__main__.py](./sketches/daily/d2026_02_23/__main__.py) | ![2026-02-23](./sketches/daily/d2026_02_23/2026-02-23.png) |
 <!-- Next Item -->
 
 ### 2025
