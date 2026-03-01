@@ -81,6 +81,7 @@ You can follow this project also on:
 | [2026-02-26](./sketches/daily/d2026_02_26) | Eyes Collective 05 | [./sketches/daily/d2026_02_26/__main__.py](./sketches/daily/d2026_02_26/__main__.py) | ![2026-02-26](./sketches/daily/d2026_02_26/2026-02-26.png) |
 | [2026-02-27](./sketches/daily/d2026_02_27) | Eyes Collective 06 | [./sketches/daily/d2026_02_27/__main__.py](./sketches/daily/d2026_02_27/__main__.py) | ![2026-02-27](./sketches/daily/d2026_02_27/2026-02-27.png) |
 | [2026-02-28](./sketches/daily/d2026_02_28) | Recursive Division 01 | [./sketches/daily/d2026_02_28/__main__.py](./sketches/daily/d2026_02_28/__main__.py) | ![2026-02-28](./sketches/daily/d2026_02_28/2026-02-28.png) |
+| [2026-03-01](./sketches/daily/d2026_03_01) | Recursive Division 02 | [./sketches/daily/d2026_03_01/__main__.py](./sketches/daily/d2026_03_01/__main__.py) | ![2026-03-01](./sketches/daily/d2026_03_01/2026-03-01.png) |
 <!-- Next Item -->
 
 ### 2025
