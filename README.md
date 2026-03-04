@@ -83,6 +83,7 @@ You can follow this project also on:
 | [2026-02-28](./sketches/daily/d2026_02_28) | Recursive Division 01 | [./sketches/daily/d2026_02_28/__main__.py](./sketches/daily/d2026_02_28/__main__.py) | ![2026-02-28](./sketches/daily/d2026_02_28/2026-02-28.png) |
 | [2026-03-01](./sketches/daily/d2026_03_01) | Recursive Division 02 | [./sketches/daily/d2026_03_01/__main__.py](./sketches/daily/d2026_03_01/__main__.py) | ![2026-03-01](./sketches/daily/d2026_03_01/2026-03-01.png) |
 | [2026-03-02](./sketches/daily/d2026_03_02) | Recursive Division 03 | [./sketches/daily/d2026_03_02/__main__.py](./sketches/daily/d2026_03_02/__main__.py) | ![2026-03-02](./sketches/daily/d2026_03_02/2026-03-02.png) |
+| [2026-03-03](./sketches/daily/d2026_03_03) | Recursive Division 04 | [./sketches/daily/d2026_03_03/__main__.py](./sketches/daily/d2026_03_03/__main__.py) | ![2026-03-03](./sketches/daily/d2026_03_03/2026-03-03.png) |
 <!-- Next Item -->
 
 ### 2025
