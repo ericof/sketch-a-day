@@ -52,11 +52,13 @@ def extrai_rgba(cor: int) -> tuple[float, float, float, float]:
 
 
 @cache
-def lerp_color_rgba(cor_1: int, cor_2: int, t) -> int:
+def lerp_color_rgba(
+    cor_1: int, cor_2: int, t, t_min_max: tuple[int, int] = (0, 1)
+) -> int:
     """Calcula uma cor intermediária entre duas cores."""
     r1, g1, b1, a1 = extrai_rgba(cor_1)
     r2, g2, b2, a2 = extrai_rgba(cor_2)
-    t = py5.constrain(t, 0, 1)
+    t = py5.constrain(t, *t_min_max)
     r = float(py5.lerp(r1, r2, t))
     g = float(py5.lerp(g1, g2, t))
     b = float(py5.lerp(b1, b2, t))
