@@ -90,6 +90,7 @@ You can follow this project also on:
 | [2026-03-07](./sketches/daily/d2026_03_07) | Divisões 04 | [./sketches/daily/d2026_03_07/__main__.py](./sketches/daily/d2026_03_07/__main__.py) | ![2026-03-07](./sketches/daily/d2026_03_07/2026-03-07.png) |
 | [2026-03-08](./sketches/daily/d2026_03_08) | Divisões 05 | [./sketches/daily/d2026_03_08/__main__.py](./sketches/daily/d2026_03_08/__main__.py) | ![2026-03-08](./sketches/daily/d2026_03_08/2026-03-08.png) |
 | [2026-03-09](./sketches/daily/d2026_03_09) | Divisões 06 | [./sketches/daily/d2026_03_09/__main__.py](./sketches/daily/d2026_03_09/__main__.py) | ![2026-03-09](./sketches/daily/d2026_03_09/2026-03-09.png) |
+| [2026-03-10](./sketches/daily/d2026_03_10) | Divisões 07 | [./sketches/daily/d2026_03_10/__main__.py](./sketches/daily/d2026_03_10/__main__.py) | ![2026-03-10](./sketches/daily/d2026_03_10/2026-03-10.png) |
 <!-- Next Item -->
 
 ### 2025
