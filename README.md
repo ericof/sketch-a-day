@@ -95,6 +95,7 @@ You can follow this project also on:
 | [2026-03-12](./sketches/daily/d2026_03_12) | Divisões 09 | [./sketches/daily/d2026_03_12/__main__.py](./sketches/daily/d2026_03_12/__main__.py) | ![2026-03-12](./sketches/daily/d2026_03_12/2026-03-12.png) |
 | [2026-03-13](./sketches/daily/d2026_03_13) | Divisões 10 | [./sketches/daily/d2026_03_13/__main__.py](./sketches/daily/d2026_03_13/__main__.py) | ![2026-03-13](./sketches/daily/d2026_03_13/2026-03-13.png) |
 | [2026-03-14](./sketches/daily/d2026_03_14) | Divisões Cubísticas 01 | [./sketches/daily/d2026_03_14/__main__.py](./sketches/daily/d2026_03_14/__main__.py) | ![2026-03-14](./sketches/daily/d2026_03_14/2026-03-14.png) |
+| [2026-03-16](./sketches/daily/d2026_03_16) | Divisões Cubísticas 03 | [./sketches/daily/d2026_03_16/__main__.py](./sketches/daily/d2026_03_16/__main__.py) | ![2026-03-16](./sketches/daily/d2026_03_16/2026-03-16.png) |
 <!-- Next Item -->
 
 ### 2025
