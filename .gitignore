@@ -158,3 +158,6 @@ cache
 **/osmnx.data*
 # Playground Files
 playground/*
+
+# Local Claude context (not for sharing)
+.claude/CLAUDE.local.md
