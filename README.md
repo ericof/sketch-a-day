@@ -105,6 +105,7 @@ You can follow this project also on:
 | [2026-03-22](./sketches/daily/d2026_03_22) | Esfera de Retalhos 03 | [./sketches/daily/d2026_03_22/__main__.py](./sketches/daily/d2026_03_22/__main__.py) | ![2026-03-22](./sketches/daily/d2026_03_22/2026-03-22.png) |
 | [2026-03-23](./sketches/daily/d2026_03_23) | Esfera de Retalhos 04 | [./sketches/daily/d2026_03_23/__main__.py](./sketches/daily/d2026_03_23/__main__.py) | ![2026-03-23](./sketches/daily/d2026_03_23/2026-03-23.png) |
 | [2026-03-24](./sketches/daily/d2026_03_24) | Esfera de Retalhos 05 | [./sketches/daily/d2026_03_24/__main__.py](./sketches/daily/d2026_03_24/__main__.py) | ![2026-03-24](./sketches/daily/d2026_03_24/2026-03-24.png) |
+| [2026-03-25](./sketches/daily/d2026_03_25) | Esfera de Retalhos 06 | [./sketches/daily/d2026_03_25/__main__.py](./sketches/daily/d2026_03_25/__main__.py) | ![2026-03-25](./sketches/daily/d2026_03_25/2026-03-25.png) |
 <!-- Next Item -->
 
 ### 2025
