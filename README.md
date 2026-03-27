@@ -107,6 +107,7 @@ You can follow this project also on:
 | [2026-03-24](./sketches/daily/d2026_03_24) | Esfera de Retalhos 05 | [./sketches/daily/d2026_03_24/__main__.py](./sketches/daily/d2026_03_24/__main__.py) | ![2026-03-24](./sketches/daily/d2026_03_24/2026-03-24.png) |
 | [2026-03-25](./sketches/daily/d2026_03_25) | Esfera de Retalhos 06 | [./sketches/daily/d2026_03_25/__main__.py](./sketches/daily/d2026_03_25/__main__.py) | ![2026-03-25](./sketches/daily/d2026_03_25/2026-03-25.png) |
 | [2026-03-26](./sketches/daily/d2026_03_26) | Ruídos 01 | [./sketches/daily/d2026_03_26/__main__.py](./sketches/daily/d2026_03_26/__main__.py) | ![2026-03-26](./sketches/daily/d2026_03_26/2026-03-26.png) |
+| [2026-03-27](./sketches/daily/d2026_03_27) | Ruídos 02 | [./sketches/daily/d2026_03_27/__main__.py](./sketches/daily/d2026_03_27/__main__.py) | ![2026-03-27](./sketches/daily/d2026_03_27/2026-03-27.png) |
 <!-- Next Item -->
 
 ### 2025
