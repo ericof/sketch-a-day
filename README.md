@@ -20,7 +20,6 @@ You can follow this project also on:
 
 | Day | Description | File | Image |
 | -- | -- | -- | -- |
-
 | [2026-01-01](./sketches/daily/y2026_m01/d01) | Waves 01 | [./sketches/daily/y2026_m01/d01/__main__.py](./sketches/daily/y2026_m01/d01/__main__.py) | ![2026-01-01](./sketches/daily/y2026_m01/d01/2026-01-01.png) |
 | [2026-01-02](./sketches/daily/y2026_m01/d02) | Waves 02 | [./sketches/daily/y2026_m01/d02/__main__.py](./sketches/daily/y2026_m01/d02/__main__.py) | ![2026-01-02](./sketches/daily/y2026_m01/d02/2026-01-02.png) |
 | [2026-01-03](./sketches/daily/y2026_m01/d03) | Waves 03 | [./sketches/daily/y2026_m01/d03/__main__.py](./sketches/daily/y2026_m01/d03/__main__.py) | ![2026-01-03](./sketches/daily/y2026_m01/d03/2026-01-03.png) |
