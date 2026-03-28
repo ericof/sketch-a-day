@@ -8,7 +8,7 @@ class PadraoOndas(tipos.Padrao):
     categoria = "ondas"
 
     @property
-    def pontos(self) -> tuple[tuple[float, float], ...]:
+    def pontos(self) -> tuple[tuple[tuple[float, float], ...], ...]:
         return ()
 
     def padrao(self, pg: py5.Py5Graphics, cores: tipos.CoresPadrao) -> None:
@@ -29,7 +29,7 @@ class OndasParalelas(PadraoOndas):
     min_max: tuple[int, int] = (0, 1)
 
     @property
-    def pontos(self) -> tuple[tuple[float, float], ...]:
+    def pontos(self) -> tuple[tuple[tuple[float, float], ...], ...]:
         x_min = int(-self.largura * 3)
         x_max = int(x_min * -1)
         passo = (x_max - x_min) / (360 / self.ciclos)

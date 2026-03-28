@@ -6,20 +6,20 @@ __all__ = ["Biblioteca", "registra_padrao"]
 
 
 class BibliotecaClass:
-    padroes: dict[str, t.Padrao]
-    categorias: dict[str, dict[str, t.Padrao]]
+    padroes: dict[str, type[t.Padrao]]
+    categorias: dict[str, dict[str, type[t.Padrao]]]
 
     def __init__(self):
         self.categorias = defaultdict(dict)
         self.padroes = {}
 
-    def get_categoria(self, categoria: str) -> dict[str, t.Padrao]:
+    def get_categoria(self, categoria: str) -> dict[str, type[t.Padrao]]:
         return self.categorias[categoria]
 
-    def get_padrao(self, nome: str) -> t.Padrao:
+    def get_padrao(self, nome: str) -> type[t.Padrao]:
         return self.padroes[nome]
 
-    def get_padroes(self) -> dict[str, t.Padrao]:
+    def get_padroes(self) -> dict[str, type[t.Padrao]]:
         return self.padroes
 
 
@@ -32,7 +32,7 @@ class registra_padrao:
     def __init__(self):
         pass
 
-    def __call__(self, padrao: t.Padrao):
+    def __call__(self, padrao: type[t.Padrao]):
         categoria = padrao.categoria
         nome = padrao.__name__
         Biblioteca.categorias[categoria][nome] = padrao

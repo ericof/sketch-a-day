@@ -57,7 +57,7 @@ class AzulejoTresTracosBase(tipos.Padrao):
         largura_max: float,
         altura_max: float,
         cor: py5.Py5Color,
-    ):
+    ) -> None:
         traco = self.traco * self.traco_mult
         espaco = self.traco * self.espaco_mult
         centro_x, centro_y = centro
@@ -89,12 +89,12 @@ class AzulejoTresTracosBase(tipos.Padrao):
 
 @registra_padrao()
 class AzulejoTresTracos1(AzulejoTresTracosBase):
-    grupos: tuple[float, ...] = ((2, "traco"),)
+    grupos: tuple[tuple[float, str], ...] = ((2, "traco"),)
 
 
 @registra_padrao()
 class AzulejoTresTracos2(AzulejoTresTracosBase):
-    grupos: tuple[float, ...] = ((2, "traco"), (1.2, "preenchimento"))
+    grupos: tuple[tuple[float, str], ...] = ((2, "traco"), (1.2, "preenchimento"))
 
 
 @registra_padrao()

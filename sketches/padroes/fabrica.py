@@ -6,7 +6,12 @@ from random import choices
 
 
 def cria_celulas(
-    largura, altura, colunas, linhas, espacamentos, borda: tipos.Borda | None = None
+    largura: float,
+    altura: float,
+    colunas: int,
+    linhas: int,
+    espacamentos: tuple[float, float],
+    borda: tipos.Borda | None = None,
 ) -> list[tipos.Celula]:
     esp_x, esp_y = espacamentos
     celula_largura = (largura - (esp_x * (colunas - 1))) / colunas
