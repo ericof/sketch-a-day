@@ -107,6 +107,7 @@ You can follow this project also on:
 | [2026-03-25](./sketches/daily/y2026_m03/d25) | Esfera de Retalhos 06 | [./sketches/daily/y2026_m03/d25/__main__.py](./sketches/daily/y2026_m03/d25/__main__.py) | ![2026-03-25](./sketches/daily/y2026_m03/d25/2026-03-25.png) |
 | [2026-03-26](./sketches/daily/y2026_m03/d26) | Ruídos 01 | [./sketches/daily/y2026_m03/d26/__main__.py](./sketches/daily/y2026_m03/d26/__main__.py) | ![2026-03-26](./sketches/daily/y2026_m03/d26/2026-03-26.png) |
 | [2026-03-27](./sketches/daily/y2026_m03/d27) | Ruídos 02 | [./sketches/daily/y2026_m03/d27/__main__.py](./sketches/daily/y2026_m03/d27/__main__.py) | ![2026-03-27](./sketches/daily/y2026_m03/d27/2026-03-27.png) |
+| [2026-03-28](/Users/ericof/Projects/Personal/sketches-2024/sketches/daily/y2026_m03/d28) | Language 01 | [/Users/ericof/Projects/Personal/sketches-2024/sketches/daily/y2026_m03/d28/__main__.py](/Users/ericof/Projects/Personal/sketches-2024/sketches/daily/y2026_m03/d28/__main__.py) | ![2026-03-28](/Users/ericof/Projects/Personal/sketches-2024/sketches/daily/y2026_m03/d28/2026-03-28.png) |
 <!-- Next Item -->
 
 ### 2025
