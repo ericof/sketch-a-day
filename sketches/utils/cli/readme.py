@@ -1,5 +1,6 @@
 from pathlib import Path
 from sketches.utils.data import SketchInfo
+from sketches.utils.helpers.paths import sketch_path_for_day
 
 
 PLACEHOLDER = "<!-- Next Item -->"
@@ -9,7 +10,7 @@ def update_readme(info: SketchInfo):
     """Update readme file."""
     readme = Path("./README.md").resolve()
     text = readme.read_text()
-    path = f"./sketches/daily/{info.day:d%Y_%m_%d}"
+    path = sketch_path_for_day(f"{info.day:%Y-%m-%d}")
     # | Day | Description | File | Image |
     day_formatted = f"{info.day:%Y-%m-%d}"
     day = f"[{day_formatted}]({path})"
