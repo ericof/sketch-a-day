@@ -10,7 +10,8 @@ def update_readme(info: SketchInfo):
     """Update readme file."""
     readme = Path("./README.md").resolve()
     text = readme.read_text()
-    path = sketch_path_for_day(f"{info.day:%Y-%m-%d}")
+    full_path = sketch_path_for_day(f"{info.day:%Y-%m-%d}")
+    path = full_path.relative_to(readme.parent)
     # | Day | Description | File | Image |
     day_formatted = f"{info.day:%Y-%m-%d}"
     day = f"[{day_formatted}]({path})"
