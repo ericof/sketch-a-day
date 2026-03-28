@@ -5,30 +5,36 @@ import py5
 
 @dataclass
 class CoresPadrao:
+    """Conjunto de cores usado para renderizar um padrão."""
+
     traco: int
     preenchimento: int
     fundo: int | None = None
 
 
 class Padrao:
+    """Classe base para padrões vetoriais renderizados em um buffer gráfico.
+
+    Subclasses devem implementar :meth:`padrao` para definir o desenho.
+    O padrão é sempre desenhado com origem no centro do buffer.
+    """
+
     categoria: str
     centro: tuple[float, float]
-    extremidades: tuple[
-        tuple[float, float],
-        tuple[float, float],
-        tuple[float, float],
-        tuple[float, float],
-    ]
     largura: float
     altura: float
     traco: float
 
     def __init__(self, largura: float = 100, altura: float = 100, traco: float = 1):
-        self.largura = int(largura)
-        self.altura = int(altura)
-        metade_largura = largura / 2
-        metade_altura = altura / 2
-        self.centro = (metade_largura, metade_altura)
+        """Inicializa o padrão com as dimensões e espessura de traço.
+
+        :param largura: Largura do buffer em pixels.
+        :param altura: Altura do buffer em pixels.
+        :param traco: Espessura base do traço.
+        """
+        self.largura = float(largura)
+        self.altura = float(altura)
+        self.centro = (self.largura / 2, self.altura / 2)
         self.traco = traco
 
     @property
@@ -37,9 +43,20 @@ class Padrao:
         return self.__class__.__name__
 
     def padrao(self, pg: py5.Py5Graphics, cores: CoresPadrao) -> None:
+        """Desenha o padrão no buffer gráfico.
+
+        :param pg: Buffer gráfico com origem já transladada para o centro.
+        :param cores: Cores a usar no desenho.
+        """
         pass
 
     def __call__(self, rotacao: float, cores: CoresPadrao) -> py5.Py5Graphics:
+        """Renderiza o padrão e retorna o buffer gráfico resultante.
+
+        :param rotacao: Ângulo de rotação em graus.
+        :param cores: Cores a usar no desenho.
+        :returns: Buffer :class:`py5.Py5Graphics` com o padrão renderizado.
+        """
         pg = py5.create_graphics(int(self.largura), int(self.altura), py5.P3D)
         with pg.begin_draw():
             pg.stroke(self.traco)
@@ -56,11 +73,19 @@ class Padrao:
 
 @dataclass
 class Borda:
+    """Borda decorativa ao redor de uma célula."""
+
     cor: int
     grossura: int = 0
 
 
 class Celula:
+    """Célula de uma grade que posiciona e renderiza um padrão no sketch.
+
+    Armazena a posição ``(x0, y0)`` do canto superior esquerdo e ``(x, y)``
+    do centro, além das dimensões da célula.
+    """
+
     x: float
     y: float
     x0: float
@@ -81,6 +106,16 @@ class Celula:
         idy: int,
         borda: Borda | None = None,
     ):
+        """Inicializa a célula.
+
+        :param x: Coordenada x do canto superior esquerdo.
+        :param y: Coordenada y do canto superior esquerdo.
+        :param largura: Largura da célula em pixels.
+        :param altura: Altura da célula em pixels.
+        :param idx: Índice da coluna na grade.
+        :param idy: Índice da linha na grade.
+        :param borda: Borda opcional ao redor da célula.
+        """
         self.idx = idx
         self.idy = idy
         self.x0 = x
@@ -92,6 +127,7 @@ class Celula:
         self.borda = borda
 
     def _desenha_borda(self) -> None:
+        """Desenha a borda ao redor da célula, se definida."""
         if not self.borda:
             return
         grossura = self.borda.grossura
@@ -115,17 +151,24 @@ class Celula:
         desenha: bool = True,
         z: float | None = None,
     ) -> py5.Py5Image | None:
+        """Renderiza o padrão e, opcionalmente, o desenha na posição da célula.
+
+        :param padrao: Padrão a renderizar.
+        :param rotacao: Ângulo de rotação em graus.
+        :param cores: Cores a usar no desenho.
+        :param desenha: Se ``False``, retorna ``None`` sem desenhar.
+        :param z: Coordenada z opcional para translação 3D.
+        :returns: A imagem renderizada, ou ``None`` se *desenha* for ``False``.
+        """
         if not desenha:
-            return
+            return None
         pg = padrao(rotacao, cores)
         pg.load_pixels()
-        pixels = pg.pixels[:]
         imagem = py5.create_image(pg.width, pg.height, py5.ARGB)
         imagem.load_pixels()
-        for i in range(len(pixels)):
-            imagem.pixels[i] = pixels[i]
+        imagem.pixels[:] = pg.pixels[:]
         imagem.update_pixels()
-        coordenadas = [self.x, self.y]
+        coordenadas: list[float] = [self.x, self.y]
         if self.borda:
             self._desenha_borda()
         if z is not None:
