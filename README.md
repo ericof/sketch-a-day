@@ -108,6 +108,7 @@ You can follow this project also on:
 | [2026-03-26](./sketches/daily/y2026_m03/d26) | Ruídos 01 | [./sketches/daily/y2026_m03/d26/__main__.py](./sketches/daily/y2026_m03/d26/__main__.py) | ![2026-03-26](./sketches/daily/y2026_m03/d26/2026-03-26.png) |
 | [2026-03-27](./sketches/daily/y2026_m03/d27) | Ruídos 02 | [./sketches/daily/y2026_m03/d27/__main__.py](./sketches/daily/y2026_m03/d27/__main__.py) | ![2026-03-27](./sketches/daily/y2026_m03/d27/2026-03-27.png) |
 | [2026-03-28](./sketches/daily/y2026_m03/d28) | Language 01 | [./sketches/daily/y2026_m03/d28/__main__.py](./sketches/daily/y2026_m03/d28/__main__.py) | ![2026-03-28](./sketches/daily/y2026_m03/d28/2026-03-28.png) |
+| [2026-03-29](sketches/daily/y2026_m03/d29) | Language 02 | [sketches/daily/y2026_m03/d29/__main__.py](sketches/daily/y2026_m03/d29/__main__.py) | ![2026-03-29](sketches/daily/y2026_m03/d29/2026-03-29.png) |
 <!-- Next Item -->
 
 ### 2025
