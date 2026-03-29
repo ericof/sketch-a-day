@@ -164,7 +164,7 @@ class Celula:
             return None
         pg = padrao(rotacao, cores)
         pg.load_pixels()
-        imagem = py5.create_image(pg.width, pg.height, py5.ARGB)
+        imagem = py5.create_image(pg.pixel_width, pg.pixel_height, py5.ARGB)
         imagem.load_pixels()
         imagem.pixels[:] = pg.pixels[:]
         imagem.update_pixels()
@@ -176,5 +176,5 @@ class Celula:
         with py5.push():
             py5.translate(*coordenadas)
             py5.image_mode(py5.CENTER)
-            py5.image(imagem, 0, 0)
+            py5.image(imagem, 0, 0, int(self.largura), int(self.altura))
         return imagem
