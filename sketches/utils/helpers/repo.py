@@ -7,7 +7,7 @@ from sketches.utils.helpers.dates import format_year_month
 
 
 def get_repo() -> Repo:
-    """GIT Repository for this codebase."""
+    """Retorna o repositório Git deste codebase."""
     import sketches
 
     path = Path(sketches.__file__).parent.parent
@@ -15,7 +15,12 @@ def get_repo() -> Repo:
 
 
 def get_last_commit_for_file(repo: Repo, filepath: Path) -> Commit | None:
-    """Returns the last commit that modified the given file in a Git repository."""
+    """Retorna o último commit que modificou o arquivo informado.
+
+    :param repo: Repositório Git.
+    :param filepath: Caminho absoluto ou relativo do arquivo.
+    :returns: Último commit que modificou o arquivo, ou None.
+    """
     # Iterate through commits in reverse chronological order
     base_path = Path(repo.git_dir).parent
     filepath = filepath.resolve()
@@ -33,7 +38,11 @@ def get_last_commit_for_file(repo: Repo, filepath: Path) -> Commit | None:
 
 
 def last_commit_for_day(day: str) -> Commit | None:
-    """Return commit date for a given day."""
+    """Retorna o último commit do sketch de um dia específico.
+
+    :param day: Data em formato ISO ou relativa.
+    :returns: Último commit do sketch, ou None.
+    """
     repo = get_repo()
     formatted_year_month = format_year_month(day)
     formatted_day = format_day(day)
@@ -43,7 +52,11 @@ def last_commit_for_day(day: str) -> Commit | None:
 
 
 def commit_date_for_day(day: str) -> datetime | None:
-    """Return commit date for a given day."""
+    """Retorna a data do último commit do sketch de um dia específico.
+
+    :param day: Data em formato ISO ou relativa.
+    :returns: Data do commit, ou None se não houver commit.
+    """
     last_commit = last_commit_for_day(day)
     if not last_commit:
         return

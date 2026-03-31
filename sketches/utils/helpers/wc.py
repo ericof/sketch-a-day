@@ -5,7 +5,12 @@ import requests
 
 
 def texto_de_url(url: str) -> str:
-    """Obtém o texto presente em uma url."""
+    """Obtém o conteúdo textual de uma URL.
+
+    :param url: Endereço da página a ser baixada.
+    :returns: Conteúdo textual da resposta HTTP.
+    :raises requests.HTTPError: Se a requisição falhar.
+    """
     response = requests.get(url, timeout=3)
     response.raise_for_status()
     return response.text
@@ -20,7 +25,14 @@ SCRIPT_IGNORAR = [
 
 
 def processa_script(texto: str) -> str:
-    """Processa o texto de um script, removendo linhas indesejadas."""
+    """Processa o texto de um script, removendo linhas indesejadas.
+
+    Remove linhas anteriores ao início do script e linhas que
+    correspondam aos padrões definidos em SCRIPT_IGNORAR.
+
+    :param texto: Texto bruto do script.
+    :returns: Texto processado, sem as linhas filtradas.
+    """
     linhas = []
     comecou = False
     total = 0

@@ -15,8 +15,13 @@ DIMENSOES = SketchSize(
 )
 
 
-def info_for_sketch(__file, __doc) -> SketchInfo:
-    """Information about this sketch."""
+def info_for_sketch(__file: str, __doc: str) -> SketchInfo:
+    """Extrai informações de um sketch a partir do seu __file__ e __doc__.
+
+    :param __file: Caminho do arquivo do sketch (__file__).
+    :param __doc: Docstring do módulo do sketch (__doc__).
+    :returns: Informações do sketch.
+    """
     doc_parts = __doc.split("\n")
     title, description, alt, other_credits, format_, tags = doc_parts[:6]
     other_credits = other_credits.replace("|", "\n")
@@ -35,7 +40,11 @@ def info_for_sketch(__file, __doc) -> SketchInfo:
 
 
 def sketch_info_for_day(day: str) -> SketchInfo:
-    """Return the SketchInfo for a given day."""
+    """Retorna as informações do sketch de um dia específico.
+
+    :param day: Data em formato ISO ou relativa.
+    :returns: Informações do sketch.
+    """
     formatted_year_month = format_year_month(day)
     formatted_day = format_day(day)
     mod = import_module(
@@ -45,7 +54,12 @@ def sketch_info_for_day(day: str) -> SketchInfo:
 
 
 def sketch_for_day(day: str, commit: Commit | None = None) -> Sketch:
-    """Return the Sketch for a given day."""
+    """Retorna o objeto Sketch completo de um dia específico.
+
+    :param day: Data em formato ISO ou relativa.
+    :param commit: Commit associado ao sketch (opcional).
+    :returns: Objeto Sketch com informações e dados do commit.
+    """
     from .repo import last_commit_for_day
 
     info = sketch_info_for_day(day)
