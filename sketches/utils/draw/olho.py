@@ -149,20 +149,20 @@ class Olho:
             r = py5.random(part_inner_r, part_outer_r)
             x = py5.cos(ang) * r
             y = py5.sin(ang) * r
-        particulas.append(
-            Particulas(
-                x,
-                y,
-                x * 1.45,
-                y * 1.45,
-                x * 0.018,
-                y * 0.018,
-                3.5,
-                inner_radius,
-                outer_radius,
-                cor_base=self.cores["particulas"],
+            particulas.append(
+                Particulas(
+                    x,
+                    y,
+                    x * 1.45,
+                    y * 1.45,
+                    x * 0.018,
+                    y * 0.018,
+                    3.5,
+                    inner_radius,
+                    outer_radius,
+                    cor_base=self.cores["particulas"],
+                )
             )
-        )
         self.particulas = particulas
 
     def area_central(self, rotacao: float, idx: int, raio: int = 1) -> Iteracao:
@@ -349,3 +349,32 @@ class Olho:
         with report_time("Gera imagem"):
             pg = self.cria_image(iteracoes)
         return pg
+
+
+if __name__ == "__main__":
+    from sketches.utils.helpers import recursos
+    from sketches.utils.helpers import window
+
+    dimensoes = (500, 250)
+
+    def setup():
+        py5.size(*dimensoes, py5.P3D)
+        py5.background(0)
+        py5.image_mode(py5.CENTER)
+        cores = CORES_PADRAO.copy()
+        cores["fundo_imagem"] = py5.color(255, 255, 255, 40)
+        pg = recursos.carrega_imagem_cache("__olho.png")
+        if pg is None:
+            with window.title("Calculando olho..."):
+                olho = Olho(
+                    noise_amp=95,
+                    dimensoes=dimensoes,
+                )
+            with window.title("Gerando olho..."):
+                pg = olho()
+            recursos.salva_imagem_cache(pg, "__olho.png")
+        with window.title("Exibindo olho..."), py5.push():
+            py5.translate(dimensoes[0] // 2, dimensoes[1] // 2)
+            py5.image(pg, 0, 0)
+
+    py5.run_sketch()
