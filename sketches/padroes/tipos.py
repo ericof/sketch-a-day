@@ -126,22 +126,23 @@ class Celula:
         self.altura = altura
         self.borda = borda
 
-    def _desenha_borda(self) -> None:
+    def _desenha_borda(self, pg: py5.Py5Graphics | None = None) -> None:
         """Desenha a borda ao redor da célula, se definida."""
         if not self.borda:
             return
         grossura = self.borda.grossura
         cor = self.borda.cor
         buffer = grossura / 2
-        with py5.push():
-            py5.rect_mode(py5.CORNER)
-            py5.stroke(cor)
-            py5.stroke_weight(grossura)
-            py5.no_fill()
-            py5.translate(self.x0, self.y0, -2)
+        canvas = pg if pg is not None else py5
+        with canvas.push():
+            canvas.rect_mode(py5.CORNER)
+            canvas.stroke(cor)
+            canvas.stroke_weight(grossura)
+            canvas.no_fill()
+            canvas.translate(self.x0, self.y0, -2)
             largura = self.largura + buffer * 2
             altura = self.altura + buffer * 2
-            py5.rect(-buffer, -buffer, largura, altura)
+            canvas.rect(-buffer, -buffer, largura, altura)
 
     def __call__(
         self,
@@ -150,6 +151,7 @@ class Celula:
         cores: CoresPadrao,
         desenha: bool = True,
         z: float | None = None,
+        pg: py5.Py5Graphics | None = None,
     ) -> py5.Py5Image | None:
         """Renderiza o padrão e, opcionalmente, o desenha na posição da célula.
 
@@ -162,19 +164,22 @@ class Celula:
         """
         if not desenha:
             return None
-        pg = padrao(rotacao, cores)
-        pg.load_pixels()
-        imagem = py5.create_image(pg.pixel_width, pg.pixel_height, py5.ARGB)
+        pg_interno = padrao(rotacao, cores)
+        pg_interno.load_pixels()
+        imagem = py5.create_image(
+            pg_interno.pixel_width, pg_interno.pixel_height, py5.ARGB
+        )
         imagem.load_pixels()
-        imagem.pixels[:] = pg.pixels[:]
+        imagem.pixels[:] = pg_interno.pixels[:]
         imagem.update_pixels()
         coordenadas: list[float] = [self.x, self.y]
         if self.borda:
-            self._desenha_borda()
+            self._desenha_borda(pg)
         if z is not None:
             coordenadas.append(z)
-        with py5.push():
-            py5.translate(*coordenadas)
-            py5.image_mode(py5.CENTER)
-            py5.image(imagem, 0, 0, int(self.largura), int(self.altura))
+        canvas = pg if pg is not None else py5
+        with canvas.push():
+            canvas.translate(*coordenadas)
+            canvas.image_mode(py5.CENTER)
+            canvas.image(imagem, 0, 0, int(self.largura), int(self.altura))
         return imagem
