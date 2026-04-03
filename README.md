@@ -113,6 +113,7 @@ You can follow this project also on:
 | [2026-03-31](sketches/daily/y2026_m03/d31) | Language 04 | [sketches/daily/y2026_m03/d31/__main__.py](sketches/daily/y2026_m03/d31/__main__.py) | ![2026-03-31](sketches/daily/y2026_m03/d31/2026-03-31.png) |
 | [2026-04-01](sketches/daily/y2026_m04/d01) | Language 05 | [sketches/daily/y2026_m04/d01/__main__.py](sketches/daily/y2026_m04/d01/__main__.py) | ![2026-04-01](sketches/daily/y2026_m04/d01/2026-04-01.png) |
 | [2026-04-02](sketches/daily/y2026_m04/d02) | Language 06 | [sketches/daily/y2026_m04/d02/__main__.py](sketches/daily/y2026_m04/d02/__main__.py) | ![2026-04-02](sketches/daily/y2026_m04/d02/2026-04-02.png) |
+| [2026-04-03](sketches/daily/y2026_m04/d03) | Language 07 | [sketches/daily/y2026_m04/d03/__main__.py](sketches/daily/y2026_m04/d03/__main__.py) | ![2026-04-03](sketches/daily/y2026_m04/d03/2026-04-03.png) |
 <!-- Next Item -->
 
 ### 2025
