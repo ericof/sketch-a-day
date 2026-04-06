@@ -116,6 +116,8 @@ You can follow this project also on:
 | [2026-04-03](sketches/daily/y2026_m04/d03) | Language 07 | [sketches/daily/y2026_m04/d03/__main__.py](sketches/daily/y2026_m04/d03/__main__.py) | ![2026-04-03](sketches/daily/y2026_m04/d03/2026-04-03.png) |
 | [2026-04-04](sketches/daily/y2026_m04/d04) | Maria is 13 | [sketches/daily/y2026_m04/d04/__main__.py](sketches/daily/y2026_m04/d04/__main__.py) | ![2026-04-04](sketches/daily/y2026_m04/d04/2026-04-04.png) |
 | [2026-04-05](sketches/daily/y2026_m04/d05) | Language 08 | [sketches/daily/y2026_m04/d05/__main__.py](sketches/daily/y2026_m04/d05/__main__.py) | ![2026-04-05](sketches/daily/y2026_m04/d05/2026-04-05.png) |
+| [2026-04-06](sketches/daily/y2026_m04/d06) | Language 09 | [sketches/daily/y2026_m04/d06/__main__.py](sketches/daily/y2026_m04/d06/__main__.py) | ![2026-04-06](sketches/daily/y2026_m04/d06/2026-04-06.png) |
+| [2026-04-07](sketches/daily/y2026_m04/d07) | Language 10 | [sketches/daily/y2026_m04/d07/__main__.py](sketches/daily/y2026_m04/d07/__main__.py) | ![2026-04-07](sketches/daily/y2026_m04/d07/2026-04-07.png) |
 <!-- Next Item -->
 
 ### 2025
