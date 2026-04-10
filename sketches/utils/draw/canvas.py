@@ -95,12 +95,14 @@ def date_description_box(sketch: SketchInfo, style_name: str = "default"):
     draw_text_box(text, style_name, x, y)
 
 
-def credits_box(sketch: SketchInfo, style_name: str = "default"):
+def credits_box(sketch: SketchInfo, style_name: str = "default", msg: str = ""):
     largura, altura = sketch.size.external
     largura_int, altura_int = sketch.size.internal
     x = largura - ((largura - largura_int) * 0.1)
     y = altura - ((altura - altura_int) * 0.25)
     text = sketch.other_credits
+    if msg:
+        text = f"{msg}\n{text}"
     if text.strip():
         draw_text_box(text, style_name, x, y, align=py5.RIGHT)
 
@@ -112,6 +114,7 @@ def sketch_frame(
     credits_style: str = "transparent",
     version: int = 1,
     z: int = 1,
+    msg: str = "",
 ):
     """Draw the sketch frame with date and credits."""
     with py5.push():
@@ -134,7 +137,7 @@ def sketch_frame(
                 case 2:
                     date_description_box(sketch, date_style)
         with py5.push():
-            credits_box(sketch, credits_style)
+            credits_box(sketch, credits_style, msg)
 
 
 def save_sketch_image(sketch: SketchInfo):
