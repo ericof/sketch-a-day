@@ -121,6 +121,7 @@ You can follow this project also on:
 | [2026-04-08](sketches/daily/y2026_m04/d08) | Language 11 | [sketches/daily/y2026_m04/d08/__main__.py](sketches/daily/y2026_m04/d08/__main__.py) | ![2026-04-08](sketches/daily/y2026_m04/d08/2026-04-08.png) |
 | [2026-04-09](sketches/daily/y2026_m04/d09) | Language 12 | [sketches/daily/y2026_m04/d09/__main__.py](sketches/daily/y2026_m04/d09/__main__.py) | ![2026-04-09](sketches/daily/y2026_m04/d09/2026-04-09.png) |
 | [2026-04-10](sketches/daily/y2026_m04/d10) | Dyson 01 / Language 13 | [sketches/daily/y2026_m04/d10/__main__.py](sketches/daily/y2026_m04/d10/__main__.py) | ![2026-04-10](sketches/daily/y2026_m04/d10/2026-04-10.png) |
+| [2026-04-11](sketches/daily/y2026_m04/d11) | Dyson 02 / Language 14 | [sketches/daily/y2026_m04/d11/__main__.py](sketches/daily/y2026_m04/d11/__main__.py) | ![2026-04-11](sketches/daily/y2026_m04/d11/2026-04-11.png) |
 <!-- Next Item -->
 
 ### 2025
