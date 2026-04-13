@@ -123,6 +123,7 @@ You can follow this project also on:
 | [2026-04-10](sketches/daily/y2026_m04/d10) | Dyson 01 / Language 13 | [sketches/daily/y2026_m04/d10/__main__.py](sketches/daily/y2026_m04/d10/__main__.py) | ![2026-04-10](sketches/daily/y2026_m04/d10/2026-04-10.png) |
 | [2026-04-11](sketches/daily/y2026_m04/d11) | Dyson 02 / Language 14 | [sketches/daily/y2026_m04/d11/__main__.py](sketches/daily/y2026_m04/d11/__main__.py) | ![2026-04-11](sketches/daily/y2026_m04/d11/2026-04-11.png) |
 | [2026-04-12](sketches/daily/y2026_m04/d12) | Dyson 03 / Language 15 | [sketches/daily/y2026_m04/d12/__main__.py](sketches/daily/y2026_m04/d12/__main__.py) | ![2026-04-12](sketches/daily/y2026_m04/d12/2026-04-12.png) |
+| [2026-04-13](sketches/daily/y2026_m04/d13) | Dyson 04 / Language 16 | [sketches/daily/y2026_m04/d13/__main__.py](sketches/daily/y2026_m04/d13/__main__.py) | ![2026-04-13](sketches/daily/y2026_m04/d13/2026-04-13.png) |
 <!-- Next Item -->
 
 ### 2025
