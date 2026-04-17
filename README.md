@@ -127,6 +127,7 @@ You can follow this project also on:
 | [2026-04-14](sketches/daily/y2026_m04/d14) | Dyson 05 / Language 17 | [sketches/daily/y2026_m04/d14/__main__.py](sketches/daily/y2026_m04/d14/__main__.py) | ![2026-04-14](sketches/daily/y2026_m04/d14/2026-04-14.png) |
 | [2026-04-15](sketches/daily/y2026_m04/d15) | Dyson 06 / Language 18 | [sketches/daily/y2026_m04/d15/__main__.py](sketches/daily/y2026_m04/d15/__main__.py) | ![2026-04-15](sketches/daily/y2026_m04/d15/2026-04-15.png) |
 | [2026-04-16](sketches/daily/y2026_m04/d16) | World Plone Day 2026 | [sketches/daily/y2026_m04/d16/__main__.py](sketches/daily/y2026_m04/d16/__main__.py) | ![2026-04-16](sketches/daily/y2026_m04/d16/2026-04-16.png) |
+| [2026-04-17](sketches/daily/y2026_m04/d17) | Dyson 07 / Language 19 | [sketches/daily/y2026_m04/d17/__main__.py](sketches/daily/y2026_m04/d17/__main__.py) | ![2026-04-17](sketches/daily/y2026_m04/d17/2026-04-17.png) |
 <!-- Next Item -->
 
 ### 2025
