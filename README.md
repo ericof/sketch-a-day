@@ -129,6 +129,7 @@ You can follow this project also on:
 | [2026-04-16](sketches/daily/y2026_m04/d16) | World Plone Day 2026 | [sketches/daily/y2026_m04/d16/__main__.py](sketches/daily/y2026_m04/d16/__main__.py) | ![2026-04-16](sketches/daily/y2026_m04/d16/2026-04-16.png) |
 | [2026-04-17](sketches/daily/y2026_m04/d17) | Dyson 07 / Language 19 | [sketches/daily/y2026_m04/d17/__main__.py](sketches/daily/y2026_m04/d17/__main__.py) | ![2026-04-17](sketches/daily/y2026_m04/d17/2026-04-17.png) |
 | [2026-04-18](sketches/daily/y2026_m04/d18) | Oscar Schmidt | [sketches/daily/y2026_m04/d18/__main__.py](sketches/daily/y2026_m04/d18/__main__.py) | ![2026-04-18](sketches/daily/y2026_m04/d18/2026-04-18.png) |
+| [2026-04-19](sketches/daily/y2026_m04/d19) | Sunset over the ocean | [sketches/daily/y2026_m04/d19/__main__.py](sketches/daily/y2026_m04/d19/__main__.py) | ![2026-04-19](sketches/daily/y2026_m04/d19/2026-04-19.png) |
 <!-- Next Item -->
 
 ### 2025
