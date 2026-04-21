@@ -131,6 +131,7 @@ You can follow this project also on:
 | [2026-04-18](sketches/daily/y2026_m04/d18) | Oscar Schmidt | [sketches/daily/y2026_m04/d18/__main__.py](sketches/daily/y2026_m04/d18/__main__.py) | ![2026-04-18](sketches/daily/y2026_m04/d18/2026-04-18.png) |
 | [2026-04-19](sketches/daily/y2026_m04/d19) | Sunset over the ocean | [sketches/daily/y2026_m04/d19/__main__.py](sketches/daily/y2026_m04/d19/__main__.py) | ![2026-04-19](sketches/daily/y2026_m04/d19/2026-04-19.png) |
 | [2026-04-20](sketches/daily/y2026_m04/d20) | Sunset over the ocean 02 | [sketches/daily/y2026_m04/d20/__main__.py](sketches/daily/y2026_m04/d20/__main__.py) | ![2026-04-20](sketches/daily/y2026_m04/d20/2026-04-20.png) |
+| [2026-04-21](sketches/daily/y2026_m04/d21) | Petals 01 | [sketches/daily/y2026_m04/d21/__main__.py](sketches/daily/y2026_m04/d21/__main__.py) | ![2026-04-21](sketches/daily/y2026_m04/d21/2026-04-21.png) |
 <!-- Next Item -->
 
 ### 2025
