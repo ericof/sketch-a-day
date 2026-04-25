@@ -135,6 +135,7 @@ You can follow this project also on:
 | [2026-04-22](sketches/daily/y2026_m04/d22) | Petals 02 | [sketches/daily/y2026_m04/d22/__main__.py](sketches/daily/y2026_m04/d22/__main__.py) | ![2026-04-22](sketches/daily/y2026_m04/d22/2026-04-22.png) |
 | [2026-04-23](sketches/daily/y2026_m04/d23) | Petals 03 | [sketches/daily/y2026_m04/d23/__main__.py](sketches/daily/y2026_m04/d23/__main__.py) | ![2026-04-23](sketches/daily/y2026_m04/d23/2026-04-23.png) |
 | [2026-04-24](sketches/daily/y2026_m04/d24) | Vitral 01 | [sketches/daily/y2026_m04/d24/__main__.py](sketches/daily/y2026_m04/d24/__main__.py) | ![2026-04-24](sketches/daily/y2026_m04/d24/2026-04-24.png) |
+| [2026-04-25](sketches/daily/y2026_m04/d25) | Vitral 02 | [sketches/daily/y2026_m04/d25/__main__.py](sketches/daily/y2026_m04/d25/__main__.py) | ![2026-04-25](sketches/daily/y2026_m04/d25/2026-04-25.png) |
 <!-- Next Item -->
 
 ### 2025
