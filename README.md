@@ -144,6 +144,7 @@ You can follow this project also on:
 | [2026-05-01](sketches/daily/y2026_m05/d01) | Vitral 08 | [sketches/daily/y2026_m05/d01/__main__.py](sketches/daily/y2026_m05/d01/__main__.py) | ![2026-05-01](sketches/daily/y2026_m05/d01/2026-05-01.png) |
 | [2026-05-02](sketches/daily/y2026_m05/d02) | STXP | [sketches/daily/y2026_m05/d02/__main__.py](sketches/daily/y2026_m05/d02/__main__.py) | ![2026-05-02](sketches/daily/y2026_m05/d02/2026-05-02.png) |
 | [2026-05-03](sketches/daily/y2026_m05/d03) | Vitral 09 | [sketches/daily/y2026_m05/d03/__main__.py](sketches/daily/y2026_m05/d03/__main__.py) | ![2026-05-03](sketches/daily/y2026_m05/d03/2026-05-03.png) |
+| [2026-05-04](sketches/daily/y2026_m05/d04) | Vitral 10 | [sketches/daily/y2026_m05/d04/__main__.py](sketches/daily/y2026_m05/d04/__main__.py) | ![2026-05-04](sketches/daily/y2026_m05/d04/2026-05-04.png) |
 <!-- Next Item -->
 
 ### 2025
