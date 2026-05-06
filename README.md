@@ -146,6 +146,7 @@ You can follow this project also on:
 | [2026-05-03](sketches/daily/y2026_m05/d03) | Vitral 09 | [sketches/daily/y2026_m05/d03/__main__.py](sketches/daily/y2026_m05/d03/__main__.py) | ![2026-05-03](sketches/daily/y2026_m05/d03/2026-05-03.png) |
 | [2026-05-04](sketches/daily/y2026_m05/d04) | Vitral 10 | [sketches/daily/y2026_m05/d04/__main__.py](sketches/daily/y2026_m05/d04/__main__.py) | ![2026-05-04](sketches/daily/y2026_m05/d04/2026-05-04.png) |
 | [2026-05-05](sketches/daily/y2026_m05/d05) | Vitral 11 | [sketches/daily/y2026_m05/d05/__main__.py](sketches/daily/y2026_m05/d05/__main__.py) | ![2026-05-05](sketches/daily/y2026_m05/d05/2026-05-05.png) |
+| [2026-05-06](sketches/daily/y2026_m05/d06) | MaySiXth (MSX Day) | [sketches/daily/y2026_m05/d06/__main__.py](sketches/daily/y2026_m05/d06/__main__.py) | ![2026-05-06](sketches/daily/y2026_m05/d06/2026-05-06.png) |
 <!-- Next Item -->
 
 ### 2025
