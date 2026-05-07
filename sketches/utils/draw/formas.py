@@ -8,8 +8,9 @@ def _gera_forma(lados: int = 3) -> py5.Py5Shape:
     pontos = []
     x, y = 0, 0
     largura = 1
-    passo = 360 // lados
-    for angulo in range(0, 360, passo):
+    passo = 360 / lados
+    for i in range(lados):
+        angulo = i * passo
         x += np.cos(py5.radians(angulo)) * largura
         y += np.sin(py5.radians(angulo)) * largura
         pontos.append((x, y))
