@@ -152,6 +152,7 @@ You can follow this project also on:
 | [2026-05-09](sketches/daily/y2026_m05/d09) | Counting 03 (Chaos 02) | [sketches/daily/y2026_m05/d09/__main__.py](sketches/daily/y2026_m05/d09/__main__.py) | ![2026-05-09](sketches/daily/y2026_m05/d09/2026-05-09.png) |
 | [2026-05-10](sketches/daily/y2026_m05/d10) | Counting 04 (Chaos 03) | [sketches/daily/y2026_m05/d10/__main__.py](sketches/daily/y2026_m05/d10/__main__.py) | ![2026-05-10](sketches/daily/y2026_m05/d10/2026-05-10.png) |
 | [2026-05-11](sketches/daily/y2026_m05/d11) | Counting 05 (Chaos 04) | [sketches/daily/y2026_m05/d11/__main__.py](sketches/daily/y2026_m05/d11/__main__.py) | ![2026-05-11](sketches/daily/y2026_m05/d11/2026-05-11.png) |
+| [2026-05-12](sketches/daily/y2026_m05/d12) | Crescimento 01 | [sketches/daily/y2026_m05/d12/__main__.py](sketches/daily/y2026_m05/d12/__main__.py) | ![2026-05-12](sketches/daily/y2026_m05/d12/2026-05-12.png) |
 <!-- Next Item -->
 
 ### 2025
