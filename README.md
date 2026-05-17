@@ -157,6 +157,7 @@ You can follow this project also on:
 | [2026-05-14](sketches/daily/y2026_m05/d14) | Crescimento 03 | [sketches/daily/y2026_m05/d14/__main__.py](sketches/daily/y2026_m05/d14/__main__.py) | ![2026-05-14](sketches/daily/y2026_m05/d14/2026-05-14.png) |
 | [2026-05-15](sketches/daily/y2026_m05/d15) | Crescimento 04 | [sketches/daily/y2026_m05/d15/__main__.py](sketches/daily/y2026_m05/d15/__main__.py) | ![2026-05-15](sketches/daily/y2026_m05/d15/2026-05-15.png) |
 | [2026-05-16](sketches/daily/y2026_m05/d16) | Crescimento 04 | [sketches/daily/y2026_m05/d16/__main__.py](sketches/daily/y2026_m05/d16/__main__.py) | ![2026-05-16](sketches/daily/y2026_m05/d16/2026-05-16.png) |
+| [2026-05-17](sketches/daily/y2026_m05/d17) | Crescimento 05 | [sketches/daily/y2026_m05/d17/__main__.py](sketches/daily/y2026_m05/d17/__main__.py) | ![2026-05-17](sketches/daily/y2026_m05/d17/2026-05-17.png) |
 <!-- Next Item -->
 
 ### 2025
