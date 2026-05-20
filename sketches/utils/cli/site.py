@@ -3,10 +3,13 @@ from prettyconf import config
 from sketches.utils.data import Sketch
 from uuid import uuid4
 
+import os
 import requests
 
 
 BASE_REPO_URL = "https://github.com/ericof/sketch-a-day/tree"
+
+TIMEOUT: int = int(os.environ.get("SITE_TIMEOUT", 20))
 
 
 def site_settings() -> dict:
@@ -72,7 +75,7 @@ def post_to_site(sketch: Sketch, commit_hash: str = ""):
         "blocks_layout": {"items": blocks_layout},
         "subjects": info.tags,
     }
-    response = session.post(settings["base_url"], json=payload, timeout=20)
+    response = session.post(settings["base_url"], json=payload, timeout=TIMEOUT)
     if response.status_code != 201:
         msg = f"Error posting to site: {response.status_code} - {response.text}"
         raise Exception(msg)
