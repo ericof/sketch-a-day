@@ -508,6 +508,10 @@ PALETAS = {
             "#ffffff",
         ],
     ),
+    "orange-blau": Paleta(
+        "orange-blau",
+        ["#7ec0e0", "#1c8eaf", "#032035", "#fdaa08", "#f87109"],
+    ),
 }
 
 
