@@ -171,6 +171,7 @@ You can follow this project also on:
 | [2026-05-28](sketches/daily/y2026_m05/d28) | Planning Session 01 | [sketches/daily/y2026_m05/d28/__main__.py](sketches/daily/y2026_m05/d28/__main__.py) | ![2026-05-28](sketches/daily/y2026_m05/d28/2026-05-28.png) |
 | [2026-05-29](sketches/daily/y2026_m05/d29) | Planning Session 02 | [sketches/daily/y2026_m05/d29/__main__.py](sketches/daily/y2026_m05/d29/__main__.py) | ![2026-05-29](sketches/daily/y2026_m05/d29/2026-05-29.png) |
 | [2026-05-30](sketches/daily/y2026_m05/d30) | Planning Session 03 | [sketches/daily/y2026_m05/d30/__main__.py](sketches/daily/y2026_m05/d30/__main__.py) | ![2026-05-30](sketches/daily/y2026_m05/d30/2026-05-30.png) |
+| [2026-05-31](sketches/daily/y2026_m05/d31) | Planning Session 04 | [sketches/daily/y2026_m05/d31/__main__.py](sketches/daily/y2026_m05/d31/__main__.py) | ![2026-05-31](sketches/daily/y2026_m05/d31/2026-05-31.png) |
 <!-- Next Item -->
 
 ### 2025
