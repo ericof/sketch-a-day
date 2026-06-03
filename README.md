@@ -174,6 +174,7 @@ You can follow this project also on:
 | [2026-05-31](sketches/daily/y2026_m05/d31) | Planning Session 04 | [sketches/daily/y2026_m05/d31/__main__.py](sketches/daily/y2026_m05/d31/__main__.py) | ![2026-05-31](sketches/daily/y2026_m05/d31/2026-05-31.png) |
 | [2026-06-01](sketches/daily/y2026_m06/d01) | Planning Session 05 | [sketches/daily/y2026_m06/d01/__main__.py](sketches/daily/y2026_m06/d01/__main__.py) | ![2026-06-01](sketches/daily/y2026_m06/d01/2026-06-01.png) |
 | [2026-06-02](sketches/daily/y2026_m06/d02) | Caquinhos / Ladrilhos 01 | [sketches/daily/y2026_m06/d02/__main__.py](sketches/daily/y2026_m06/d02/__main__.py) | ![2026-06-02](sketches/daily/y2026_m06/d02/2026-06-02.png) |
+| [2026-06-03](sketches/daily/y2026_m06/d03) | Caquinhos / Ladrilhos 02 | [sketches/daily/y2026_m06/d03/__main__.py](sketches/daily/y2026_m06/d03/__main__.py) | ![2026-06-03](sketches/daily/y2026_m06/d03/2026-06-03.png) |
 <!-- Next Item -->
 
 ### 2025
