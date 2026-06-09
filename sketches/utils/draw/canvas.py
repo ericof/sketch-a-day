@@ -23,6 +23,9 @@ STYLES: dict[str, TextBoxStyle] = {
     "light": TextBoxStyle(color="#000", background_color="#FFF", stroke="#000"),
     "transparent": TextBoxStyle(color="#000", background_color=None, stroke=None),
     "transparent_white": TextBoxStyle(color="#FFF", background_color=None, stroke=None),
+    "large_transparent": TextBoxStyle(
+        color="#000", background_color=None, stroke=None, font_size=24
+    ),
     "large_transparent_white": TextBoxStyle(
         color="#FFF", background_color=None, stroke=None, font_size=24
     ),
@@ -123,6 +126,7 @@ def sketch_frame(
         py5.translate(0, 0, z)
         with py5.push():
             py5.rect_mode(py5.CORNER)
+            py5.stroke(cor_fundo)
             py5.fill(cor_fundo)
             buraco = py5.create_shape(
                 py5.RECT, *sketch.size.pos_interno, *sketch.size.internal
