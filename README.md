@@ -186,6 +186,7 @@ You can follow this project also on:
 | [2026-06-12](sketches/daily/y2026_m06/d12) | My Valentine'Day | [sketches/daily/y2026_m06/d12/__main__.py](sketches/daily/y2026_m06/d12/__main__.py) | ![2026-06-12](sketches/daily/y2026_m06/d12/2026-06-12.png) |
 | [2026-06-13](sketches/daily/y2026_m06/d13) | Caquinhos / Ladrilhos 11 | [sketches/daily/y2026_m06/d13/__main__.py](sketches/daily/y2026_m06/d13/__main__.py) | ![2026-06-13](sketches/daily/y2026_m06/d13/2026-06-13.png) |
 | [2026-06-14](sketches/daily/y2026_m06/d14) | Caquinhos / Ladrilhos 12 | [sketches/daily/y2026_m06/d14/__main__.py](sketches/daily/y2026_m06/d14/__main__.py) | ![2026-06-14](sketches/daily/y2026_m06/d14/2026-06-14.png) |
+| [2026-06-15](sketches/daily/y2026_m06/d15) | Caquinhos / Ladrilhos 13 | [sketches/daily/y2026_m06/d15/__main__.py](sketches/daily/y2026_m06/d15/__main__.py) | ![2026-06-15](sketches/daily/y2026_m06/d15/2026-06-15.png) |
 <!-- Next Item -->
 
 ### 2025
