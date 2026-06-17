@@ -188,6 +188,7 @@ You can follow this project also on:
 | [2026-06-14](sketches/daily/y2026_m06/d14) | Caquinhos / Ladrilhos 12 | [sketches/daily/y2026_m06/d14/__main__.py](sketches/daily/y2026_m06/d14/__main__.py) | ![2026-06-14](sketches/daily/y2026_m06/d14/2026-06-14.png) |
 | [2026-06-15](sketches/daily/y2026_m06/d15) | Caquinhos / Ladrilhos 13 | [sketches/daily/y2026_m06/d15/__main__.py](sketches/daily/y2026_m06/d15/__main__.py) | ![2026-06-15](sketches/daily/y2026_m06/d15/2026-06-15.png) |
 | [2026-06-16](sketches/daily/y2026_m06/d16) | Caquinhos / Ladrilhos 14 | [sketches/daily/y2026_m06/d16/__main__.py](sketches/daily/y2026_m06/d16/__main__.py) | ![2026-06-16](sketches/daily/y2026_m06/d16/2026-06-16.png) |
+| [2026-06-17](sketches/daily/y2026_m06/d17) | Caquinhos / Ladrilhos 15 | [sketches/daily/y2026_m06/d17/__main__.py](sketches/daily/y2026_m06/d17/__main__.py) | ![2026-06-17](sketches/daily/y2026_m06/d17/2026-06-17.png) |
 <!-- Next Item -->
 
 ### 2025
