@@ -30,7 +30,7 @@ help: ## This help message
 .PHONY: clean
 clean: ## Clean installation and instance
 	@echo "$(RED)==> Cleaning environment and build$(RESET)"
-	@rm -rf $(VENV_FOLDER)
+	@rm -rf $(VENV_FOLDER) .*_cache
 
 
 $(VENV_FOLDER): ## Install dependencies
