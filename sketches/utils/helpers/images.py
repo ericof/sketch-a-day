@@ -2,6 +2,7 @@ from pathlib import Path
 from PIL import Image
 
 import cv2
+import math
 import numpy as np
 import py5
 import sketches
@@ -99,34 +100,75 @@ def _area_assinada(poly: list[tuple[float, float]]) -> float:
 
 
 def estencil_como_forma(
-    arr: np.ndarray, cor: int, limiar: int = 127, epsilon: float = 2.0
+    arr: np.ndarray,
+    cor: int,
+    limiar: int = 127,
+    epsilon: float = 2.0,
+    profundidade: float = 1.0,
 ) -> py5.Py5Shape:
-    """Constroi o estencil da mascara: o painel preenchido com a silhueta vazada.
+    """Constroi o estencil da mascara como um prisma com a silhueta vazada.
 
-    O contorno externo e o retangulo do painel; cada silhueta transparente vira
-    um furo (``begin_contour``), com giro oposto ao do painel para que o py5 o
-    interprete como negativo -- e por esses furos que os caquinhos aparecem.
+    A face frontal e o retangulo do painel com cada silhueta transparente como
+    furo (``begin_contour``, giro oposto ao do painel para virar negativo). Cada
+    furo ganha paredes ligando a face frontal -- em ``z = profundidade``, voltada
+    para a camera -- ate a base em ``z = 0``, de modo que a abertura tenha
+    profundidade visivel: um poco com a forma da silhueta por onde se ve o fundo.
+    Com ``profundidade = 1`` (padrao) o prisma e praticamente plano, equivalente
+    ao estencil chapado original.
 
     :param arr: Mascara RGBA no formato ``(h, w, 4)``.
-    :param cor: Cor de preenchimento do painel.
+    :param cor: Cor de preenchimento do painel e das paredes.
     :param limiar: Corte de alpha repassado a :func:`contornos_da_mascara`.
     :param epsilon: Tolerancia repassada a :func:`contornos_da_mascara`.
-    :returns: ``Py5Shape`` plano do painel com os recortes vazados.
+    :param profundidade: Altura da extrusao em z; a face frontal fica em
+        ``z = profundidade`` e as paredes de cada furo descem ate ``z = 0``.
+    :returns: ``GROUP`` com a face frontal vazada e as paredes de cada furo.
     """
     h, w = arr.shape[:2]
     painel = [(0.0, 0.0), (float(w), 0.0), (float(w), float(h)), (0.0, float(h))]
     giro_painel = _area_assinada(painel)
-    forma = py5.create_shape()
-    forma.set_fill(cor)
-    forma.set_stroke_weight(0)
-    with forma.begin_closed_shape():
+    furos = []
+    for poly in contornos_da_mascara(arr, limiar, epsilon):
+        # O furo precisa girar ao contrario do painel para virar negativo.
+        if _area_assinada(poly) * giro_painel > 0:
+            poly = list(reversed(poly))
+        furos.append(poly)
+
+    grupo = py5.create_shape(py5.GROUP)
+
+    # Face frontal: painel vazado, voltado para a camera em z = profundidade.
+    frente = py5.create_shape()
+    frente.set_fill(cor)
+    frente.set_stroke_weight(0)
+    with frente.begin_closed_shape():
+        frente.normal(0, 0, 1)
         for x, y in painel:
-            forma.vertex(x, y)
-        for poly in contornos_da_mascara(arr, limiar, epsilon):
-            # O furo precisa girar ao contrario do painel para virar negativo.
-            if _area_assinada(poly) * giro_painel > 0:
-                poly = list(reversed(poly))
-            with forma.begin_contour():
+            frente.vertex(x, y, profundidade)
+        for poly in furos:
+            with frente.begin_contour():
                 for x, y in poly:
-                    forma.vertex(x, y)
-    return forma
+                    frente.vertex(x, y, profundidade)
+    grupo.add_child(frente)
+
+    # Paredes: uma face por aresta de furo, da frente (z=profundidade) a base (z=0).
+    for poly in furos:
+        n = len(poly)
+        for i in range(n):
+            x0, y0 = poly[i]
+            x1, y1 = poly[(i + 1) % n]
+            dx, dy = x1 - x0, y1 - y0
+            comp = math.hypot(dx, dy) or 1.0
+            # Normal no plano xy apontando para dentro da abertura; inverta o
+            # sinal se as paredes ficarem escuras ao habilitar luzes no estencil.
+            nx, ny = -dy / comp, dx / comp
+            parede = py5.create_shape()
+            parede.set_fill(cor)
+            parede.set_stroke_weight(0)
+            with parede.begin_closed_shape():
+                parede.normal(nx, ny, 0)
+                parede.vertex(x0, y0, profundidade)
+                parede.vertex(x1, y1, profundidade)
+                parede.vertex(x1, y1, 0)
+                parede.vertex(x0, y0, 0)
+            grupo.add_child(parede)
+    return grupo
