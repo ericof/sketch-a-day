@@ -105,6 +105,8 @@ def estencil_como_forma(
     limiar: int = 127,
     epsilon: float = 2.0,
     profundidade: float = 1.0,
+    escala: float = 1.0,
+    origem: tuple[float, float] = (0.0, 0.0),
 ) -> py5.Py5Shape:
     """Constroi o estencil da mascara como um prisma com a silhueta vazada.
 
@@ -121,10 +123,21 @@ def estencil_como_forma(
     :param limiar: Corte de alpha repassado a :func:`contornos_da_mascara`.
     :param epsilon: Tolerancia repassada a :func:`contornos_da_mascara`.
     :param profundidade: Altura da extrusao em z; a face frontal fica em
-        ``z = profundidade`` e as paredes de cada furo descem ate ``z = 0``.
+        ``z = profundidade`` e as paredes de cada furo descem ate ``z = 0``. Nao
+        e afetada por ``escala`` -- a profundidade e uniforme entre celulas.
+    :param escala: Fator aplicado a x e y de cada vertice, para encaixar o
+        estencil numa celula menor (ex.: ``0.5`` para meia largura).
+    :param origem: Deslocamento ``(x, y)`` somado apos a escala, para posicionar
+        o estencil (ex.: a origem da celula numa grade).
     :returns: ``GROUP`` com a face frontal vazada e as paredes de cada furo.
     """
     h, w = arr.shape[:2]
+    ox, oy = origem
+
+    def t(x: float, y: float) -> tuple[float, float]:
+        """Aplica escala e origem a um ponto ``(x, y)`` do espaco da mascara."""
+        return ox + x * escala, oy + y * escala
+
     painel = [(0.0, 0.0), (float(w), 0.0), (float(w), float(h)), (0.0, float(h))]
     giro_painel = _area_assinada(painel)
     furos = []
@@ -143,11 +156,11 @@ def estencil_como_forma(
     with frente.begin_closed_shape():
         frente.normal(0, 0, 1)
         for x, y in painel:
-            frente.vertex(x, y, profundidade)
+            frente.vertex(*t(x, y), profundidade)
         for poly in furos:
             with frente.begin_contour():
                 for x, y in poly:
-                    frente.vertex(x, y, profundidade)
+                    frente.vertex(*t(x, y), profundidade)
     grupo.add_child(frente)
 
     # Paredes: uma face por aresta de furo, da frente (z=profundidade) a base (z=0).
@@ -166,9 +179,9 @@ def estencil_como_forma(
             parede.set_stroke_weight(0)
             with parede.begin_closed_shape():
                 parede.normal(nx, ny, 0)
-                parede.vertex(x0, y0, profundidade)
-                parede.vertex(x1, y1, profundidade)
-                parede.vertex(x1, y1, 0)
-                parede.vertex(x0, y0, 0)
+                parede.vertex(*t(x0, y0), profundidade)
+                parede.vertex(*t(x1, y1), profundidade)
+                parede.vertex(*t(x1, y1), 0)
+                parede.vertex(*t(x0, y0), 0)
             grupo.add_child(parede)
     return grupo
