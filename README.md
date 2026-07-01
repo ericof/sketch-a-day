@@ -202,6 +202,7 @@ You can follow this project also on:
 | [2026-06-28](sketches/daily/y2026_m06/d28) | Caquinhos Redux 08 | [sketches/daily/y2026_m06/d28/__main__.py](sketches/daily/y2026_m06/d28/__main__.py) | ![2026-06-28](sketches/daily/y2026_m06/d28/2026-06-28.png) |
 | [2026-06-29](sketches/daily/y2026_m06/d29) | Caquinhos Redux 09 | [sketches/daily/y2026_m06/d29/__main__.py](sketches/daily/y2026_m06/d29/__main__.py) | ![2026-06-29](sketches/daily/y2026_m06/d29/2026-06-29.png) |
 | [2026-06-30](sketches/daily/y2026_m06/d30) | Caquinhos Redux 10 | [sketches/daily/y2026_m06/d30/__main__.py](sketches/daily/y2026_m06/d30/__main__.py) | ![2026-06-30](sketches/daily/y2026_m06/d30/2026-06-30.png) |
+| [2026-07-01](sketches/daily/y2026_m07/d01) | Caquinhos Redux 11 | [sketches/daily/y2026_m07/d01/__main__.py](sketches/daily/y2026_m07/d01/__main__.py) | ![2026-07-01](sketches/daily/y2026_m07/d01/2026-07-01.png) |
 <!-- Next Item -->
 
 ### 2025
