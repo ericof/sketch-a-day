@@ -205,6 +205,7 @@ You can follow this project also on:
 | [2026-07-01](sketches/daily/y2026_m07/d01) | Caquinhos Redux 11 | [sketches/daily/y2026_m07/d01/__main__.py](sketches/daily/y2026_m07/d01/__main__.py) | ![2026-07-01](sketches/daily/y2026_m07/d01/2026-07-01.png) |
 | [2026-07-02](sketches/daily/y2026_m07/d02) | Caquinhos Redux 12 | [sketches/daily/y2026_m07/d02/__main__.py](sketches/daily/y2026_m07/d02/__main__.py) | ![2026-07-02](sketches/daily/y2026_m07/d02/2026-07-02.png) |
 | [2026-07-03](sketches/daily/y2026_m07/d03) | Recursive Squares 01 | [sketches/daily/y2026_m07/d03/__main__.py](sketches/daily/y2026_m07/d03/__main__.py) | ![2026-07-03](sketches/daily/y2026_m07/d03/2026-07-03.png) |
+| [2026-07-04](sketches/daily/y2026_m07/d04) | Recursive Squares 02 | [sketches/daily/y2026_m07/d04/__main__.py](sketches/daily/y2026_m07/d04/__main__.py) | ![2026-07-04](sketches/daily/y2026_m07/d04/2026-07-04.png) |
 <!-- Next Item -->
 
 ### 2025
