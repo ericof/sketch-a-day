@@ -1,7 +1,9 @@
 {
   "ruff.organizeImports": true,
   "python.terminal.activateEnvironment": true,
-  "flake8.enabled": false,
+  "python-envs.workspaceSearchPaths": [
+    ".venv"
+  ],
   "[python]": {
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
