@@ -211,6 +211,7 @@ You can follow this project also on:
 | [2026-07-07](sketches/daily/y2026_m07/d07) | Recursive Squares 05 | [sketches/daily/y2026_m07/d07/__main__.py](sketches/daily/y2026_m07/d07/__main__.py) | ![2026-07-07](sketches/daily/y2026_m07/d07/2026-07-07.png) |
 | [2026-07-08](sketches/daily/y2026_m07/d08) | Recursive Squares 06 | [sketches/daily/y2026_m07/d08/__main__.py](sketches/daily/y2026_m07/d08/__main__.py) | ![2026-07-08](sketches/daily/y2026_m07/d08/2026-07-08.png) |
 | [2026-07-09](sketches/daily/y2026_m07/d09) | Recursive Squares 07 | [sketches/daily/y2026_m07/d09/__main__.py](sketches/daily/y2026_m07/d09/__main__.py) | ![2026-07-09](sketches/daily/y2026_m07/d09/2026-07-09.png) |
+| [2026-07-10](sketches/daily/y2026_m07/d10) | Recursive Squares 07 | [sketches/daily/y2026_m07/d10/__main__.py](sketches/daily/y2026_m07/d10/__main__.py) | ![2026-07-10](sketches/daily/y2026_m07/d10/2026-07-10.png) |
 <!-- Next Item -->
 
 ### 2025
