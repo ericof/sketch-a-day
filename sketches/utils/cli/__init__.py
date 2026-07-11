@@ -3,6 +3,7 @@ from .readme import update_readme
 from .repo import commit_changes
 from .site import post_to_site
 from sketches.utils.helpers.dates import process_day
+from sketches.utils.helpers.paths import sketch_path_for_day
 from sketches.utils.helpers.sketches import sketch_for_day
 from sketches.utils.helpers.sketches import sketch_info_for_day
 from sketches.utils.mapas import _expandir_bbox
@@ -30,6 +31,15 @@ def create(day: Annotated[str, typer.Argument(help=DAY_HELP)]):
     day = process_day(day)
     typer.echo(f"Creating sketch for day {day}")
     create_new_sketch(day)
+
+
+@app.command(name="path")
+def path(day: Annotated[str, typer.Argument(help=DAY_HELP)]):
+    """Print the path to the sketch for a given day."""
+    day = process_day(day)
+    dst = sketch_path_for_day(day)
+    path = f"{dst}/__main__.py"
+    typer.echo(path)
 
 
 @app.command(name="readme")
