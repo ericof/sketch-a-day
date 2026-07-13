@@ -214,6 +214,7 @@ You can follow this project also on:
 | [2026-07-10](sketches/daily/y2026_m07/d10) | Recursive Squares 07 | [sketches/daily/y2026_m07/d10/__main__.py](sketches/daily/y2026_m07/d10/__main__.py) | ![2026-07-10](sketches/daily/y2026_m07/d10/2026-07-10.png) |
 | [2026-07-11](sketches/daily/y2026_m07/d11) | Recursive Squares 08 | [sketches/daily/y2026_m07/d11/__main__.py](sketches/daily/y2026_m07/d11/__main__.py) | ![2026-07-11](sketches/daily/y2026_m07/d11/2026-07-11.png) |
 | [2026-07-12](sketches/daily/y2026_m07/d12) | Concêntricos 01 | [sketches/daily/y2026_m07/d12/__main__.py](sketches/daily/y2026_m07/d12/__main__.py) | ![2026-07-12](sketches/daily/y2026_m07/d12/2026-07-12.png) |
+| [2026-07-13](sketches/daily/y2026_m07/d13) | Concêntricos 02 | [sketches/daily/y2026_m07/d13/__main__.py](sketches/daily/y2026_m07/d13/__main__.py) | ![2026-07-13](sketches/daily/y2026_m07/d13/2026-07-13.png) |
 <!-- Next Item -->
 
 ### 2025
