@@ -219,6 +219,7 @@ You can follow this project also on:
 | [2026-07-15](sketches/daily/y2026_m07/d15) | Concêntricos 04 | [sketches/daily/y2026_m07/d15/__main__.py](sketches/daily/y2026_m07/d15/__main__.py) | ![2026-07-15](sketches/daily/y2026_m07/d15/2026-07-15.png) |
 | [2026-07-16](sketches/daily/y2026_m07/d16) | (Não) Concêntricos 05 | [sketches/daily/y2026_m07/d16/__main__.py](sketches/daily/y2026_m07/d16/__main__.py) | ![2026-07-16](sketches/daily/y2026_m07/d16/2026-07-16.png) |
 | [2026-07-17](sketches/daily/y2026_m07/d17) | (Não) Concêntricos 06 | [sketches/daily/y2026_m07/d17/__main__.py](sketches/daily/y2026_m07/d17/__main__.py) | ![2026-07-17](sketches/daily/y2026_m07/d17/2026-07-17.png) |
+| [2026-07-18](sketches/daily/y2026_m07/d18) | (Não) Concêntricos 07 | [sketches/daily/y2026_m07/d18/__main__.py](sketches/daily/y2026_m07/d18/__main__.py) | ![2026-07-18](sketches/daily/y2026_m07/d18/2026-07-18.png) |
 <!-- Next Item -->
 
 ### 2025
