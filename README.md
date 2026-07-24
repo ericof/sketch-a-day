@@ -225,6 +225,7 @@ You can follow this project also on:
 | [2026-07-21](sketches/daily/y2026_m07/d21) | Formas Geométricas 02 | [sketches/daily/y2026_m07/d21/__main__.py](sketches/daily/y2026_m07/d21/__main__.py) | ![2026-07-21](sketches/daily/y2026_m07/d21/2026-07-21.png) |
 | [2026-07-22](sketches/daily/y2026_m07/d22) | Formas Geométricas 03 | [sketches/daily/y2026_m07/d22/__main__.py](sketches/daily/y2026_m07/d22/__main__.py) | ![2026-07-22](sketches/daily/y2026_m07/d22/2026-07-22.png) |
 | [2026-07-23](sketches/daily/y2026_m07/d23) | Formas Geométricas 04 | [sketches/daily/y2026_m07/d23/__main__.py](sketches/daily/y2026_m07/d23/__main__.py) | ![2026-07-23](sketches/daily/y2026_m07/d23/2026-07-23.png) |
+| [2026-07-24](sketches/daily/y2026_m07/d24) | Formas Geométricas 05 | [sketches/daily/y2026_m07/d24/__main__.py](sketches/daily/y2026_m07/d24/__main__.py) | ![2026-07-24](sketches/daily/y2026_m07/d24/2026-07-24.png) |
 <!-- Next Item -->
 
 ### 2025
