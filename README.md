@@ -235,6 +235,7 @@ You can follow this project also on:
 | [2026-07-31](sketches/daily/y2026_m07/d31) | Formas Geométricas Redux 07 | [sketches/daily/y2026_m07/d31/__main__.py](sketches/daily/y2026_m07/d31/__main__.py) | ![2026-07-31](sketches/daily/y2026_m07/d31/2026-07-31.png) |
 | [2026-08-01](sketches/daily/y2026_m08/d01) | Formas Geométricas Redux 08 | [sketches/daily/y2026_m08/d01/__main__.py](sketches/daily/y2026_m08/d01/__main__.py) | ![2026-08-01](sketches/daily/y2026_m08/d01/2026-08-01.png) |
 | [2026-08-02](sketches/daily/y2026_m08/d02) | Formas Geométricas Redux 09 | [sketches/daily/y2026_m08/d02/__main__.py](sketches/daily/y2026_m08/d02/__main__.py) | ![2026-08-02](sketches/daily/y2026_m08/d02/2026-08-02.png) |
+| [2026-08-03](sketches/daily/y2026_m08/d03) | Grow a seed 01 | [sketches/daily/y2026_m08/d03/__main__.py](sketches/daily/y2026_m08/d03/__main__.py) | ![2026-08-03](sketches/daily/y2026_m08/d03/2026-08-03.png) |
 <!-- Next Item -->
 
 ### 2025
