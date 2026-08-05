@@ -237,6 +237,7 @@ You can follow this project also on:
 | [2026-08-02](sketches/daily/y2026_m08/d02) | Formas Geométricas Redux 09 | [sketches/daily/y2026_m08/d02/__main__.py](sketches/daily/y2026_m08/d02/__main__.py) | ![2026-08-02](sketches/daily/y2026_m08/d02/2026-08-02.png) |
 | [2026-08-03](sketches/daily/y2026_m08/d03) | Grow a seed 01 | [sketches/daily/y2026_m08/d03/__main__.py](sketches/daily/y2026_m08/d03/__main__.py) | ![2026-08-03](sketches/daily/y2026_m08/d03/2026-08-03.png) |
 | [2026-08-04](sketches/daily/y2026_m08/d04) | BraSil 01 | [sketches/daily/y2026_m08/d04/__main__.py](sketches/daily/y2026_m08/d04/__main__.py) | ![2026-08-04](sketches/daily/y2026_m08/d04/2026-08-04.png) |
+| [2026-08-05](sketches/daily/y2026_m08/d05) | BraSil 02 | [sketches/daily/y2026_m08/d05/__main__.py](sketches/daily/y2026_m08/d05/__main__.py) | ![2026-08-05](sketches/daily/y2026_m08/d05/2026-08-05.png) |
 <!-- Next Item -->
 
 ### 2025
