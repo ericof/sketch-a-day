@@ -239,6 +239,7 @@ You can follow this project also on:
 | [2026-08-04](sketches/daily/y2026_m08/d04) | BraSil 01 | [sketches/daily/y2026_m08/d04/__main__.py](sketches/daily/y2026_m08/d04/__main__.py) | ![2026-08-04](sketches/daily/y2026_m08/d04/2026-08-04.png) |
 | [2026-08-05](sketches/daily/y2026_m08/d05) | BraSil 02 | [sketches/daily/y2026_m08/d05/__main__.py](sketches/daily/y2026_m08/d05/__main__.py) | ![2026-08-05](sketches/daily/y2026_m08/d05/2026-08-05.png) |
 | [2026-08-06](sketches/daily/y2026_m08/d06) | BraSil 02 | [sketches/daily/y2026_m08/d06/__main__.py](sketches/daily/y2026_m08/d06/__main__.py) | ![2026-08-06](sketches/daily/y2026_m08/d06/2026-08-06.png) |
+| [2026-08-07](sketches/daily/y2026_m08/d07) | Acumulando Pontos 01 | [sketches/daily/y2026_m08/d07/__main__.py](sketches/daily/y2026_m08/d07/__main__.py) | ![2026-08-07](sketches/daily/y2026_m08/d07/2026-08-07.png) |
 <!-- Next Item -->
 
 ### 2025
