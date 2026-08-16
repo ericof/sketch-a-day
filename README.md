@@ -248,6 +248,7 @@ You can follow this project also on:
 | [2026-08-13](sketches/daily/y2026_m08/d13) | Particles 01 | [sketches/daily/y2026_m08/d13/__main__.py](sketches/daily/y2026_m08/d13/__main__.py) | ![2026-08-13](sketches/daily/y2026_m08/d13/2026-08-13.png) |
 | [2026-08-14](sketches/daily/y2026_m08/d14) | Particles 02 | [sketches/daily/y2026_m08/d14/__main__.py](sketches/daily/y2026_m08/d14/__main__.py) | ![2026-08-14](sketches/daily/y2026_m08/d14/2026-08-14.png) |
 | [2026-08-15](sketches/daily/y2026_m08/d15) | Particles 03 | [sketches/daily/y2026_m08/d15/__main__.py](sketches/daily/y2026_m08/d15/__main__.py) | ![2026-08-15](sketches/daily/y2026_m08/d15/2026-08-15.png) |
+| [2026-08-16](sketches/daily/y2026_m08/d16) | Particles 04 | [sketches/daily/y2026_m08/d16/__main__.py](sketches/daily/y2026_m08/d16/__main__.py) | ![2026-08-16](sketches/daily/y2026_m08/d16/2026-08-16.png) |
 <!-- Next Item -->
 
 ### 2025
