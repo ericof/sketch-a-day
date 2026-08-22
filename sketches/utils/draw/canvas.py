@@ -119,31 +119,44 @@ def sketch_frame(
     z: int = 1,
     msg: str = "",
 ):
-    """Draw the sketch frame with date and credits."""
+    """Draw the sketch frame with date and credits.
+
+    The frame is an overlay, not part of the scene: it is drawn with the depth
+    test off so it always lands on top, whatever z its contents occupy. That is
+    a global renderer hint — ``pushStyle`` does not save the ``hints[]`` array,
+    so :func:`py5.push` would not restore it — which is why the ``finally`` is
+    needed: a failure inside the boxes would otherwise leave every later frame
+    without depth testing, mangling the occlusion of any 3D scene.
+
+    Note that the hint is restored to *enabled*, not to whatever it was before.
+    In JAVA2D the pair is a silent no-op, so 2D sketches are unaffected.
+    """
     py5.hint(py5.DISABLE_DEPTH_TEST)
-    with py5.push():
-        py5.rect_mode(py5.CORNER)
-        py5.shape_mode(py5.CORNER)
-        py5.translate(0, 0, z)
+    try:
         with py5.push():
             py5.rect_mode(py5.CORNER)
-            py5.stroke(cor_fundo)
-            py5.fill(cor_fundo)
-            buraco = py5.create_shape(
-                py5.RECT, *sketch.size.pos_interno, *sketch.size.internal
-            )
-            frame = criar_mascara_furo(buraco, 0, 0, *sketch.size.external)
-            frame.set_fill(cor_fundo)
-            py5.shape(frame)
-        with py5.push():
-            match version:
-                case 1:
-                    date_box(sketch, date_style)
-                case 2:
-                    date_description_box(sketch, date_style)
-        with py5.push():
-            credits_box(sketch, credits_style, msg)
-    py5.hint(py5.ENABLE_DEPTH_TEST)
+            py5.shape_mode(py5.CORNER)
+            py5.translate(0, 0, z)
+            with py5.push():
+                py5.rect_mode(py5.CORNER)
+                py5.stroke(cor_fundo)
+                py5.fill(cor_fundo)
+                buraco = py5.create_shape(
+                    py5.RECT, *sketch.size.pos_interno, *sketch.size.internal
+                )
+                frame = criar_mascara_furo(buraco, 0, 0, *sketch.size.external)
+                frame.set_fill(cor_fundo)
+                py5.shape(frame)
+            with py5.push():
+                match version:
+                    case 1:
+                        date_box(sketch, date_style)
+                    case 2:
+                        date_description_box(sketch, date_style)
+            with py5.push():
+                credits_box(sketch, credits_style, msg)
+    finally:
+        py5.hint(py5.ENABLE_DEPTH_TEST)
 
 
 def save_sketch_image(sketch: SketchInfo):

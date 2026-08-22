@@ -290,10 +290,6 @@ def draw() -> None:
         f"Buffer X: {buffer_x} | Buffer Y: {buffer_y} | Lados: {lados}"
     )
     # Credits and go
-    # O quadro é sobreposição, não geometria: com o teste de profundidade ligado
-    # ele disputa z com o túnel e some assim que algo passa à frente dele. Sem o
-    # teste, o que é desenhado por último vence — que é o comportamento desejado.
-    py5.hint(py5.DISABLE_DEPTH_TEST)
     canvas.sketch_frame(
         sketch,
         cor_fundo,
@@ -302,9 +298,6 @@ def draw() -> None:
         version=2,
         msg=msg,
     )
-    # O hint é estado global do renderer: sem religar, o túnel do próximo quadro
-    # perderia a oclusão entre os cones.
-    py5.hint(py5.ENABLE_DEPTH_TEST)
 
 
 def key_pressed():
