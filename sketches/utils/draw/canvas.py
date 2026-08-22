@@ -120,6 +120,7 @@ def sketch_frame(
     msg: str = "",
 ):
     """Draw the sketch frame with date and credits."""
+    py5.hint(py5.DISABLE_DEPTH_TEST)
     with py5.push():
         py5.rect_mode(py5.CORNER)
         py5.shape_mode(py5.CORNER)
@@ -142,6 +143,7 @@ def sketch_frame(
                     date_description_box(sketch, date_style)
         with py5.push():
             credits_box(sketch, credits_style, msg)
+    py5.hint(py5.ENABLE_DEPTH_TEST)
 
 
 def save_sketch_image(sketch: SketchInfo):
