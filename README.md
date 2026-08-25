@@ -257,6 +257,7 @@ You can follow this project also on:
 | [2026-08-22](sketches/daily/y2026_m08/d22) | Tunnel of Boxes 06 | [sketches/daily/y2026_m08/d22/__main__.py](sketches/daily/y2026_m08/d22/__main__.py) | ![2026-08-22](sketches/daily/y2026_m08/d22/2026-08-22.png) |
 | [2026-08-23](sketches/daily/y2026_m08/d23) | Tunnel of Boxes 07 | [sketches/daily/y2026_m08/d23/__main__.py](sketches/daily/y2026_m08/d23/__main__.py) | ![2026-08-23](sketches/daily/y2026_m08/d23/2026-08-23.png) |
 | [2026-08-24](sketches/daily/y2026_m08/d24) | Tunnel of Boxes 08 | [sketches/daily/y2026_m08/d24/__main__.py](sketches/daily/y2026_m08/d24/__main__.py) | ![2026-08-24](sketches/daily/y2026_m08/d24/2026-08-24.png) |
+| [2026-08-25](sketches/daily/y2026_m08/d25) | Tunnel of Boxes 09 | [sketches/daily/y2026_m08/d25/__main__.py](sketches/daily/y2026_m08/d25/__main__.py) | ![2026-08-25](sketches/daily/y2026_m08/d25/2026-08-25.png) |
 <!-- Next Item -->
 
 ### 2025
