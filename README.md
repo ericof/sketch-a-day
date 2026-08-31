@@ -263,6 +263,7 @@ You can follow this project also on:
 | [2026-08-28](sketches/daily/y2026_m08/d28) | Interferences 03 | [sketches/daily/y2026_m08/d28/__main__.py](sketches/daily/y2026_m08/d28/__main__.py) | ![2026-08-28](sketches/daily/y2026_m08/d28/2026-08-28.png) |
 | [2026-08-29](sketches/daily/y2026_m08/d29) | Interferences 04 | [sketches/daily/y2026_m08/d29/__main__.py](sketches/daily/y2026_m08/d29/__main__.py) | ![2026-08-29](sketches/daily/y2026_m08/d29/2026-08-29.png) |
 | [2026-08-30](sketches/daily/y2026_m08/d30) | Zooming Out 01/06 | [sketches/daily/y2026_m08/d30/__main__.py](sketches/daily/y2026_m08/d30/__main__.py) | ![2026-08-30](sketches/daily/y2026_m08/d30/2026-08-30.png) |
+| [2026-08-31](sketches/daily/y2026_m08/d31) | Zooming Out 02/06 | [sketches/daily/y2026_m08/d31/__main__.py](sketches/daily/y2026_m08/d31/__main__.py) | ![2026-08-31](sketches/daily/y2026_m08/d31/2026-08-31.png) |
 <!-- Next Item -->
 
 ### 2025
