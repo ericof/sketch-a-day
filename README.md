@@ -267,6 +267,7 @@ You can follow this project also on:
 | [2026-09-01](sketches/daily/y2026_m09/d01) | Zooming Out 03/06 | [sketches/daily/y2026_m09/d01/__main__.py](sketches/daily/y2026_m09/d01/__main__.py) | ![2026-09-01](sketches/daily/y2026_m09/d01/2026-09-01.png) |
 | [2026-09-02](sketches/daily/y2026_m09/d02) | Zooming Out 04/06 | [sketches/daily/y2026_m09/d02/__main__.py](sketches/daily/y2026_m09/d02/__main__.py) | ![2026-09-02](sketches/daily/y2026_m09/d02/2026-09-02.png) |
 | [2026-09-03](sketches/daily/y2026_m09/d03) | Zooming Out 05/06 | [sketches/daily/y2026_m09/d03/__main__.py](sketches/daily/y2026_m09/d03/__main__.py) | ![2026-09-03](sketches/daily/y2026_m09/d03/2026-09-03.png) |
+| [2026-09-04](sketches/daily/y2026_m09/d04) | Zooming Out 06/06 | [sketches/daily/y2026_m09/d04/__main__.py](sketches/daily/y2026_m09/d04/__main__.py) | ![2026-09-04](sketches/daily/y2026_m09/d04/2026-09-04.png) |
 <!-- Next Item -->
 
 ### 2025
