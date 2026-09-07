@@ -24,18 +24,31 @@ class Padrao:
     largura: float
     altura: float
     traco: float
+    densidade: int
 
-    def __init__(self, largura: float = 100, altura: float = 100, traco: float = 1):
+    def __init__(
+        self,
+        largura: float = 100,
+        altura: float = 100,
+        traco: float = 1,
+        densidade: int = 1,
+    ):
         """Inicializa o padrão com as dimensões e espessura de traço.
 
-        :param largura: Largura do buffer em pixels.
-        :param altura: Altura do buffer em pixels.
+        :param largura: Largura nominal do padrão em pixels.
+        :param altura: Altura nominal do padrão em pixels.
         :param traco: Espessura base do traço.
+        :param densidade: Fator de supersampling do buffer. Com ``2``, o padrão
+            é rasterizado no dobro da resolução e a imagem devolvida tem o dobro
+            do lado; compor essa imagem no tamanho nominal rende bordas mais
+            suaves. Só vale a pena quando o destino é menor que a imagem — ver
+            :meth:`__call__`.
         """
         self.largura = float(largura)
         self.altura = float(altura)
         self.centro = (self.largura / 2, self.altura / 2)
         self.traco = traco
+        self.densidade = int(densidade)
 
     @property
     def nome(self) -> str:
@@ -50,15 +63,33 @@ class Padrao:
         """
         pass
 
-    def __call__(self, rotacao: float, cores: CoresPadrao) -> py5.Py5Graphics:
-        """Renderiza o padrão e retorna o buffer gráfico resultante.
+    def __call__(self, rotacao: float, cores: CoresPadrao) -> py5.Py5Image:
+        """Renderiza o padrão e retorna a imagem resultante.
+
+        O desenho acontece num :class:`py5.Py5Graphics`, mas o retorno é uma
+        :class:`py5.Py5Image` com os pixels copiados, e isso não é detalhe de
+        implementação: num display Retina o buffer reporta ``pixel_density``
+        igual a 2 enquanto rasteriza em 1x, de modo que :func:`py5.image` pede
+        uma região-fonte do dobro do tamanho da textura. As coordenadas passam
+        de ``1.0``, clampam na borda, e o resultado é o quadrante superior-
+        esquerdo do padrão ampliado com faixas esticadas no resto. Uma
+        ``Py5Image`` não carrega densidade e compõe corretamente.
+
+        A imagem devolvida tem lado ``largura * densidade``. Com *densidade*
+        maior que ``1``, componha-a explicitamente no tamanho nominal — a forma
+        de três argumentos de :func:`py5.image` usa o tamanho nativo e
+        desenharia o padrão grande demais.
 
         :param rotacao: Ângulo de rotação em graus.
         :param cores: Cores a usar no desenho.
-        :returns: Buffer :class:`py5.Py5Graphics` com o padrão renderizado.
+        :returns: Imagem :class:`py5.Py5Image` com o padrão renderizado.
         """
-        pg = py5.create_graphics(int(self.largura), int(self.altura), py5.P3D)
+        densidade = self.densidade
+        pg = py5.create_graphics(
+            int(self.largura * densidade), int(self.altura * densidade), py5.P3D
+        )
         with pg.begin_draw():
+            pg.scale(densidade)
             pg.stroke(self.traco)
             with pg.push():
                 pg.translate(*self.centro)
@@ -68,7 +99,12 @@ class Padrao:
                 pg.stroke(cores.traco)
                 pg.fill(cores.preenchimento)
                 self.padrao(pg, cores)
-        return pg
+        pg.load_pixels()
+        imagem = py5.create_image(pg.pixel_width, pg.pixel_height, py5.ARGB)
+        imagem.load_pixels()
+        imagem.pixels[:] = pg.pixels[:]
+        imagem.update_pixels()
+        return imagem
 
 
 @dataclass
@@ -160,18 +196,12 @@ class Celula:
         :param cores: Cores a usar no desenho.
         :param desenha: Se ``False``, retorna ``None`` sem desenhar.
         :param z: Coordenada z opcional para translação 3D.
+        :param pg: Buffer alvo do desenho; ``None`` desenha no canvas principal.
         :returns: A imagem renderizada, ou ``None`` se *desenha* for ``False``.
         """
         if not desenha:
             return None
-        pg_interno = padrao(rotacao, cores)
-        pg_interno.load_pixels()
-        imagem = py5.create_image(
-            pg_interno.pixel_width, pg_interno.pixel_height, py5.ARGB
-        )
-        imagem.load_pixels()
-        imagem.pixels[:] = pg_interno.pixels[:]
-        imagem.update_pixels()
+        imagem = padrao(rotacao, cores)
         coordenadas: list[float] = [self.x, self.y]
         if self.borda:
             self._desenha_borda(pg)
