@@ -65,7 +65,8 @@ class RaiosCanto(tipos.Padrao):
         pg.ellipse_mode(py5.CENTER)
         with py5.push():
             pg.no_fill()
-            for raio in range(self.largura * 2, 5, -10):
+            limite = int(self.largura * 2)
+            for raio in range(limite, 5, -10):
                 pg.circle(*self.centro, raio)
 
 
