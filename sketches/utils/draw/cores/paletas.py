@@ -1,5 +1,6 @@
 from collections import deque
 from dataclasses import dataclass
+from typing import Literal
 from typing import overload
 
 import py5
@@ -525,9 +526,9 @@ def lista_paletas(tipo: str = "simples") -> list[str]:
 
 
 @overload
-def gera_paleta(nome: str, como_deque: bool = False) -> list[str | int]: ...
+def gera_paleta(nome: str, como_deque: Literal[False] = False) -> list[int]: ...
 @overload
-def gera_paleta(nome: str, como_deque: bool = True) -> deque[str | int]: ...
+def gera_paleta(nome: str, como_deque: Literal[True]) -> deque[int]: ...
 def gera_paleta(nome, como_deque=False):
     """Retorna lista de cores a partir da paleta escolhida."""
     if (paleta := PALETAS.get(nome)) is None:
