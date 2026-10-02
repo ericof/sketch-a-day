@@ -295,6 +295,7 @@ You can follow this project also on:
 | [2026-09-29](sketches/daily/y2026_m09/d29) | Padrões 25 | [sketches/daily/y2026_m09/d29/__main__.py](sketches/daily/y2026_m09/d29/__main__.py) | ![2026-09-29](sketches/daily/y2026_m09/d29/2026-09-29.png) |
 | [2026-09-30](sketches/daily/y2026_m09/d30) | Padrões 26 | [sketches/daily/y2026_m09/d30/__main__.py](sketches/daily/y2026_m09/d30/__main__.py) | ![2026-09-30](sketches/daily/y2026_m09/d30/2026-09-30.png) |
 | [2026-10-01](sketches/daily/y2026_m10/d01) | Divisões redux 01 | [sketches/daily/y2026_m10/d01/__main__.py](sketches/daily/y2026_m10/d01/__main__.py) | ![2026-10-01](sketches/daily/y2026_m10/d01/2026-10-01.png) |
+| [2026-10-02](sketches/daily/y2026_m10/d02) | Divisões redux 02 | [sketches/daily/y2026_m10/d02/__main__.py](sketches/daily/y2026_m10/d02/__main__.py) | ![2026-10-02](sketches/daily/y2026_m10/d02/2026-10-02.png) |
 <!-- Next Item -->
 
 ### 2025
