@@ -27,6 +27,12 @@ def carrega_aquivo_texto(filename: str) -> str:
     return path.read_text()
 
 
+def carrega_svg_forma(filename: str) -> py5.Py5Shape:
+    """Carrega arquivo SVG e retorna como Py5Shape."""
+    path = caminho_arquivo(filename)
+    return py5.load_shape(str(path))
+
+
 def carrega_imagem_cache(filename: str) -> py5.Py5Image | None:
     """Carrega imagem do cache e retorna caminho do arquivo."""
     path = CACHE_FOLDER / filename
