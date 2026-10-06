@@ -299,6 +299,7 @@ You can follow this project also on:
 | [2026-10-03](sketches/daily/y2026_m10/d03) | Divisões redux 03 | [sketches/daily/y2026_m10/d03/__main__.py](sketches/daily/y2026_m10/d03/__main__.py) | ![2026-10-03](sketches/daily/y2026_m10/d03/2026-10-03.png) |
 | [2026-10-04](sketches/daily/y2026_m10/d04) | Divisões redux 04 | [sketches/daily/y2026_m10/d04/__main__.py](sketches/daily/y2026_m10/d04/__main__.py) | ![2026-10-04](sketches/daily/y2026_m10/d04/2026-10-04.png) |
 | [2026-10-05](sketches/daily/y2026_m10/d05) | Hope 01 | [sketches/daily/y2026_m10/d05/__main__.py](sketches/daily/y2026_m10/d05/__main__.py) | ![2026-10-05](sketches/daily/y2026_m10/d05/2026-10-05.png) |
+| [2026-10-06](sketches/daily/y2026_m10/d06) | Hope 02 | [sketches/daily/y2026_m10/d06/__main__.py](sketches/daily/y2026_m10/d06/__main__.py) | ![2026-10-06](sketches/daily/y2026_m10/d06/2026-10-06.png) |
 <!-- Next Item -->
 
 ### 2025
