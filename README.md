@@ -307,6 +307,7 @@ You can follow this project also on:
 | [2026-10-11](sketches/daily/y2026_m10/d11) | Hope 07 (or not) | [sketches/daily/y2026_m10/d11/__main__.py](sketches/daily/y2026_m10/d11/__main__.py) | ![2026-10-11](sketches/daily/y2026_m10/d11/2026-10-11.png) |
 | [2026-10-12](sketches/daily/y2026_m10/d12) | Hope 08 (or not) | [sketches/daily/y2026_m10/d12/__main__.py](sketches/daily/y2026_m10/d12/__main__.py) | ![2026-10-12](sketches/daily/y2026_m10/d12/2026-10-12.png) |
 | [2026-10-13](sketches/daily/y2026_m10/d13) | Hope 09 (or not) | [sketches/daily/y2026_m10/d13/__main__.py](sketches/daily/y2026_m10/d13/__main__.py) | ![2026-10-13](sketches/daily/y2026_m10/d13/2026-10-13.png) |
+| [2026-10-14](sketches/daily/y2026_m10/d14) | Hope 10 (or not) | [sketches/daily/y2026_m10/d14/__main__.py](sketches/daily/y2026_m10/d14/__main__.py) | ![2026-10-14](sketches/daily/y2026_m10/d14/2026-10-14.png) |
 <!-- Next Item -->
 
 ### 2025
