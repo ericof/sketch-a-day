@@ -320,6 +320,7 @@ You can follow this project also on:
 | [2026-10-24](sketches/daily/y2026_m10/d24) | Hope redux 08 (A very plural country) | [sketches/daily/y2026_m10/d24/__main__.py](sketches/daily/y2026_m10/d24/__main__.py) | ![2026-10-24](sketches/daily/y2026_m10/d24/2026-10-24.png) |
 | [2026-10-25](sketches/daily/y2026_m10/d25) | Hope redux 09 | [sketches/daily/y2026_m10/d25/__main__.py](sketches/daily/y2026_m10/d25/__main__.py) | ![2026-10-25](sketches/daily/y2026_m10/d25/2026-10-25.png) |
 | [2026-10-26](sketches/daily/y2026_m10/d26) | Pro dia nascer feliz | [sketches/daily/y2026_m10/d26/__main__.py](sketches/daily/y2026_m10/d26/__main__.py) | ![2026-10-26](sketches/daily/y2026_m10/d26/2026-10-26.png) |
+| [2026-10-27](sketches/daily/y2026_m10/d27) | Esfera 01 | [sketches/daily/y2026_m10/d27/__main__.py](sketches/daily/y2026_m10/d27/__main__.py) | ![2026-10-27](sketches/daily/y2026_m10/d27/2026-10-27.png) |
 <!-- Next Item -->
 
 ### 2025

@@ -63,6 +63,24 @@ create: ## Create a new sketch
 	@echo "$(GREEN)==> Create a new sketch for a given date $(RESET)"
 	@uv run sketches create
 
+# Yesterday
+.PHONY: create-yesterday
+create-yesterday: ## Create a new sketch for yesterday
+	@echo "$(GREEN)==> Create a new sketch for yesterday $(RESET)"
+	@uv run sketches create yesterday
+
+.PHONY: run-yesterday
+run-yesterday: ## Run yesterday's sketch
+	@echo "$(GREEN)==> Run yesterday's sketch $(RESET)"
+	@uv run py5-live-coding "$$(uv run sketches path yesterday)"
+
+.PHONY: publish-yesterday
+publish-yesterday: ## Publish yesterday's sketch
+	@echo "$(GREEN)==> Publish yesterday's sketch $(RESET)"
+	@uv run sketches all yesterday
+
+
+# Today
 .PHONY: create-today
 create-today: ## Create a new sketch for today
 	@echo "$(GREEN)==> Create a new sketch for today $(RESET)"
