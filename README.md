@@ -324,6 +324,7 @@ You can follow this project also on:
 | [2026-10-28](sketches/daily/y2026_m10/d28) | Esfera 02 | [sketches/daily/y2026_m10/d28/__main__.py](sketches/daily/y2026_m10/d28/__main__.py) | ![2026-10-28](sketches/daily/y2026_m10/d28/2026-10-28.png) |
 | [2026-10-29](sketches/daily/y2026_m10/d29) | Esfera 03 | [sketches/daily/y2026_m10/d29/__main__.py](sketches/daily/y2026_m10/d29/__main__.py) | ![2026-10-29](sketches/daily/y2026_m10/d29/2026-10-29.png) |
 | [2026-10-30](sketches/daily/y2026_m10/d30) | Esfera 04 | [sketches/daily/y2026_m10/d30/__main__.py](sketches/daily/y2026_m10/d30/__main__.py) | ![2026-10-30](sketches/daily/y2026_m10/d30/2026-10-30.png) |
+| [2026-10-31](sketches/daily/y2026_m10/d31) | Esfera 05 | [sketches/daily/y2026_m10/d31/__main__.py](sketches/daily/y2026_m10/d31/__main__.py) | ![2026-10-31](sketches/daily/y2026_m10/d31/2026-10-31.png) |
 <!-- Next Item -->
 
 ### 2025
