@@ -329,6 +329,7 @@ You can follow this project also on:
 | [2026-11-02](sketches/daily/y2026_m11/d02) | Esfera 07 (Talvez não tão esférica) | [sketches/daily/y2026_m11/d02/__main__.py](sketches/daily/y2026_m11/d02/__main__.py) | ![2026-11-02](sketches/daily/y2026_m11/d02/2026-11-02.png) |
 | [2026-11-03](sketches/daily/y2026_m11/d03) | Esfera 08 (Talvez não tão esférica) | [sketches/daily/y2026_m11/d03/__main__.py](sketches/daily/y2026_m11/d03/__main__.py) | ![2026-11-03](sketches/daily/y2026_m11/d03/2026-11-03.png) |
 | [2026-11-04](sketches/daily/y2026_m11/d04) | Esfera 09 (Talvez não tão esférica) | [sketches/daily/y2026_m11/d04/__main__.py](sketches/daily/y2026_m11/d04/__main__.py) | ![2026-11-04](sketches/daily/y2026_m11/d04/2026-11-04.png) |
+| [2026-11-05](sketches/daily/y2026_m11/d05) | Cores e esferóide 01 | [sketches/daily/y2026_m11/d05/__main__.py](sketches/daily/y2026_m11/d05/__main__.py) | ![2026-11-05](sketches/daily/y2026_m11/d05/2026-11-05.png) |
 <!-- Next Item -->
 
 ### 2025
