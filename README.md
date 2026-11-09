@@ -333,6 +333,7 @@ You can follow this project also on:
 | [2026-11-06](sketches/daily/y2026_m11/d06) | Cores e esferóide 02 | [sketches/daily/y2026_m11/d06/__main__.py](sketches/daily/y2026_m11/d06/__main__.py) | ![2026-11-06](sketches/daily/y2026_m11/d06/2026-11-06.png) |
 | [2026-11-07](sketches/daily/y2026_m11/d07) | Cores e esferóide 03 | [sketches/daily/y2026_m11/d07/__main__.py](sketches/daily/y2026_m11/d07/__main__.py) | ![2026-11-07](sketches/daily/y2026_m11/d07/2026-11-07.png) |
 | [2026-11-08](sketches/daily/y2026_m11/d08) | Cores e esferóide 04 | [sketches/daily/y2026_m11/d08/__main__.py](sketches/daily/y2026_m11/d08/__main__.py) | ![2026-11-08](sketches/daily/y2026_m11/d08/2026-11-08.png) |
+| [2026-11-09](sketches/daily/y2026_m11/d09) | Cores e esferóide 05 | [sketches/daily/y2026_m11/d09/__main__.py](sketches/daily/y2026_m11/d09/__main__.py) | ![2026-11-09](sketches/daily/y2026_m11/d09/2026-11-09.png) |
 <!-- Next Item -->
 
 ### 2025
