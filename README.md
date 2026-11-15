@@ -339,6 +339,7 @@ You can follow this project also on:
 | [2026-11-12](sketches/daily/y2026_m11/d12) | Cores e planos 03 | [sketches/daily/y2026_m11/d12/__main__.py](sketches/daily/y2026_m11/d12/__main__.py) | ![2026-11-12](sketches/daily/y2026_m11/d12/2026-11-12.png) |
 | [2026-11-13](sketches/daily/y2026_m11/d13) | Cores e planos 04 | [sketches/daily/y2026_m11/d13/__main__.py](sketches/daily/y2026_m11/d13/__main__.py) | ![2026-11-13](sketches/daily/y2026_m11/d13/2026-11-13.png) |
 | [2026-11-14](sketches/daily/y2026_m11/d14) | Cores e planos 05 | [sketches/daily/y2026_m11/d14/__main__.py](sketches/daily/y2026_m11/d14/__main__.py) | ![2026-11-14](sketches/daily/y2026_m11/d14/2026-11-14.png) |
+| [2026-11-15](sketches/daily/y2026_m11/d15) | Cores e planos 06 | [sketches/daily/y2026_m11/d15/__main__.py](sketches/daily/y2026_m11/d15/__main__.py) | ![2026-11-15](sketches/daily/y2026_m11/d15/2026-11-15.png) |
 <!-- Next Item -->
 
 ### 2025
