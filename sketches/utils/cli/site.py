@@ -1,4 +1,3 @@
-from pathlib import Path
 from plone_client import PloneClient
 from plone_client import blocks
 from plone_client import file_data
@@ -7,8 +6,6 @@ from sketches.utils.data import Sketch
 
 import os
 
-
-BASE_REPO_URL = "https://github.com/ericof/sketch-a-day/tree"
 
 API_PREFIX = "++api++"
 
@@ -47,11 +44,6 @@ def _code_block(
         wrapLongLines=wrap,
         style="dark",
     )
-
-
-def _construct_repo_url(path: Path, commit_hash: str = "") -> str:
-    """Construct the URL for the sketch."""
-    return f"{BASE_REPO_URL}/{commit_hash}/{path}"
 
 
 def post_to_site(sketch: Sketch, commit_hash: str = "") -> str:
