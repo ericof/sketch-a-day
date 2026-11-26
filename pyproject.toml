@@ -37,6 +37,7 @@ dependencies = [
     "osmnx>=2.0.4",
     "wordcloud>=1.9.4",
     "python-slugify>=8.0.4",
+    "plone-client>=1.0.0a5",
 ]
 
 [tool.hatch.version]

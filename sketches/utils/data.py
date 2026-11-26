@@ -1,4 +1,3 @@
-from base64 import b64encode
 from dataclasses import dataclass
 from datetime import date
 from datetime import datetime
@@ -97,12 +96,6 @@ class Sketch:
     commit_hash: str | None = None
     commit_date: datetime | None = None
     url: str = ""
-
-    def blob(self):
-        """Blob data."""
-        info = self.info
-        blob = info.path / info.filename
-        return b64encode(blob.read_bytes())
 
     def code(self):
         """Sketch code data."""
